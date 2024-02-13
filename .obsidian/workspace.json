@@ -1,0 +1,576 @@
+{
+  "main": {
+    "id": "2f925aaadf393986",
+    "type": "split",
+    "children": [
+      {
+        "id": "800a4a9deb3c3c8c",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "83c3221661d787ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDE/IDE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e86e967b872fc581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting-Траблуштинг всего и вся/Дамп.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a3971d277e8caae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Цикл.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acba3d95eab775d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetus/ЦОД.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8034922e5c25b885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetus/Сервер.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f9cbf02b546c589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bb7d578f4053fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java - трого типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5181d9d7357708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CI-CD/SDLC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42dbef6f8b9447f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Краткая информация о инструментах веб-разработки для фронтендера.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7adbbbd49dbc74e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CI-CD/В чем отличие QA от QC и нужны ли обе позиции в компании — рассказывают эксперты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "15f1e1ac0649005b",
+        "type": "tabs",
+        "dimension": 36.673928830791574,
+        "children": [
+          {
+            "id": "e0113f8d40aa2e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP-IP/ICMP - Пинг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "937ca7ecb6528d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Операционная система.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f5562efbde807e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP-IP/Файервол.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fd8b38b71cc9c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кратко о Языках Пограммирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f28ab9cc4f9799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Операторы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1686219b6fff3467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дорожная карта DevOps 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03fb11ae61a22b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дорожная карта DevOps 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3db5c225c2231a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "335676f2861b96a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetus/Кэш.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e202c503d9506ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CI-CD/Приложение - Описание этапов разработки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "65a5010ad909f950",
+        "type": "tabs",
+        "dimension": 29.99273783587509,
+        "children": [
+          {
+            "id": "6723a079406329c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d24d429def581f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Бит, байт - единицы измерения информации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd46c398fe1f6424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting-Траблуштинг всего и вся/Burp Suite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9261eebed9d31f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MongoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cacc5259d5b21f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDE/AppCode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "227edee59c64d219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CI-CD/CI-CD (непрерывная интеграция и доставка) — это технология автоматизации тестирования и доставки новых модулей разрабатываемого проекта заинтересованным сторонам (разработчикам, аналитикам, инженерам качества, конечным пользователям и др.).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceea16a3035042d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting-Траблуштинг всего и вся/Хеширование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b91c855a8416d4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix-Linux Тематика/Debian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bc753836ddad2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning для Нейронок (генерация фото, видео, голосов).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "456d98b25b74cf10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDE/Visual Studio Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8a60ef026f303c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix-Linux Тематика/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c2950c0e2ff6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Программное обеспечение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4491affba15c1aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0ff1e3b93af825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f84554b0915da3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad44b61f04a0f8d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Микросервисная архитектура",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ddaff265a7ddeb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6483dd2377dd624a",
+    "type": "split",
+    "children": [
+      {
+        "id": "93989da6e6ff9601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2094d1d3607fe27c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CI-CD/Приложение - Описание этапов разработки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f31dc2d6dfda0ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CI-CD/Приложение - Описание этапов разработки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72016bcacc5f6743",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afbf2816950316c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CI-CD/Приложение - Описание этапов разработки.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e202c503d9506ad4",
+  "lastOpenFiles": [
+    "CI-CD/Микросервисная архитектура.md",
+    "CI-CD/Приложение - Описание этапов разработки.md",
+    "Exel-GoogleExel/Как работать с Google Таблицами.md",
+    "Unix-Linux Тематика/UNIX.md",
+    "Frontend/Типизация.md",
+    "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
+    "Bash/Программное обеспечение.md",
+    "Kubernetus/Кэш.md",
+    "VIM интсрукция.md",
+    "CI-CD/SDLC.md",
+    "CI-CD/Scrum.md",
+    "Frontend/Sass.md",
+    "Troubleshooting-Траблуштинг всего и вся/Postman.md",
+    "Frontend/PHP.md",
+    "CI-CD/Markdown.md",
+    "Frontend/JavaScript.md",
+    "IT.md",
+    "Frontend/Go (Golang).md",
+    "Deep Learning для Нейронок (генерация фото, видео, голосов).md",
+    "Frontend/Цикл.md",
+    "Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
+    "Bash/API.md",
+    "Troubleshooting-Траблуштинг всего и вся/SSR.md",
+    "SQL/СУБД.md",
+    "Frontend/Апрувить пул-реквест или сленг разработчиков и как его понимать.md",
+    "CI-CD/Стек.md",
+    "Windows",
+    "Exel-GoogleExel",
+    "Python",
+    "IDE",
+    "Java",
+    "Frontend",
+    "Без названия.canvas",
+    "Unix-Linux Тематика",
+    "SQL",
+    "Troubleshooting-Траблуштинг всего и вся",
+    "Bash"
+  ]
+}
