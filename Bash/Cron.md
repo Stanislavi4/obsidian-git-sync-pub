@@ -69,7 +69,7 @@ crontab: installing new crontab
 
 Сначала нужно ввести команду crontab -e. Код в первых трех линиях таблицы нужен для настройки первичных параметров таблицы. Сначала необходимо выбрать оболочку для работы утилиты. У cron нет рекомендаций по оптимальному варианту — планировщик будет стабильно работать в любой оболочке. Если пользователь хочет получать отчеты о работе cron, нужно указать email, куда их отправлять. Третьей строкой прописывается путь к окружению.
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/fvci_zcn4codbwkcv_ztlddkldgfctnbevhpjqybrgq4xsgcre8pj7wtiwcx6ceoi6miuiroudyocekdwxah6pofil3gbcrufj7vwopozqia8pogz7t3_iwimkicf7_4xuhhiv1h2gregqedkedv93g.png)
+![[5f419afba6ab51ec71092ce2d1bb52cd_MD5.png]]
 
 Описание самой задачи начинается с ввода значений в 5 специальных полей, которые указывают, в какое время запустится нужный процесс.
 
@@ -81,7 +81,7 @@ crontab: installing new crontab
 
 Между значениями этих полей необходимо ставить пробелы, чтобы отделять их друг от друга. Чтобы процесс корректно запускался, параметры времени также необходимо отделять пробелом от названия скрипта. 
 
-![Шаблон для создания Cron, можно задать интервал исполнения от минут до месяца](https://blog.skillfactory.ru/wp-content/uploads/2023/02/bztirh2mcxxounx2wrubhrop2er49dlrm-ttwdyd8ru_ofht5xsozdmwnxbbeztd8umuagaocjntkar_7pkpgzchlwlhdvyesn5j-z8ztn25d1moqq_imfulf01bunuldicekdjsdnpwnkyxa53ziue.png)
+![[ef7be18395202a1bc2d50a1926a6edbd_MD5.png]]
 
 Шаблон для создания заданий в Crontab
 
@@ -157,13 +157,13 @@ _20 07 * * * /home/admin/backup_
 - Затем заполняется графа «Путь до файла». Здесь должен быть путь до того скрипта, который будет регулярно запускаться с помощью cron. Например, это может выглядеть так: /home/usr/someusername/thescriptfortest.php. Панели управления также предлагают воспользоваться встроенным файловым менеджером, чтобы упростить работу.
 - На финальном этапе настройки указывается, с какой периодичностью будет исполняться задача. Панель управления предлагает несколько вариантов по умолчанию в стиле «Раз в день», но пользователь может выбрать вариант «Продвинутые настройки» и задать параметры вручную. После этого останется нажать «Создать задачу».
 
-![Так выглядит создание задания Cron в панели управления хостингом](https://blog.skillfactory.ru/wp-content/uploads/2023/02/cladumf80gicdajw20mjzq9c3kfowbhsn-fz5qwqcoh5u6eeuyp-lviqhfglepmtz-l9rjvgoz8usgrkbiujocjnod0dd-85thabc7ewpvb5uuodahkx8hz1koxyxemhfepagsjizbzfnra78h2-rju.png)
+![[3b3d7dade19e4119b222856a332c3ada_MD5.png]]
 
 Создание задачи на панели управления Timeweb
 
 Работа с планировщиком через панель управления легче: пользователю не нужно запоминать синтаксис crontab, вероятность ошибки очень мала. Предлагаем посмотреть, как Cron выглядит в интерфейсе ISPmanager.
 
-![Создание Cron в ISPmanager](https://blog.skillfactory.ru/wp-content/uploads/2023/02/fxdk5qqmpljwe8xzatsnxjbkbi6l8wc6wrw78xkva7wdrep7_qvhixfbwncjcm4sp0vde6f09nbbzanzfpl8t1urjletvsqc4matubr4icbvswuchghkg0gpfz-s3qonlk17be-f0rcwvq9vybfj8ew.png)
+![[dc2efa051934397987649d867ced5b2f_MD5.png]]
 
 Cron в интерфейсе ISPmanager
 
@@ -175,7 +175,7 @@ Cron в интерфейсе ISPmanager
 
 Сайт, который позволяет быстро изучить разные варианты заданий для Cron. Просто введите данные, и сайт самостоятельно сгенерирует конечное задание. Этот веб-ресурс также предлагает подсказки и примеры стандартных задач для планировщика.
 
-![Crontab.guru — Здесь можно cгенерировать задание Cron](https://blog.skillfactory.ru/wp-content/uploads/2023/02/8jy9g3yrblwvvdhp9dsqvb8sjlz0vnbt9niudnnf34juclpwzz-_6zebjwlx9qm6xcswu6arnv9nanycgnnvi-pdzvxoefxjfzgnrayq4mu7uxhvegkqv0cpawc2skaxwdcwjoyr0ebfw2t9jblnbzo.png)
+![[f2be790aa9dc4872e5da6798ea33a691_MD5.png]]
 
 Интерфейс crontab.guru
 
@@ -183,4 +183,4 @@ Cron в интерфейсе ISPmanager
 
 Второй ресурс для генерации кода, который потом можно использовать в crontab-файле. Принцип работы такой же, как у предыдущего сайта: пользователь вводит данные, проставляет флажки в чекбоксы и в итоге нажимает кнопку Generate Crontab Line.
 
-![Crontag Generator — еще один ресурс для создания Cron заданий](https://blog.skillfactory.ru/wp-content/uploads/2023/02/6iro0_qfoqkeddnii1a9cbxchso4tx6fbbb-hgf7yjk73xopog6eucb-_tjanryq81jontfvtbib_ebrfgupm9wacunjgkpljdu80tm90kqosxm1oc5pgwxclbodtjn_gpjnccvvdkjawzprij2swd4.png)
+![[8cf78f3a68000677cc3eea79f1207154_MD5.png]]
