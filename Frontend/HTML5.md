@@ -45,7 +45,7 @@ HTML5 предлагает программные интерфейсы ([API](ht
 
 <a href="http://skillfactory.ru/">НАЖМИ СЮДА</a>
 
-![веб-страница на html5](https://blog.skillfactory.ru/wp-content/uploads/2023/08/html5.png)
+![[c3c6a32166e14a65ec5ab1f37c039bf1_MD5.png]]
 
 Пример страницы на HTML5
 

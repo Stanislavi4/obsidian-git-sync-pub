@@ -48,13 +48,13 @@ console.log('Привет, мир!');
 
 Тогда в браузере благодаря инструкции console.log появится слово «Привет!».
 
-![вывод текста с помощью JavaScript](https://blog.skillfactory.ru/wp-content/uploads/2023/02/image2-3-4.png)
+![[4c38c37f05f8acde239ace1b902d14aa_MD5.png]]
 
 Но обычно для этого создается отдельный файл с расширением .js. Его называют script.js и прописывают код в нем:
 
 console.log(‘Hello world!’)
 
-![вывод в консоль JS](https://blog.skillfactory.ru/wp-content/uploads/2023/02/image1-5-3.png)
+![[f7cdc7d7f8870a2bef52ae6e4d697fa5_MD5.png]]
 
 А в основном коде уже внутри тега script прописывают путь к этому файлу:
 

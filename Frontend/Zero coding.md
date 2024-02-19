@@ -29,7 +29,7 @@
 - Компилятор или интерпретатор, переводящий язык, на котором написано приложение, в машинный код.
 - Средства отладки, тестирования, оптимизации, автоматизации, управления версиями и т. д.
 
-![Zero coding - визуальный интерфейс конструктора сайтов Tilda](https://lh5.googleusercontent.com/gs4mKv7w7SMGjO9wkTU1ruE7wAUbIpYMlHvXXIq9vtG7kuqb91bo-7QdQLeYRGnk9T2GDGzMuv4y53DgxRpyXmdnfeT7h3LxM8LuAMKXlXKu9HOg5kSdGnpTFRV3Z7Jw8WdtNnhi_NMc-ak8EIcpLQ56dmEOlA4dNZUquTMaj7PH4fiyGJQvhnYrlst5OCyhQb2IyYfKIw "Интерфейс Tilda - пример нокодинга")
+![[fc758c5c04c87fdaca89fe682ed2e48b_MD5.png|"Интерфейс Tilda - пример нокодинга"]]
 
 Графический (визуальный) интерфейс конструктора сайтов Tilda
 
