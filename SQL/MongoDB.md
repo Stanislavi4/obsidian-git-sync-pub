@@ -11,7 +11,7 @@
 
 MongoDB — это документоориентированная система управления базами данных, которая не требует описаниясхемы таблиц. Считается одним из классических примеров NoSQL-систем, использует [JSON-подобные](https://blog.skillfactory.ru/glossary/json/) документы и схему базы данных. Написана на языке [C++](https://blog.skillfactory.ru/cplus-komu-i-dlya-chego-nuzhen/).
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/image1-3525695.png)
+![[2a2550a1dbeda426a2aa30343a1e8492_MD5.png]]
 
 Логотип MongoDB
 
@@ -41,7 +41,7 @@ MongoDB имеет открытый исходный код, она беспла
 
 В MongoDB реализована система, при которой данные хранятся в «табличных» документах форматов, близких к [JSON](https://blog.skillfactory.ru/glossary/json/). Информация записывается в виде пар из ключей и значений — как в таблице, в которой есть идентификаторы и соответствующие им данные. Благодаря такому формату в MongoDB можно разместить очень разнообразную и сложно структурированную информацию: документ — более гибкая структура.
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/mongodb_1-8513665.png)
+![[b6cad7a9976fa39cf3ea510ebeb574ab_MD5.png]]
 
 При работе с такими базами SQL не используется, отсюда название NoSQL. Вместо него применяют языки программирования. В случае с MongoDB это [JavaScript](https://blog.skillfactory.ru/glossary/javascript/). Существуют драйверы для поддержки других популярных языков: [Python](https://blog.skillfactory.ru/komu-i-dlya-chego-nuzhen-python/), [Java](https://blog.skillfactory.ru/java-komu-i-dlya-chego-nuzhen/), [C/C++](https://blog.skillfactory.ru/cplus-komu-i-dlya-chego-nuzhen/), [Go](https://blog.skillfactory.ru/glossary/golang/), [PHP](https://blog.skillfactory.ru/glossary/php/), Ruby и прочих.
 

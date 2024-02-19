@@ -32,7 +32,7 @@ streamlit hello
 
 После этой команды на экране должен появиться текст:
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/55ae99f1-f9db-45a9-b63a-25f1607a7441.jpeg)
+![[a838f664bc8626902a7185214a4fd039_MD5.jpg]]
 
 Теперь вы можете перейти по локальному URL localhost:8501 в вашем браузере, чтобы увидеть Streamlit в действии. Разработчики предоставили несколько демо, которые будет интересно изучить. Не торопитесь и постарайтесь понять широкие возможности приложения, прежде чем вернуться к этой статье.
 
@@ -56,7 +56,7 @@ st.write(x, 'squared is', x * x)
 streamlit run helloworld.py
 ```
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/0487843a-4626-42b9-a39e-b6b74129d87d.jpeg)
+![[c5d2d1cbd4357a57346f99015fb061c1_MD5.jpg]]
 
 Вуаля, вы должны увидеть простое приложение в своем браузере по адресу localhost:8501, которое позволит вам двигать слайдер для выбора числа и видеть результат возведения этого числа в квадрат.
 
@@ -83,11 +83,11 @@ streamlit.slider(label, min_value=None, max_value=None, value=None, step=None, f
 
 st.text_input — это самый простой способ получить на вход текст от пользователя — будь это какой-то URL или текст для анализа его тональности. Нужно только передать функции название текстового окна.
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/996f8fa8-c5f2-48de-a53c-b64dd74e9914.png)
+![[3e411010684ceb580b533a9909bf2460_MD5.png]]
 
 Так будет выглядеть готовое приложение:
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/ea955bd8-7511-407d-b351-60c884ee745a.jpeg)
+![[c2b40242c065a0b3b0b42746aaa9a0c8_MD5.jpg]]
 
 **Совет:** Вы можете просто изменить файл helloworld.py и обновить браузер. Я обычно работаю таким образом: открываю и изменяю файл в Sublime Text и наблюдаю за изменениями в браузере расположенном в рядом с окном редактора.
 
@@ -106,7 +106,7 @@ if st.checkbox('Show dataframe'):
    st.write(df)
 ```
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/cb270fd3-3804-4e1a-b8ab-bf66e2b7aff5.jpeg)
+![[e904ff37909119a51421760174f7a4d5_MD5.jpg]]
 
 Готовый чекбокс
 
@@ -125,7 +125,7 @@ option = st.selectbox(
 'You selected: ', option
 ```
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/585ca811-3f3e-4f35-b951-e29d7943f2fd.jpeg)
+![[500c5a0272b4211646b545369bbaac11_MD5.jpg]]
 
 Результат
 
@@ -143,7 +143,7 @@ options = st.multiselect(
 st.write('You selected:', options)
 ```
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/afef1f21-b0f9-4f74-adf1-6c76e80db230.jpeg)
+![[5daaaca78224f77023a158c82c657bfa_MD5.jpg]]
 
 Результат
 
@@ -153,9 +153,9 @@ st.write('You selected:', options)
 
 Начнем с простого: попробуем визуализировать данные футбольных матчей с использованием Streamlit. Это достаточно легко сделать с помощью вышеописанных виджетов:
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/9cbc08bd-8b0b-43cf-8a26-684a6c7d2886-1024x401.png)
+![[3385187386e05bf33e84a27e0332b4e2_MD5.png]]
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/00c4ed96-d6bd-4188-b3f6-4214c5df6420.jpeg)
+![[ef489901582b2c0f7c8a22b353308e5a_MD5.jpg]]
 
 Это было легко. Но результат выглядит достаточно просто, может стоит добавить графиков?
 
@@ -179,7 +179,7 @@ fig = px.scatter(new_df, x ='Overall',y='Age',color='Name')
 st.plotly_chart(fig)
 ```
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/90f74cc4-8fe7-491c-90bc-20d178967e3a-691x1024.jpeg)
+![[b501b13f61b856119c8d992eba4ac0fc_MD5.jpg]]
 
 Результат
 
@@ -235,7 +235,7 @@ fig = px.scatter(new_df, x ='Overall',y='Age',color='Name')
 st.plotly_chart(fig)
 ```
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/03/db1da1d3-7e5b-4d72-8e96-8eb9a25ed784.jpeg)
+![[c300ae36d274dbdea9b817b98ab5bb6c_MD5.jpg]]
 
 Так выглядят готовые боковые виджеты.
 
