@@ -11,7 +11,7 @@ Maven — это инструмент для автоматической сбо
 
 Чаще всего Maven используют [Java-разработчики](https://skillfactory.ru/java-razrabotchik/?utm_source=blog&utm_medium=referral&utm_campaign=maven&utm_content=maven&utm_term=text), однако после установки дополнительных плагинов его также можно применять для работы на [PHP](https://blog.skillfactory.ru/glossary/php/), Ruby, Scala, C/C++ и Groovy.
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/apache_maven_logo.svg-1603498.png)
+![[363a7f2dfeba0bf2af50af7dab093785_MD5.png]]
 
 Логотип системы сборки Apache Maven
 
@@ -81,7 +81,7 @@ Maven — это инструмент для автоматической сбо
 
 Если разработчику нужны отчеты в HTML-формате, можно установить дополнительное расширение для Surefire — [Maven Surefire Report Plugin](http://maven.apache.org/plugins/maven-surefire-report-plugin/). По умолчанию отчеты во всех форматах сохраняются в папке **/target/surefire-reports/.** Плагин Surefire способен выполнять тестирование проекта как самостоятельно, так и в интеграции с другими популярными фреймворками для проведения тестов Java-приложений, например TestNG и Junit.
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/image3-2050583.jpg)
+![[fb585c9bdfa0f24e5c0bca3032029315_MD5.jpg]]
 
 Maven упрощает все этапы разработки и сборки.
 

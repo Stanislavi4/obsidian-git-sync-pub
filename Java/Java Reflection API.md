@@ -22,7 +22,7 @@ Java Reflection API — это программный интерфейс в яз
 - получения доступа к переменным и методам, включая приватные, и к внешним классам;
 - вызова методов объектов по именам.
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/reflection1-6160892.png)
+![[c940c6cf1ceb1e8e23e11a8bc0f632ed_MD5.png]]
 
 Схема работы Reflection API
 

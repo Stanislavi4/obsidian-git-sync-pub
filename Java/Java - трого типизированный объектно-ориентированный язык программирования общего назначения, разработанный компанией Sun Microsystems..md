@@ -78,11 +78,11 @@ Java создан по модели объектно-ориентированн�
 
 Пример кода в Python:
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/1-9660072.png)
+![[eab343536226516ff4c7eb7737e62512_MD5.png]]
 
 Пример кода на Java:
 
-![](https://blog.skillfactory.ru/wp-content/uploads/2023/02/2-8945463.png)
+![[aa54ceea628c3a068724dd0860819197_MD5.png]]
 
 [Источник](https://raygun.com/blog/java-vs-python/)
 
