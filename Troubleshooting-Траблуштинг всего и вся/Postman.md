@@ -21,7 +21,7 @@ API (Application Programming Interface) — это интерфейс для о�
 
 Postman [доступен](https://www.postman.com/downloads/) в виде приложения для Windows, Linux и macOS, а также в web-интерфейсе (для его работы нужно [установить](https://blog.postman.com/introducing-the-postman-agent-send-api-requests-from-your-browser-without-limits/) программу Postman Desktop Agent). Вот как выглядит работа с коллекциями запросов:
 
-![работа в программе Postman](https://blog.skillfactory.ru/wp-content/uploads/2023/02/image1-5-2.png)
+![[d577ad62215a56a22751907a091af1a9_MD5.png]]
 
 1. Коллекция запросов для теста API. Внутри коллекции запросы можно объединять в папки.
 2. Вкладка запроса из коллекции.
