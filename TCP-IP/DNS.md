@@ -49,7 +49,7 @@ DNS-cервер — это такой специальный сервер или
 
 ## Как устроена работа DNS
 
-![Как работает DNS](https://blog.skillfactory.ru/wp-content/uploads/2022/07/dns.png)
+![[b080b249e6cabe5bd4f8b6e02272cfe7_MD5.png]]
 
 Схема работы DNS. [Источник](https://rutube.ru)
 
