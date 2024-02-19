@@ -14,7 +14,7 @@ YAML — это специальный язык для структуриров�
 
 ## Что такое YAML?
 
-![Логотип YAML](https://blog.skillfactory.ru/wp-content/uploads/2023/08/yaml-logo.png)
+![[e8b189ee590d28c2b044772c81febad3_MD5.png]]
 
 Логотип формата YAML. [Источник](http://ru.wikipedia.org/wiki/YAML)
 
