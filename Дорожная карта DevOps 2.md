@@ -6,7 +6,7 @@
 
 Как стать DevOps-инженером в 2022 году и в каком направлении развиваться? Поможет понять дорожная карта:
 
-![Как стать DevOps-инженером в 2022 году: дорожная карта 1](https://media.tproger.ru/uploads/2020/11/DevOps-roadmap-1.png)
+![[469cb9426633b274f0549dce921fa60b_MD5.png]]
 
 Чтобы разобраться в обязанностях такого специалиста, почитайте нашу статью о том, [кто такой DevOps-инженер](https://tproger.ru/articles/devops-engineer/).
 
@@ -34,7 +34,7 @@ DevOps-инженеры обычно изучают Python, Ruby, Node.js, Go, R
 
 Помимо перечисленного, следует понимать сетевую модель OSI и разбираться в её уровнях:
 
-![](https://i.ytimg.com/vi_webp/Tt8BTkxz_Vc/maxresdefault.webp)
+![[14db69851c150f8150f3f623de1db8d8_MD5.webp]]
 
 Также обратите внимание на [SaltStack](https://www.saltstack.com/) — опенсорсный инструмент, использующий push-модель для выполнения команд по протоколу SSH. В нём предусмотрена поддержка шаблонов [YAML](https://tproger.ru/translations/yaml-za-5-minut-sintaksis-i-osnovnye-vozmozhnosti/), а также горизонтального и вертикального масштабирования.
 
@@ -44,7 +44,7 @@ DevOps-инженеры обычно изучают Python, Ruby, Node.js, Go, R
 
 Об одном из наиболее популярных инструментариев в области контейнеризации Docker вы можете узнать из данного видео:
 
-![](https://i.ytimg.com/vi_webp/QF4ZF857m44/maxresdefault.webp)
+![[4e271771f5967d258be9d9aba620b3ea_MD5.webp]]
 
 Всего полтора часа, которые заменят дни поиска в Google, раскуривания мануалов, проб, ошибок и походов на Stack Overflow.
 

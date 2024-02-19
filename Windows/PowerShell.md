@@ -36,11 +36,11 @@ PowerShell является независимым от версии [опера
 
 - Для того чтобы открыть PowerShell **через меню «Пуск»**, пройдите к папке Windows PowerShell, откройте её и выберите необходимое приложение. В этой директории доступны как 32-разрядные версии (отмечены как x86 в скобках), так и 64-разрядные версии терминала и ISE.
 
-![открыть PowerShell можно через Пуск](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-otkritie.jpg)
+![[f1380b983d46d04597af9606e31f6021_MD5.jpg]]
 
 - Чтобы запустить PowerShell **через приложение «Выполнить»**, используйте комбинацию клавиш **Win + R**. Когда появится окно, введите `powershell` или `powershell ise` (в зависимости от того, какое приложение вам нужно) и нажмите кнопку **ОК**.
 
-![открытие PowerShell через команду выполнить](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-otkritie-vipolnit.jpg)
+![[ef8dd55d483044b7b757d92d41258334_MD5.jpg]]
 
 ## Команды (командлеты) PowerShell
 
@@ -84,7 +84,7 @@ Set-Location -LiteralPath C:\ -PassThru
     
     .
 
-![переход в директорию C в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-komandi-1024x346.jpg)
+![[b39f48353b458b6c12ffccd5ca745338_MD5.jpg]]
 
 ==**Важно отметить, что регистр букв в командах PowerShell не имеет значения.**== Таким образом, данную команду можно записать в виде заглавных букв, строчных букв или даже смешанного регистра, и она все равно будет выполняться:
 
@@ -110,7 +110,7 @@ Set-Location `
 
 -PassThru
 
-![разделение длинной команды в powershell обратным апострофом для переноса на новую строку](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-komandi-2.jpg)
+![[ceaefa94f6fbc0cc8e8450a90a66ea66_MD5.jpg]]
 
 #### **ПОЛЕЗНЫЙ СОВЕТ**  
   
@@ -130,7 +130,7 @@ gal
 
 .
 
-![список доступных алиасов в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-get-alias-1024x444.jpg)
+![[1da8f23b0094ccf4ebaacf1ae3f8ffe3_MD5.jpg]]
 
 Чтобы получить список алиасов для конкретного командлета, вы можете использовать параметр
 
@@ -140,7 +140,7 @@ gal
 
 Get-Alias -Definition Set-Location
 
-![список алиасов командлета set-location в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-definition-1024x253.jpg)
+![[25239e727b049eb2fdc6b4bd1b5e87b5_MD5.jpg]]
 
 Если вам нужно узнать полное название командлета по его алиасу, используйте параметр
 
@@ -154,7 +154,7 @@ Get-Alias -Name clear
 
 Get-Alias clear
 
-![работа параметра -Name в PowerShell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-name-1024x367.jpg)
+![[f4bb0b8daeb18d0625ac71a68938af0b_MD5.jpg]]
 
 ### Особенности обработки путей к каталогам
 
@@ -170,7 +170,7 @@ C:\Windows\System32
 
 Set-Location C:\Program Files
 
-![пример некорректной команды в powershell: не удается найти позиционный параметр](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-set-location-1024x205.jpg)
+![[94d4a1e732b9ee744a3515e594ad6ffd_MD5.jpg]]
 
 PowerShell «воспринимает» пробел и интерпретирует его так, будто путь к папке закончился на слове
 
@@ -252,7 +252,7 @@ Get-Help Название-Командлета
 
 Get-Help Get-Childitem
 
-![Get-Help получить информацию о командлете get-childitem в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-get-help-1024x447.jpg)
+![[c77fd802ed8045395098e01b0be9623b_MD5.jpg]]
 
 У команды
 
@@ -303,7 +303,7 @@ PowerShell
 
 Get-Process powershell
 
-![вызов процесса powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-get-process.jpg)
+![[8f8717f7862c6e2a90221b5637a43570_MD5.jpg]]
 
 Мы получаем объект и таблицу, отображающую некоторые его свойства. Чтобы узнать все свойства и методы, давайте передадим этот объект командлету
 
@@ -313,7 +313,7 @@ Get-Member
 
 Get-Process powershell | Get-Member
 
-![get process и get member конвейер в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-member-1024x657.jpg)
+![[5af79bfc2c357a688f6c1444fafd6c71_MD5.jpg]]
 
 Команда
 
@@ -345,7 +345,7 @@ Where-Object
 
 Get-Process powershell | Get-Member | Where-Object {$_.MemberType -eq 'Property'}
 
-![пример работы команды Where-Object в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-property-1024x748.jpg)
+![[0c4deafd82baed04be4b59062e8d4fb3_MD5.jpg]]
 
 Команда
 
@@ -396,7 +396,7 @@ Get-Member
 
 Get-Process powershell | Get-Member | Format-Table -AutoSize -Wrap -GroupBy MemberType -Property Name, Definition
 
-![format table в powershell - форматирование таблицы](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-komanda-1024x550.jpg)
+![[1874a59267059f7afac91a0ce4277391_MD5.jpg]]
 
 Разберем параметры командлета
 
@@ -457,7 +457,7 @@ Format-Table
 
 Get-Process powershell | Get-Member | Sort-Object -Property Name
 
-![сортировка таблиц sort-object в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-sort-object-1024x530.jpg)
+![[147fbaccb98fcd1d89fa552478cec93a_MD5.jpg]]
 
 Командлет Sort-Object в PowerShell имеет также другие полезные параметры:
 
@@ -519,7 +519,7 @@ Get-ChildItem
 
 Get-ChildItem -Path C:\ -Name powershell.exe -Recurse -ErrorAction SilentlyContinue
 
-![поиск файла в powershell с помощью get childitem recurse](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-primer-1024x85.jpg)
+![[d28abdca9b02cc563f725b370ebd8b86_MD5.jpg]]
 
 Очевидно, что во время выполнения задачи, командная строка становится недоступной. Для принудительного прерывания выполнения задачи можно воспользоваться сочетанием клавиш **Ctrl + C**. Важно убедиться, что при этом ничего не выделено, чтобы избежать возможного восприятия компьютером как команды «Копировать».
 
@@ -531,7 +531,7 @@ Start-Job
 
 Start-Job {Get-ChildItem -Path C:\ -Name powershell.exe -Recurse -ErrorAction SilentlyContinue}
 
-![запуск задачи в фоновом режиме в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-skobki-1024x144.jpg)
+![[ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg]]
 
 Параллельно возможно выполнение любого числа фоновых задач. В дополнение к командлету
 
@@ -584,7 +584,7 @@ Get-Job
 
 Get-Job Job1
 
-![выполнение команды get job для отчета о состоянии фоновой задачи](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-job-1024x158.jpg)
+![[508a7d5eb6028d527bd56444a6d35e84_MD5.jpg]]
 
 ## Работа с файлами
 
@@ -650,7 +650,7 @@ Remove-Item -Path "C:\путь\к\файлу\новыйфайл.txt" -Force
 
 Командная оболочка PowerShell представляет собой удобный инструмент для выполнения малых, кратких однострочных задач. Однако для создания и сохранения более сложных сценариев существует интегрированная среда разработки скриптов **PowerShell ISE**.
 
-![Интерфейс среды разработки скриптов PowerShell ISE](https://lh3.googleusercontent.com/s4ab3s4HZ82r92-_zqGVQlyYuhuFVEpgFMEqWKIiHPRaPCzGx6n-IeYXfRAEHoA8GIevlugZLwOR6fW4Hba8n5I5Mv0kx4_aTRYGGJQ9GVsYffWC3d8xx6CENUagKA0IPQO9Yr06ATup1V8QHHhVVMM)
+![[645f701ba90bffc1e35772e7766dccae_MD5.jpg]]
 
 #### **ИМЕЙТЕ В ВИДУ!**  
   
@@ -845,7 +845,7 @@ Set-ExecutionPolicy RemoteSigned
 
 Переменные в могут хранить данные различных типов, и значения в них можно изменять (перезаписывать).
 
-![объявление переменной и ее вызов в powershell ise](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-peremennie.jpg)
+![[fcbb390a1421e2a7a5b6b5c25c76f9e9_MD5.jpg]]
 
 Создадим переменную со строкой `2023` и преобразуем её в число. Для того чтобы узнать тип данных, воспользуемся методом
 
@@ -881,7 +881,7 @@ $intValue
 
 , чтобы **определить её тип данных**.
 
-![определение переменной в powershell](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-tip-peremennoy.jpg)
+![[3fc27e1d329d8c0720b454007687a1a0_MD5.jpg]]
 
 Для **удаления переменной** используется метод
 
@@ -913,7 +913,7 @@ $PSVersionTable
 
 содержит информацию о версии PowerShell.
 
-![узнать версию powershell с помощью системной переменной PSVersionTable](https://blog.skillfactory.ru/wp-content/uploads/2023/08/powershell-versia.jpg)
+![[647504eb465ec09f725e4325c23d2d57_MD5.jpg]]
 
 ## Логические операторы
 

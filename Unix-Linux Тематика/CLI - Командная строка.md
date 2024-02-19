@@ -10,7 +10,7 @@
 
 В операционных системах семейства Windows для десктопов и серверов для запуска командной строки используется программа cmd, а также приложение [Power Shell](https://blog.skillfactory.ru/glossary/powershell/), предоставляющее более широкие возможности автоматизации процессов за счет встроенного языка сценариев, чем стандартная cmd-консоль.
 
-![Окно интерпретатора командной строки в ОС Windows](https://blog.skillfactory.ru/wp-content/uploads/2023/11/konsol-komandnoy-stroki-windows.png)
+![[ca78822087235c47a4fafa8fe7b202bb_MD5.png]]
 
 Консоль командной строки Windows
 
