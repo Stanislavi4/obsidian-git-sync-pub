@@ -53,7 +53,7 @@ color: rgba(256, 256, 256, 0.8);
 
 }
 
-![css без выравнивания](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1389-1024x576.jpeg)
+![[04aeb281d70c5f791efe01c350083e9e_MD5.jpg]]
 
 Вот что получается на странице
 
@@ -67,7 +67,7 @@ color: rgba(256, 256, 256, 0.8);
 
 </div>
 
-![css с двумя текстовыми блоками без выравнивания](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1390-1024x576.jpeg)
+![[4792d2b5d785db84780d0749493e7385_MD5.jpg]]
 
 ## Выравнивание по горизонтали
 
@@ -95,7 +95,7 @@ margin-right: auto;
 
 }
 
-![Текстовые блоки с горизонтальным выравниванием в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1392-1024x576.jpeg)
+![[c206ce33d0c306d1da239a2648bf5424_MD5.jpg]]
 
 Когда у вас на странице несколько блоков, автоотступы помещают каждый новый элемент под прошлым и формируют стопку из блоков. Это важно учитывать при выборе способа выравнивания. Чтобы выровнять блок по центру корректно, автоотступы следует применять для дочерних блоков. Родительские оставляем без изменения. 
 
@@ -123,7 +123,7 @@ display: inline-block;
 
 }
 
-![Текстовые блоки с горизонтальным выравниванием в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1393-1024x576.jpeg)
+![[132747a36ad18ffc3ca067c4abf1568b_MD5.jpg]]
 
 Плюс inline-блоков в том, что их ширина автоматически подстраивается под содержимое. Поэтому ее уже не надо указывать с помощью свойства `width`. Если применить такой тип центровки в CSS к нескольким блокам, то они будут расположены в строчку, но с разной высотой, если содержимое отличается.
 
@@ -147,7 +147,7 @@ justify-content: center;
 
 }
 
-![Текстовые блоки с горизонтальным выравниванием в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1394-1024x576.jpeg)
+![[ed7dca40b41a6638c6b9fa6a7cbf203e_MD5.jpg]]
 
 В случае с Flexbox ширина и высота блоков автоматически подстраиваются под содержимое. Если применить такой тип выравнивания по центру к нескольким блокам, то они будут выстраиваться в одну линию.
 
@@ -185,7 +185,7 @@ transform: translate(0, -50%);
 
 }
 
-![Текстовые блоки с вертикальным выравниванием в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1395-1024x576.jpeg)
+![[6a9318d9ebee4ce10847a9c5d5186280_MD5.jpg]]
 
 ### Flexbox
 
@@ -240,7 +240,7 @@ transform: translate(-50%, -50%);
 
 }
 
-![Текстовый блок с центрированием в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1396-1024x576.jpeg)
+![[6f73cb01cc95e4f5e57ed64238bb7625_MD5.jpg]]
 
 Если попробовать выровнять таким образом несколько блоков, то они наложатся друг на друга.
 
@@ -254,7 +254,7 @@ transform: translate(-50%, -50%);
 
 </div>
 
-![Несколько текстовых блоков с центрированием в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1397-1024x576.jpeg)
+![[1b38cf076a6e5d5b08cf1abb849ec7d8_MD5.jpg]]
 
 ### Flexbox
 
@@ -278,7 +278,7 @@ align-items: center;
 
 }
 
-![Текстовый блок с центрированием в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1398-1024x576.jpeg)
+![[69636469ab64a86ff25aa433fb2bed86_MD5.jpg]]
 
 Способ удобен тем, что новые блоки будут располагаться рядом.
 
@@ -292,7 +292,7 @@ align-items: center;
 
 </div>
 
-![Три текстовых блока с выравниванием по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1399-1024x576.jpeg)
+![[d806b30a9714a14eb56c2ed94f344496_MD5.jpg]]
 
 ### Grid
 
@@ -318,7 +318,7 @@ margin: auto;
 
 }
 
-![Текстовый блок с выравниванием по центру в CSS Grid](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1398-1-1024x576.jpeg)
+![[69636469ab64a86ff25aa433fb2bed86_MD5.jpg]]
 
 Если начать добавлять новые дочерние блоки, то они будут располагаться стопкой друг под другом.
 
@@ -332,7 +332,7 @@ margin: auto;
 
 </div>
 
-![Три текстовых блока с выравниванием по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1400-1024x576.jpeg)
+![[9032419534cd8b2e023ab4e47417f632_MD5.jpg]]
 
 ## Выравнивание текста в CSS
 
@@ -383,7 +383,7 @@ text-align: justify;
 
 }
 
-![Пример выравнивания текста по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1401-1024x576.jpeg)
+![[3ee987915739d8009e2b30a9b428902b_MD5.jpg]]
 
 Значения `left`, `right` и `center` выравнивают текст согласно своим названиям. При этом выравнивается только текст относительно своего блока. Сами блоки продолжают занимать всю ширину родителя. Значение `justify` используется редко из-за того, что оно добавляет неравномерные пробелы. Такой способ применяют только для верстки книг или научных работ.
 
@@ -411,7 +411,7 @@ color: rgba(256, 256, 256, 0.8);
 
 }
 
-![Пример выравнивания заголовка по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1402-1024x576.jpeg)
+![[198bdf779cc8da13a95bf535dafc365a_MD5.jpg]]
 
 ## Выравнивание изображений
 
@@ -437,7 +437,7 @@ align-items: center;
 
 }
 
-![Выравнивание изображения по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1403-1024x576.jpeg)
+![[c5a0b01d6b0dd8033e8bbbecb7022b1a_MD5.jpg]]
 
 Если добавить на страницу несколько изображений, то они будут располагаться рядом друг с другом.
 
@@ -459,7 +459,7 @@ align-items: center;
 
 }
 
-![Выравнивание двух изображений по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1404-1024x576.jpeg)
+![[0ff5adc273ffb52d800cce58bef02fc1_MD5.jpg]]
 
 ### Свойство text-align
 
@@ -479,7 +479,7 @@ text-align: center;
 
 }
 
-![Выравнивание изображения по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1405-1024x576.jpeg)
+![[94419a1045687c7a463071e11b08a12e_MD5.jpg]]
 
 ### Свойства position и transform
 
@@ -513,7 +513,7 @@ transform: translate(-50%, -50%);
 
 }
 
-![Выравнивание изображения по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1406-1024x576.jpeg)
+![[b8a145af706b2fabe1371ee164291c08_MD5.jpg]]
 
 Теперь добавим заголовок и увидим, что он не сместился в центр и остается на своем месте.
 
@@ -551,7 +551,7 @@ transform: translate(-50%, -50%);
 
 }
 
-![Выравнивание заголовка и  изображения по центру в CSS](https://blog.skillfactory.ru/wp-content/uploads/2023/08/img_1407-1024x576.jpeg)
+![[bd1d9c319443c4b994edff53f624ba73_MD5.jpg]]
 
 ## Итог
 
