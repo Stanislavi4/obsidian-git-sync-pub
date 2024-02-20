@@ -11,12 +11,8 @@
             "id": "f9a1a4b9d5fb2958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,33 +142,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9a1a4b9d5fb2958",
+  "active": "2e57c15dcaf54960",
   "lastOpenFiles": [
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/45d8db86268b186504399eb8326dff77.png",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/aface7d1d7af47309747cba7edfaec3a.png",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/7b1b7b131e73485467ebe00b5e5f6b8e.png",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/aface7d1d7af47309747cba7edfaec3a.png.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр",
-    "Windows/PowerShell.md",
-    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/aface7d1d7af47309747cba7edfaec3a.png",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/45d8db86268b186504399eb8326dff77.png",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle.mp4",
-    "SQL/MongoDB.md",
-    "SQL/СУБД.md",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/pok4zmwpbydhjg66eqruxpjwau4.png",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/shmqlhxowdeksdiffvvxbouybvm.png",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/t9ezo9hdupzsc2yxa7iigbsyww0.png",
-    "История IT для понимания основ 1/В 1911 Появление IBM.md",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/bqkyieeyeeg0csmew1ensefiqgg.png",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/3ozvnaa5rjx9mgwiuifunyhpahe.png",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/aface7d1d7af47309747cba7edfaec3a.png",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/45d8db86268b186504399eb8326dff77.png",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр",
     "ffef14ee2e61fb6ce77b52d0f6400aa9_MD5.png",
     "ff481daf6d9e60009c11cf35f882963d_MD5.png",
-    "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
     "Welcome.md",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр",
     "obsosok",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/aface7d1d7af47309747cba7edfaec3a.png.md",
+    "Windows/PowerShell.md",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
+    "SQL/MongoDB.md",
+    "SQL/СУБД.md",
+    "История IT для понимания основ 1/В 1911 Появление IBM.md",
     "SQL/Коротко о База данных.md",
     "SQL/SQL.md",
     "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
@@ -192,8 +188,6 @@
     "obsosok/Bash/Коротко о Bash.md",
     "obsosok/Creating a cluster with kubeadm  Kubernetes",
     "obsosok/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "obsosok/История IT для понимания основ 1",
-    "obsosok/Windows",
-    "obsosok/Unix-Linux Тематика/Unix-древовидная графика"
+    "obsosok/История IT для понимания основ 1"
   ]
 }
