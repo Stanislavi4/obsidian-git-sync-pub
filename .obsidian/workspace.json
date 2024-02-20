@@ -236,8 +236,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64b00f0184a484a5",
+  "active": "2e57c15dcaf54960",
   "lastOpenFiles": [
+    "Без названия",
+    "DevOps-Learn",
     "Как стать VPN провайдером за один вечер  Хабр.md",
     "2024-02-20.md",
     "Kubernetus/tewst.canvas",
@@ -282,7 +284,6 @@
     "SQL/СУБД.md",
     "История IT для понимания основ 1/В 1911 Появление IBM.md",
     "SQL/Коротко о База данных.md",
-    "SQL/SQL.md",
-    "git-backup"
+    "SQL/SQL.md"
   ]
 }
