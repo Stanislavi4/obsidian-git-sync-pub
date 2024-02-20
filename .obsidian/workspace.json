@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be67d489bf08d2d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
+                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
+                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md"
+                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md"
               }
             }
           }
@@ -148,9 +159,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9a1a4b9d5fb2958",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
+    "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md",
+    "Excalidraw",
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/fb94f404877349b2afde716776c1df18.jpg",
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/ef57fa8ff1784596b2a40dd8c9d4d5d6.jpg",
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/82d1ddd342f24e4197380a69f9b5ca27.jpg",
@@ -190,11 +203,9 @@
     "obsosok/asas.md",
     "git-backup",
     "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
-    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle. Реализуем обход по доменам.mp4",
     "obsosok/CI-CD/В чем отличие QA от QC и нужны ли обе позиции в компании — рассказывают эксперты.md",
     "obsosok/CI-CD/GitHub.md",
     "obsosok/Дорожная карта DevOps 3.md",
-    "obsosok/Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
-    "obsosok/VIM интсрукция.md"
+    "obsosok/Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md"
   ]
 }
