@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ee5da5a89d02db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
                 "mode": "source",
                 "source": false
@@ -112,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,13 +229,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80ee5da5a89d02db",
+  "active": "5e88a7a2b2f8a002",
   "lastOpenFiles": [
-    "DevOps-Learn/История IT для понимания основ 1/в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
-    "5f1337583e1e37f36aa6ca27ac132457_MD5.png",
+    "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
     "3ecd5196de2c3f223dc7c54572da079a_MD5.png",
     "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
-    "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
+    "DevOps-Learn/История IT для понимания основ 1/в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
+    "5f1337583e1e37f36aa6ca27ac132457_MD5.png",
     "DevOps-Learn/История IT для понимания основ 1/В 1988 году появления POSIX.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
