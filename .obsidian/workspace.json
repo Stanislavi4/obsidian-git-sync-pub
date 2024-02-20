@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md"
               }
             }
           }
@@ -229,10 +229,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e88a7a2b2f8a002",
+  "active": "2e57c15dcaf54960",
   "lastOpenFiles": [
-    "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
-    "Без названия.md",
+    "DevOps-Learn/История IT для понимания основ 1/Нулевое издание (конец 1969 года) появилось на свет наследница MULTIX - UNIX.md",
+    "DevOps-Learn/История IT для понимания основ 1/В 1988 году появления POSIX.md",
+    "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а.md",
+    "в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1969 г. Пентагон создаёт четыре узла сети ARPAnet — прообраза современной Internet. День 2 сентября 1969 принято считать днём рождения Интернета..md",
@@ -260,8 +262,6 @@
     "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
     "Helping-Sites/Кратко о Языках Пограммирования.md",
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
-    "Helping-Sites/Установка куба на одном ноде (рабочем станции).md",
-    "Helping-Sites/Описание Резюме.md",
     "Helping-Sites",
     "DevOps-Learn",
     "Excalidraw",
