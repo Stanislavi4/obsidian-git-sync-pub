@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c42bde3881a08bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9a1a4b9d5fb2958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
+                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
+                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
+                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md"
+                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md"
               }
             }
           }
@@ -163,15 +150,16 @@
   },
   "active": "f9a1a4b9d5fb2958",
   "lastOpenFiles": [
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/45d8db86268b186504399eb8326dff77.png",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/aface7d1d7af47309747cba7edfaec3a.png",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/7b1b7b131e73485467ebe00b5e5f6b8e.png",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/aface7d1d7af47309747cba7edfaec3a.png.md",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр",
     "Windows/PowerShell.md",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/aface7d1d7af47309747cba7edfaec3a.png",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/7b1b7b131e73485467ebe00b5e5f6b8e.png",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/45d8db86268b186504399eb8326dff77.png",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
@@ -204,8 +192,6 @@
     "obsosok/Bash/Коротко о Bash.md",
     "obsosok/Creating a cluster with kubeadm  Kubernetes",
     "obsosok/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "obsosok/IT.md",
-    "obsosok/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
     "obsosok/История IT для понимания основ 1",
     "obsosok/Windows",
     "obsosok/Unix-Linux Тематика/Unix-древовидная графика"
