@@ -23,11 +23,11 @@
             "id": "6796bca6c7ef802d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
-                "staged": false,
-                "hash": "950c92992b36a3fe9b3308016fc2d85510619a7a"
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Первые действия когда ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+              }
             }
           },
           {
