@@ -186,10 +186,10 @@ wget
 
 
 ```
-sudo --list - смотрим
-sudo deluser <user> sudo
-su root
-adduser <user> sudo
+sudo --list - смотрим права у твоего пользователя
+sudo deluser <user> sudo - удаляем права
+su root - заходим под рут
+adduser <user> sudo - добавляем права пользователю
 ```
 
 ```
