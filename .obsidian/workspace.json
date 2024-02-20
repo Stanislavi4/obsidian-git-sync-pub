@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "Helping-Sites/Известные люди в IT которых обязан знать.md",
+    "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
     "Helping-Sites/Описание Резюме.md",
@@ -244,7 +245,6 @@
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/tewst.canvas",
-    "DevOps-Learn/Kubernetus/Хостинг.md",
     "fe4987ea41d074418157dba8593d63a1_MD5.png",
     "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
     "Helping-Sites",
