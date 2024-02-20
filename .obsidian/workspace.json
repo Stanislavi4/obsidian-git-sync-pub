@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -214,9 +214,9 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
     "763bd371ce0b64db398f74d26489f316_MD5.gif",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
-    "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
     "Helping-Sites/Известные люди в IT которых обязан знать.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
@@ -255,7 +255,6 @@
     "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/82d1ddd342f24e4197380a69f9b5ca27.jpg",
     "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/ba0e801891424484a37251a658a9b3f2.jpg",
     "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/8588040fdd55443ab3ae8b79b6dfb29d.jpg",
-    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/851ab3300d3c4f119db0ded138af21fc.jpg",
     "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр",
     "DevOps-Learn/Как стать VPN провайдером за один вечер  Хабр",
     "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle.mp4",
