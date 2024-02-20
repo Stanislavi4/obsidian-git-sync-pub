@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Коротко о База данных.md",
+                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Коротко о База данных.md",
+                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Коротко о База данных.md",
+                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Коротко о База данных.md"
+                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "4c42bde3881a08bd",
   "lastOpenFiles": [
+    "SQL/Коротко о База данных.md",
     "SQL/SQL.md",
     "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "fbda2932bcca11c76e74c3c72211a6d9_MD5.png",
@@ -188,7 +189,6 @@
     "obsosok/логи wizard1.2.md",
     "obsosok/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
     "obsosok/Кратко о Языках Пограммирования.md",
-    "obsosok/Как новичку правильно оформить профиль GitHub.md",
     "obsosok/История IT для понимания основ 1",
     "obsosok/Windows",
     "obsosok/Unix-Linux Тематика/Unix-древовидная графика",
