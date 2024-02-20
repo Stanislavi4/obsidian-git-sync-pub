@@ -72,7 +72,7 @@ lsblk --fs - улучшений ввид дисков
 ```
 
 ```
-sudo apt smartctltools
+sudo apt install smartctltools
 smartctl  -a  <диск sda> - смарт диска
 ```
 
