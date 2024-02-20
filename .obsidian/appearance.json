@@ -1,5 +1,8 @@
 {
   "accentColor": "#000000",
-  "cssTheme": "Cyber Glow",
-  "theme": "obsidian"
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "baseFontSize": 19,
+  "nativeMenus": false,
+  "translucency": true
 }
