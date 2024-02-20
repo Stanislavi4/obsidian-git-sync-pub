@@ -79,9 +79,14 @@
             "id": "365c0765b9fb28e6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
+                "file": "Kubernetus/Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -152,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
+                "file": "Kubernetus/Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
+                "file": "Kubernetus/Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
+                "file": "Kubernetus/Без названия.canvas"
               }
             }
           }
@@ -217,9 +222,10 @@
   },
   "active": "365c0765b9fb28e6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
-    "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
     "Kubernetus/Коротко о Kubernetus.md",
+    "Kubernetus/Без названия.canvas",
+    "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
     "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md",
     "2024-02-20.md",
     "Как стать VPN провайдером за один вечер  Хабр.md",
@@ -261,7 +267,6 @@
     "История IT для понимания основ 1/В 1911 Появление IBM.md",
     "SQL/Коротко о База данных.md",
     "SQL/SQL.md",
-    "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "git-backup"
   ]
 }
