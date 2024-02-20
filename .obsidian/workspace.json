@@ -74,9 +74,19 @@
                 "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "365c0765b9fb28e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md"
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
               }
             }
           }
@@ -205,10 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4606c13c222e86ba",
+  "active": "365c0765b9fb28e6",
   "lastOpenFiles": [
-    "Kubernetus/Коротко о Kubernetus.md",
     "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
+    "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
+    "Kubernetus/Коротко о Kubernetus.md",
     "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md",
     "2024-02-20.md",
     "Как стать VPN провайдером за один вечер  Хабр.md",
@@ -251,7 +262,6 @@
     "SQL/Коротко о База данных.md",
     "SQL/SQL.md",
     "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
     "git-backup"
   ]
 }

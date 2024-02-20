@@ -75,7 +75,51 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "BNwaXI-laZKytWEyF4OEm",
+        "status": "unpublished",
+        "elements": [
+          {
+            "text": "Kubernetus",
+            "fontSize": 20,
+            "fontFamily": 1,
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "baseline": 18,
+            "id": "2uH0XkAl",
+            "type": "text",
+            "x": -756.25,
+            "y": -216.4453125,
+            "width": 107.11988830566406,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "roundness": null,
+            "seed": 51732,
+            "version": 1,
+            "versionNonce": 79444588,
+            "updated": 1708426766780,
+            "isDeleted": false,
+            "groupIds": [],
+            "boundElements": [],
+            "link": null,
+            "locked": false,
+            "containerId": null,
+            "originalText": "Kubernetus",
+            "rawText": "Kubernetus",
+            "lineHeight": 1.25
+          }
+        ],
+        "created": 1708426770802
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
