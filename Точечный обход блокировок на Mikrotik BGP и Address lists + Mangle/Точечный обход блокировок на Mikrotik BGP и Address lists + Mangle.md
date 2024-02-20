@@ -54,7 +54,7 @@ add action=masquerade chain=srcnat out-interface=wg0
 
 Ещё можно глянуть, что значения Rx и Tx ненулевые в **WireGuard - Peers**
 
-![](%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA%20%D0%BD%D0%B0%20Mikrotik%20BGP%20%D0%B8%20Address%20lists%20+%20Mangle.%20%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC%20%20%D0%A5%D0%B0%D0%B1%D1%80/3ozvnaa5rjx9mgwiuifunyhpahe.png)
+![](3ozvnaa5rjx9mgwiuifunyhpahe.png)
 
 Теперь можно настраивать списки и маршрутизацию.
 
@@ -127,7 +127,7 @@ add chain=bgp_in disabled=no rule="set gw $INTERFACE; accept;"
 
 Либо через winbox\\веб-интерфейс. **Routing - BGP - Sessions**, у поднятой сессии раздел Stats.  
 
-![](%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA%20%D0%BD%D0%B0%20Mikrotik%20BGP%20%D0%B8%20Address%20lists%20+%20Mangle.%20%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC%20%20%D0%A5%D0%B0%D0%B1%D1%80/t9ezo9hdupzsc2yxa7iigbsyww0.png)
+![](t9ezo9hdupzsc2yxa7iigbsyww0.png)
 
 Делайте трассировку с клиента роутера до заблокированного ресурса, маршрут должен проходить через туннель.
 
@@ -208,7 +208,7 @@ add action=change-mss chain=forward new-mss=1380 out-interface=$INTERFACE protoc
 
 Без правки MSS история такая же. Потому что Леруа лежит тоже за Qrator Labs. После правки MSS сайт открывается и вещает:
 
-![](%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA%20%D0%BD%D0%B0%20Mikrotik%20BGP%20%D0%B8%20Address%20lists%20+%20Mangle.%20%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC%20%20%D0%A5%D0%B0%D0%B1%D1%80/pok4zmwpbydhjg66eqruxpjwau4.png)
+![](pok4zmwpbydhjg66eqruxpjwau4.png)
 
 Тут очевидно: надо выкинуть эту подсеть из роута.
 
@@ -224,7 +224,7 @@ set gw wg0; if (dst in 178.248.232.0/22) {reject} else {accept}
 set gw wg0; if (dst in 178.248.236.0/23 || dst in 178.248.232.0/22) {reject} else {accept}
 ```
 
-![](%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA%20%D0%BD%D0%B0%20Mikrotik%20BGP%20%D0%B8%20Address%20lists%20+%20Mangle.%20%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC%20%20%D0%A5%D0%B0%D0%B1%D1%80/bqkyieeyeeg0csmew1ensefiqgg.png)
+![](bqkyieeyeeg0csmew1ensefiqgg.png)
 
 В процессе тестов я обнаружил, что фильтрация на сервисе настроена, скорее всего, по спискам подсетей известных ДЦ. Ситуация, описанная выше, была с известным европейским ДЦ. А когда я использовал, видимо, свежий и "не запаленный" американский IP-адрес, то оба сайта открылись через VPN без проблем. Сайт Леруа не смутил американский IP-адрес, а для Хабра не понадобился костыль с правкой MSS для WG.
 
@@ -377,7 +377,7 @@ $update url=https://antifilter.network/download/subnet.lst listname=vpn-subnet t
 Помещаем его в **System - Scripts - Add new**. Сам скрипт вставляется в поле source.  
 Policy: read, write, test.
 
-![](%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA%20%D0%BD%D0%B0%20Mikrotik%20BGP%20%D0%B8%20Address%20lists%20+%20Mangle.%20%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC%20%20%D0%A5%D0%B0%D0%B1%D1%80/shmqlhxowdeksdiffvvxbouybvm.png)
+![](shmqlhxowdeksdiffvvxbouybvm.png)
 
 Сразу запустим **Run Script**.
 

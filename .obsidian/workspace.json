@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md",
+                "file": "SQL/MongoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md",
+                "file": "SQL/MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md",
+                "file": "SQL/MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История IT для понимания основ 1/В 1911 Появление IBM.md"
+                "file": "SQL/MongoDB.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "4c42bde3881a08bd",
   "lastOpenFiles": [
+    "SQL/СУБД.md",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
+    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/t9ezo9hdupzsc2yxa7iigbsyww0.png",
+    "История IT для понимания основ 1/В 1911 Появление IBM.md",
     "ffef14ee2e61fb6ce77b52d0f6400aa9_MD5.png",
     "ff481daf6d9e60009c11cf35f882963d_MD5.png",
     "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
@@ -159,15 +163,12 @@
     "fd4ab20c8e55d8df6b16865dde5c7a32_MD5.png",
     "fd2be69c0e74afa41631624aeb50d7cf_MD5.png",
     "fcbb390a1421e2a7a5b6b5c25c76f9e9_MD5.jpg",
-    "fc758c5c04c87fdaca89fe682ed2e48b_MD5.png",
-    "fc4eebf68bd96003a8de876ed7c19bf5_MD5.png",
     "Welcome.md",
     "obsosok",
     "SQL/Коротко о База данных.md",
     "SQL/SQL.md",
     "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "Windows/PowerShell.md",
-    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
     "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
     "e.md",
     "obsosok/asas.md",
@@ -189,7 +190,6 @@
     "obsosok/Установка куба на одном ноде (рабочем станции).md",
     "obsosok/Описание Резюме.md",
     "obsosok/Операционная система.md",
-    "obsosok/логи wizard1.2.md",
     "obsosok/История IT для понимания основ 1",
     "obsosok/Windows",
     "obsosok/Unix-Linux Тематика/Unix-древовидная графика",
