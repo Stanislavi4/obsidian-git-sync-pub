@@ -143,9 +143,7 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "4c42bde3881a08bd",
