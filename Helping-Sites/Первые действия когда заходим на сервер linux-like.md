@@ -28,7 +28,7 @@ ip route show - маршрутизация и метрики
 traceroute <адрес> -nA -q2 - проверка пинга, и траблуштинг трассировки 
 cat /etc/resolv.conf - показывает имя сервера DNS 
 resolvectl status - 
-sudo ss
+sudo ss -tunlp | -grep <порт> - поиск отрытых портов
 # Осмотр сервера
 free -h   - осмотр памяти (свап включен ли)
 cat /etc/fstab - монтирование дисков, что там внутри
