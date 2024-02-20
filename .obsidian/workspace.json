@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md"
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md"
               }
             }
           }
@@ -150,7 +150,10 @@
   },
   "active": "4c42bde3881a08bd",
   "lastOpenFiles": [
+    "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
     "Creating a cluster with kubeadm  Kubernetes/kubeadm-stacked-color.png",
+    "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
+    "d9cdab38cd262d603f7d92b097edd09c_MD5.png",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
     "e.md",
     "obsosok/asas.md",
@@ -171,9 +174,7 @@
     "obsosok/Creating a cluster with kubeadm  Kubernetes",
     "0a90d44313b83602abe8d8ecc56ca193_MD5.png",
     "0a1b31a1a071621195c4e706562e01db_MD5.png",
-    "d9cdab38cd262d603f7d92b097edd09c_MD5.png",
     "615865e544168020a1ec103c43a2d5a6_MD5.png",
-    "fbda2932bcca11c76e74c3c72211a6d9_MD5.png",
     "obsosok/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "obsosok/IT.md",
     "obsosok/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
@@ -187,8 +188,6 @@
     "obsosok/Кратко о Языках Пограммирования.md",
     "obsosok/Как новичку правильно оформить профиль GitHub.md",
     "obsosok/Дорожная карта DevOps 2.md",
-    "obsosok/Дорожная карта DevOps 1.md",
-    "obsosok/Английский язык для программиста how to.md",
     "obsosok/История IT для понимания основ 1",
     "obsosok/Windows",
     "obsosok/Unix-Linux Тематика/Unix-древовидная графика",
