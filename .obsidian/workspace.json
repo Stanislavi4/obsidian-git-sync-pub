@@ -23,11 +23,11 @@
             "id": "6796bca6c7ef802d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
-                "mode": "source",
-                "source": false
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "staged": false,
+                "hash": "950c92992b36a3fe9b3308016fc2d85510619a7a"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "первые действия",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,8 +222,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc9e8d180db70e83",
+  "active": "6796bca6c7ef802d",
   "lastOpenFiles": [
+    "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
     "Helping-Sites/Описание Резюме.md",
     "Helping-Sites/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
@@ -258,7 +255,6 @@
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/tewst.canvas",
     "DevOps-Learn/Kubernetus/Хостинг.md",
-    "DevOps-Learn/Kubernetus/Сервер.md",
     "fe4987ea41d074418157dba8593d63a1_MD5.png",
     "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
     "Helping-Sites",
