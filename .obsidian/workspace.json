@@ -94,9 +94,17 @@
                 "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "921b0e2087e87289",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -225,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64b00f0184a484a5",
+  "active": "921b0e2087e87289",
   "lastOpenFiles": [
     "Kubernetus/tewst.canvas",
     "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",

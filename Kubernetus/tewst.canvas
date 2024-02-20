@@ -6,9 +6,9 @@
 		{"id":"3e17e9cc8fbb8e1c","type":"file","file":"Kubernetus/Сервер.md","x":-500,"y":-20,"width":400,"height":400},
 		{"id":"95e5432f242cd5ee","type":"file","file":"Kubernetus/Кэш.md","x":20,"y":-20,"width":400,"height":400},
 		{"id":"24a093fdc31a4c86","type":"file","file":"Kubernetus/ЦОД.md","x":20,"y":-520,"width":400,"height":400},
-		{"id":"86396a1362bdd42c","x":726,"y":167,"width":400,"height":400,"type":"file","file":"Kubernetus/Коротко о Kubernetus.md"},
-		{"id":"ddcad9c238bb1e34","x":604,"y":-154,"width":400,"height":297,"type":"file","file":"Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/851ab3300d3c4f119db0ded138af21fc.jpg"},
-		{"id":"55f5f04ec680e3c5","x":604,"y":-580,"width":614,"height":173,"color":"5","type":"text","text":"[Как стать VPN провайдером за один вечер Хабр]"}
+		{"id":"86396a1362bdd42c","type":"file","file":"Kubernetus/Коротко о Kubernetus.md","x":726,"y":167,"width":400,"height":400},
+		{"id":"ddcad9c238bb1e34","type":"file","file":"Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/851ab3300d3c4f119db0ded138af21fc.jpg","x":604,"y":-154,"width":400,"height":297},
+		{"id":"55f5f04ec680e3c5","type":"text","text":"[Как стать VPN провайдером за один вечер Хабр]","x":604,"y":-580,"width":614,"height":173,"color":"5"}
 	],
 	"edges":[
 		{"id":"6f46c8ff54eff426","fromNode":"3e17e9cc8fbb8e1c","fromSide":"right","toNode":"95e5432f242cd5ee","toSide":"left"},
