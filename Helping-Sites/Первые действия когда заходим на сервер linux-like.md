@@ -164,7 +164,8 @@ sudo iperf3 -c <адрес тачки сервера> --verbose -t 10
 
 ```
 curl - запросы к различным ендпоинтам (сильная команда) (http/https)
-curl -Lv <DNS сайта/ip сайта>
+curl -Lv <DNS сайта/ip сайта> - 
+curl -v telnet://127.0.0.1:22
 ```
 
 ```
