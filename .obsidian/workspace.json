@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6796bca6c7ef802d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "mode": "source",
                 "source": false
@@ -87,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,8 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6796bca6c7ef802d",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
     "Helping-Sites/Описание Резюме.md",
@@ -237,8 +225,6 @@
     "Helping-Sites/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
     "Helping-Sites/IT.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а.md",
-    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
-    "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "DevOps-Learn/TCP-IP/SSH.md",
     "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
     "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
