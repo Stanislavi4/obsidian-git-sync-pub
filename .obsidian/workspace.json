@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DevOps-Learn/Без названия.canvas",
+                "file": "DevOps-Learn/История IT для понимания основ.canvas",
                 "viewState": {
-                  "x": 260,
-                  "y": -816.8357305071916,
-                  "zoom": -1.2212998843354363
+                  "x": -200.7793551018367,
+                  "y": -1183.7372272022599,
+                  "zoom": -0.4495688720085537
                 }
               }
             }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Без названия.canvas",
+                "file": "DevOps-Learn/История IT для понимания основ.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Без названия.canvas",
+                "file": "DevOps-Learn/История IT для понимания основ.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Без названия.canvas"
+                "file": "DevOps-Learn/История IT для понимания основ.canvas"
               }
             }
           }
@@ -209,12 +209,13 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "0.Начало DevOps обучения, и краткое содержимое.canvas",
+    "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
+    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/tewst.canvas",
     "DevOps-Learn/Kubernetus/Хостинг.md",
     "DevOps-Learn/Kubernetus/Сервер.md",
-    "DevOps-Learn/Без названия.canvas",
-    "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "IT.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Helping-Sites/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
@@ -238,7 +239,6 @@
     "Helping-Sites/Дорожная карта DevOps 1 1.md",
     "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "Дорожная карта DevOps 1 1.md",
-    "Дорожная карта DevOps 2 1.md",
     "Helping-Sites",
     "DevOps-Learn",
     "Excalidraw",
