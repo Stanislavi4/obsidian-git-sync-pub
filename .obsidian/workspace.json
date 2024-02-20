@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ee5da5a89d02db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md"
+                "file": "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md"
               }
             }
           }
@@ -229,21 +241,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e57c15dcaf54960",
+  "active": "80ee5da5a89d02db",
   "lastOpenFiles": [
+    "DevOps-Learn/История IT для понимания основ 1/В 1975г Билл Гейтс и Пол Аллен решили написать интерпретатор языка BASIC и основали компанию Micro-Soft.md",
+    "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
+    "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
+    "DevOps-Learn/История IT для понимания основ 1/в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
+    "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
     "DevOps-Learn/История IT для понимания основ 1/Нулевое издание (конец 1969 года) появилось на свет наследница MULTIX - UNIX.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1988 году появления POSIX.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а.md",
-    "в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
-    "В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1969 г. Пентагон создаёт четыре узла сети ARPAnet — прообраза современной Internet. День 2 сентября 1969 принято считать днём рождения Интернета..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1973 году Технология Ethernet, разработанная  Бобом Меткалфом (Bob Metcalfe) из Xerox PARC.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1960-х годах, когда ВМС США (United States Navy) создали ARPANET - первый сетевой протокол, который использовался для связи между компьютерами.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/История IT для понимания основ 1/В 1888—1890 — табулятор Холлерита.md",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
-    "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/tewst.canvas",
     "DevOps-Learn/Kubernetus/Хостинг.md",
@@ -260,8 +274,6 @@
     "DevOps-Learn/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "DevOps-Learn/Операционная система.md",
     "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
-    "Helping-Sites/Кратко о Языках Пограммирования.md",
-    "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
     "Helping-Sites",
     "DevOps-Learn",
     "Excalidraw",
