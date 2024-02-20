@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
+                "file": "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e88a7a2b2f8a002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
+                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md"
+                "file": "Без названия.md"
               }
             }
           }
@@ -217,13 +229,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6796bca6c7ef802d",
+  "active": "5e88a7a2b2f8a002",
   "lastOpenFiles": [
-    "В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
+    "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
+    "Без названия.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
+    "В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1969 г. Пентагон создаёт четыре узла сети ARPAnet — прообраза современной Internet. День 2 сентября 1969 принято считать днём рождения Интернета..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1973 году Технология Ethernet, разработанная  Бобом Меткалфом (Bob Metcalfe) из Xerox PARC.md",
-    "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1960-х годах, когда ВМС США (United States Navy) создали ARPANET - первый сетевой протокол, который использовался для связи между компьютерами.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/История IT для понимания основ 1/В 1888—1890 — табулятор Холлерита.md",
@@ -249,7 +262,6 @@
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
     "Helping-Sites/Установка куба на одном ноде (рабочем станции).md",
     "Helping-Sites/Описание Резюме.md",
-    "Helping-Sites/логи wizard1.2.md",
     "Helping-Sites",
     "DevOps-Learn",
     "Excalidraw",
