@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           }
@@ -229,8 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e57c15dcaf54960",
+  "active": "5e88a7a2b2f8a002",
   "lastOpenFiles": [
+    "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Bleeding-edge обход блокировок с полной маскировкой настраиваем сервер и клиент XRay с XTLS-Reality быстро и просто  Хабр.md",
     "DevOps-Learn/TCP-IP/SSH.md",
     "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
@@ -244,7 +246,6 @@
     "DevOps-Learn/История IT для понимания основ 1/В 1975г Билл Гейтс и Пол Аллен решили написать интерпретатор языка BASIC и основали компанию Micro-Soft.md",
     "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
     "DevOps-Learn/История IT для понимания основ 1/Нулевое издание (конец 1969 года) появилось на свет наследница MULTIX - UNIX.md",
-    "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1969 г. Пентагон создаёт четыре узла сети ARPAnet — прообраза современной Internet. День 2 сентября 1969 принято считать днём рождения Интернета..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1973 году Технология Ethernet, разработанная  Бобом Меткалфом (Bob Metcalfe) из Xerox PARC.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1960-х годах, когда ВМС США (United States Navy) создали ARPANET - первый сетевой протокол, который использовался для связи между компьютерами.md",
@@ -263,7 +264,6 @@
     "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
     "Helping-Sites/Английский язык для программиста how to.md",
     "Helping-Sites/IT.md",
-    "DevOps-Learn/VIM интсрукция.md",
     "Helping-Sites",
     "DevOps-Learn",
     "Excalidraw",
