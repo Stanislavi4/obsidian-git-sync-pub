@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/MongoDB.md",
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/MongoDB.md",
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/MongoDB.md",
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/MongoDB.md"
+                "file": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "4c42bde3881a08bd",
   "lastOpenFiles": [
+    "SQL/MongoDB.md",
     "SQL/СУБД.md",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/t9ezo9hdupzsc2yxa7iigbsyww0.png",
@@ -189,7 +190,6 @@
     "obsosok/Я сосал.md",
     "obsosok/Установка куба на одном ноде (рабочем станции).md",
     "obsosok/Описание Резюме.md",
-    "obsosok/Операционная система.md",
     "obsosok/История IT для понимания основ 1",
     "obsosok/Windows",
     "obsosok/Unix-Linux Тематика/Unix-древовидная графика",
