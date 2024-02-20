@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetus/Коротко о Kubernetus.md",
+                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetus/Хостинг.md",
+                "file": "DevOps-Learn/Kubernetus/Хостинг.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,19 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Как стать VPN провайдером за один вечер  Хабр.md",
+                "file": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0716ba4116b6ec49",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md"
               }
             }
           },
@@ -59,19 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetus/Коротко о Kubernetus.md",
+                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4606c13c222e86ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md"
               }
             }
           },
@@ -79,20 +59,12 @@
             "id": "365c0765b9fb28e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "64b00f0184a484a5",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "Kubernetus/tewst.canvas",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
                 "viewState": {
-                  "x": 691,
-                  "y": -286.5,
+                  "x": 0,
+                  "y": -279,
                   "zoom": 0
                 }
               }
@@ -107,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +98,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -173,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetus/tewst.canvas",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetus/tewst.canvas",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetus/tewst.canvas"
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas"
               }
             }
           }
@@ -236,54 +208,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e57c15dcaf54960",
+  "active": "365c0765b9fb28e6",
   "lastOpenFiles": [
-    "Без названия",
+    "IT.md",
+    "0.Начало DevOps обучения, и краткое содержимое.canvas",
+    "0.Начало DevOps обучения, и краткое содержимое.md",
+    "Helping-Sites/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
+    "Helping-Sites/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
+    "fe4987ea41d074418157dba8593d63a1_MD5.png",
+    "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
+    "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
+    "Helping-Sites/Английский язык для программиста how to.md",
+    "Helping-Sites/IT.md",
+    "DevOps-Learn/VIM интсрукция.md",
+    "DevOps-Learn/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
+    "DevOps-Learn/Операционная система.md",
+    "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
+    "Helping-Sites/Кратко о Языках Пограммирования.md",
+    "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
+    "Helping-Sites/Установка куба на одном ноде (рабочем станции).md",
+    "Helping-Sites/Описание Резюме.md",
+    "Helping-Sites/логи wizard1.2.md",
+    "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
+    "Дорожная карта DevOps 3 1.md",
+    "Helping-Sites/Дорожная карта DevOps 2 1.md",
+    "Helping-Sites/Дорожная карта DevOps 1 1.md",
+    "Helping-Sites/Дорожная карта DevOps 3 1.md",
+    "Дорожная карта DevOps 1 1.md",
+    "Дорожная карта DevOps 2 1.md",
+    "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
+    "DevOps-Learn/Kubernetus/tewst.canvas",
+    "Helping-Sites",
     "DevOps-Learn",
-    "Как стать VPN провайдером за один вечер  Хабр.md",
-    "2024-02-20.md",
-    "Kubernetus/tewst.canvas",
-    "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
-    "Kubernetus/Коротко о Kubernetus.md",
-    "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
-    "Excalidraw/Drawing 2024-02-20 16.58.28.excalidraw.md",
-    "Kubernetus/Хостинг.md",
-    "Excalidraw/Drawing 2024-02-20 16.58.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md",
+    "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Excalidraw",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/fb94f404877349b2afde716776c1df18.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/ef57fa8ff1784596b2a40dd8c9d4d5d6.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/82d1ddd342f24e4197380a69f9b5ca27.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/ba0e801891424484a37251a658a9b3f2.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/8588040fdd55443ab3ae8b79b6dfb29d.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/851ab3300d3c4f119db0ded138af21fc.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/70db785fa14d42e0be310c3a3b0608db.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/587d98f04c3872c730dfcc6b9d977057.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/270d8903d5fc42ae9e59e4e73b5bf8ca.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/1e7ecd8059ae4ccb8ad06c1bdf20dd04.jpg",
-    "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр",
-    "История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
-    "Как стать VPN провайдером за один вечер  Хабр",
-    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle.mp4",
-    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
-    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр",
-    "Welcome.md",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/fb94f404877349b2afde716776c1df18.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/ef57fa8ff1784596b2a40dd8c9d4d5d6.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/82d1ddd342f24e4197380a69f9b5ca27.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/ba0e801891424484a37251a658a9b3f2.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/8588040fdd55443ab3ae8b79b6dfb29d.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/851ab3300d3c4f119db0ded138af21fc.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/70db785fa14d42e0be310c3a3b0608db.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/587d98f04c3872c730dfcc6b9d977057.jpg",
+    "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр",
+    "DevOps-Learn/Как стать VPN провайдером за один вечер  Хабр",
+    "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle.mp4",
+    "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
+    "DevOps-Learn/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр",
-    "obsosok",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/7b1b7b131e73485467ebe00b5e5f6b8e.png.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/aface7d1d7af47309747cba7edfaec3a.png.md",
-    "Windows/PowerShell.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр.md",
-    "SQL/MongoDB.md",
-    "SQL/СУБД.md",
-    "История IT для понимания основ 1/В 1911 Появление IBM.md",
-    "SQL/Коротко о База данных.md",
-    "SQL/SQL.md"
+    "obsosok"
   ]
 }

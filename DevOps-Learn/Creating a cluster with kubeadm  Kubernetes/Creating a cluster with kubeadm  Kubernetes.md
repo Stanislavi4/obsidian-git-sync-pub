@@ -13,7 +13,7 @@ The kubeadm tool is good if you need:
 A simple way for you to try out Kubernetes, possibly for the first time. A way for existing users to automate setting up a cluster and test their application.
 
 ---
-![](Creating%20a%20cluster%20with%20kubeadm%20%20Kubernetes/kubeadm-stacked-color.png) Using `kubeadm`, you can create a minimum viable Kubernetes cluster that conforms to best practices. In fact, you can use `kubeadm` to set up a cluster that will pass the [Kubernetes Conformance tests](https://kubernetes.io/blog/2017/10/software-conformance-certification/). `kubeadm` also supports other cluster lifecycle functions, such as [bootstrap tokens](https://kubernetes.io/docs/reference/access-authn-authz/bootstrap-tokens/) and cluster upgrades.
+![](kubeadm-stacked-color.png) Using `kubeadm`, you can create a minimum viable Kubernetes cluster that conforms to best practices. In fact, you can use `kubeadm` to set up a cluster that will pass the [Kubernetes Conformance tests](https://kubernetes.io/blog/2017/10/software-conformance-certification/). `kubeadm` also supports other cluster lifecycle functions, such as [bootstrap tokens](https://kubernetes.io/docs/reference/access-authn-authz/bootstrap-tokens/) and cluster upgrades.
 
 The `kubeadm` tool is good if you need:
 
