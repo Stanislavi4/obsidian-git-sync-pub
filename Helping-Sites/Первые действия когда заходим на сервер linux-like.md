@@ -166,9 +166,9 @@ sudo iperf3 -c <адрес тачки сервера> --verbose -t 10
 # Логи системы и сервисов
 
 tail -f -n50 /var/log/syslog  - смотрим все изменения последние 50
-ls  -lah /var/log/auth.log
-ls -lah /var/log/kern.log
-dmseq -T
+ls  -lah /var/log/auth.log - аутификационные события
+ls -lah /var/log/kern.log - ядровые события
+dmesg -T - логи для людей
 # Прочее
 
 ```
