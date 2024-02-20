@@ -61,11 +61,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/Без названия.canvas",
+                "file": "DevOps-Learn/Без названия.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 177.12044508117216,
+                  "y": -234.15213258249025,
+                  "zoom": -1
                 }
               }
             }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/Без названия.canvas",
+                "file": "DevOps-Learn/Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/Без названия.canvas",
+                "file": "DevOps-Learn/Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/Без названия.canvas"
+                "file": "DevOps-Learn/Без названия.canvas"
               }
             }
           }
@@ -211,7 +211,7 @@
   "active": "365c0765b9fb28e6",
   "lastOpenFiles": [
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
-    "DevOps-Learn/История IT для понимания основ 1/Без названия.canvas",
+    "DevOps-Learn/Без названия.canvas",
     "IT.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Helping-Sites/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
