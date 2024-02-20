@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "первые действия",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,9 +198,17 @@
                 "file": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md"
               }
             }
+          },
+          {
+            "id": "788a90b117da6783",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -217,7 +226,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6796bca6c7ef802d",
+  "active": "cc9e8d180db70e83",
   "lastOpenFiles": [
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
     "Helping-Sites/Описание Резюме.md",
