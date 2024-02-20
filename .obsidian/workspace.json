@@ -8,29 +8,75 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9a1a4b9d5fb2958",
+            "id": "be67d489bf08d2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
+                "file": "Kubernetus/Коротко о Kubernetus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be67d489bf08d2d5",
+            "id": "e1ce502b15bc67d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetus/Хостинг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df2c040a1bcfa8cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0716ba4116b6ec49",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "da4d1d562042f896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetus/Коротко о Kubernetus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4606c13c222e86ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -80,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 476.5
   },
   "right": {
     "id": "fef6970a83a5618b",
@@ -96,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md"
               }
             }
           }
@@ -159,9 +205,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "4606c13c222e86ba",
   "lastOpenFiles": [
+    "Kubernetus/Коротко о Kubernetus.md",
+    "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md",
+    "2024-02-20.md",
+    "Как стать VPN провайдером за один вечер  Хабр.md",
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
+    "Excalidraw/Drawing 2024-02-20 16.58.28.excalidraw.md",
+    "Kubernetus/Хостинг.md",
+    "Excalidraw/Drawing 2024-02-20 16.58.15.excalidraw.md",
     "Excalidraw/Drawing 2024-02-20 16.55.48.excalidraw.md",
     "Excalidraw",
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/fb94f404877349b2afde716776c1df18.jpg",
@@ -177,7 +231,6 @@
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр",
     "История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
-    "Как стать VPN провайдером за один вечер  Хабр.md",
     "Как стать VPN провайдером за один вечер  Хабр",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle.mp4",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
@@ -199,13 +252,6 @@
     "SQL/SQL.md",
     "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
-    "e.md",
-    "obsosok/asas.md",
-    "git-backup",
-    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
-    "obsosok/CI-CD/В чем отличие QA от QC и нужны ли обе позиции в компании — рассказывают эксперты.md",
-    "obsosok/CI-CD/GitHub.md",
-    "obsosok/Дорожная карта DevOps 3.md",
-    "obsosok/Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md"
+    "git-backup"
   ]
 }
