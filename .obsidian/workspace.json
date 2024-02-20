@@ -79,19 +79,29 @@
             "id": "365c0765b9fb28e6",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "64b00f0184a484a5",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Kubernetus/Без названия.canvas",
+                "file": "Kubernetus/tewst.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 51,
+                  "y": 10.5,
                   "zoom": 0
                 }
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetus/Без названия.canvas",
+                "file": "Kubernetus/tewst.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetus/Без названия.canvas",
+                "file": "Kubernetus/tewst.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetus/Без названия.canvas"
+                "file": "Kubernetus/tewst.canvas"
               }
             }
           }
@@ -220,11 +230,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "365c0765b9fb28e6",
+  "active": "64b00f0184a484a5",
   "lastOpenFiles": [
-    "Kubernetus/Коротко о Kubernetus.md",
-    "Kubernetus/Без названия.canvas",
     "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
+    "Kubernetus/tewst.canvas",
+    "Kubernetus/Коротко о Kubernetus.md",
     "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
     "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md",
     "2024-02-20.md",

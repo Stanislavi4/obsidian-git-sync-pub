@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b13094fad9aa2972","type":"file","file":"Kubernetus/Ansible.md","x":-1020,"y":-520,"width":400,"height":400},
+		{"id":"f3dc9d057b1bcf70","type":"file","file":"Kubernetus/Коротко о Kubernetus.md","x":-500,"y":-520,"width":400,"height":400},
+		{"id":"d48974e958ccbf53","type":"file","file":"Kubernetus/Хостинг.md","x":-1020,"y":-20,"width":400,"height":400},
+		{"id":"3e17e9cc8fbb8e1c","type":"file","file":"Kubernetus/Сервер.md","x":-500,"y":-20,"width":400,"height":400},
+		{"id":"95e5432f242cd5ee","type":"file","file":"Kubernetus/Кэш.md","x":20,"y":-20,"width":400,"height":400},
+		{"id":"24a093fdc31a4c86","type":"file","file":"Kubernetus/ЦОД.md","x":20,"y":-520,"width":400,"height":400}
+	],
+	"edges":[]
+}
