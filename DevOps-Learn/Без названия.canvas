@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"1ac6af4935008d73","x":1560,"y":-520,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1965 г закон Мура  плотность транзисторов в интегрированных микросхемах будет удваиваться каждые 24 месяца в течение следующих десяти лет.md"},
-		{"id":"d8b933934f46bbde","x":2005,"y":-520,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1969 г. Пентагон создаёт четыре узла сети ARPAnet — прообраза современной Internet. День 2 сентября 1969 принято считать днём рождения Интернета..md"},
 		{"id":"837ce87fb0417d59","x":-2000,"y":-75,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1971 — появление первого микропроцессора (процессора, помещающегося на интегральной микросхеме) Intel 4004..md"},
 		{"id":"16b5cfcbad9449c1","x":-1955,"y":-1280,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1911 Появление IBM.md"},
 		{"id":"e97647ed1b8829ff","x":-1110,"y":-1440,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1888—1890 — табулятор Холлерита.md"},
@@ -9,15 +8,16 @@
 		{"id":"80d87771570a5857","x":-175,"y":-880,"width":415,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1943 — «Марк I», первый компьютер, произведённый фирмой IBM..md"},
 		{"id":"a53f876e7069b815","x":840,"y":-520,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1964 году Джон Кемени и Томас Курц в Дартмутском колледже, разработали язык программирования BASIC..md"},
 		{"id":"e7d35fcfeee02f56","x":-20,"y":-2000,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md"},
-		{"id":"c4ba2d1f0fc78a9d","x":1120,"y":325,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/Нулевое издание (конец 1969 года) появилось на свет наследница MULTIX - UNIX.md"},
 		{"id":"8eda4919318fc233","x":1720,"y":160,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/Четвертое издание (ноябрь 1973) UNIX был переписан на язык программирование C..md"},
 		{"id":"57035a115852dc05","x":240,"y":40,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1988 году появления POSIX.md"},
-		{"id":"1a067b7a3bd10c7e","x":-440,"y":-40,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1975г Билл Гейтс и Пол Аллен решили написать интерпретатор языка BASIC и основали компанию Micro-Soft.md"},
-		{"id":"19b7bed39f33511d","x":-1000,"y":240,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1973 году Технология Ethernet, разработанная  Бобом Меткалфом (Bob Metcalfe) из Xerox PARC.md"},
 		{"id":"b9835fada91e164e","x":-1640,"y":325,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1971 году была выпущена первая версия UNIX — V1.md"},
 		{"id":"520b0d100d72cee5","x":-1280,"y":-360,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В  1976 г. 1 апреля Стив Джобс и Стив Возняк основали фирму Apple Computer..md"},
-		{"id":"a2bb06a512c9f139","x":240,"y":-1280,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md"},
-		{"id":"8822000361308dd9","x":1160,"y":-1080,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1964 году Американская Ассоциация Стандартов принимает новый 7-битовый стандарт для обмена информации ASCII (American Standard Code for Information Interchange)..md"}
+		{"id":"8822000361308dd9","x":1160,"y":-1080,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1964 году Американская Ассоциация Стандартов принимает новый 7-битовый стандарт для обмена информации ASCII (American Standard Code for Information Interchange)..md"},
+		{"id":"a2bb06a512c9f139","x":380,"y":-1280,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md"},
+		{"id":"d8b933934f46bbde","x":2120,"y":-520,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1969 г. Пентагон создаёт четыре узла сети ARPAnet — прообраза современной Internet. День 2 сентября 1969 принято считать днём рождения Интернета..md"},
+		{"id":"c4ba2d1f0fc78a9d","x":1160,"y":-75,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/Нулевое издание (конец 1969 года) появилось на свет наследница MULTIX - UNIX.md"},
+		{"id":"1a067b7a3bd10c7e","x":960,"y":400,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1975г Билл Гейтс и Пол Аллен решили написать интерпретатор языка BASIC и основали компанию Micro-Soft.md"},
+		{"id":"19b7bed39f33511d","x":2120,"y":-1080,"width":400,"height":400,"type":"file","file":"DevOps-Learn/История IT для понимания основ 1/В 1973 году Технология Ethernet, разработанная  Бобом Меткалфом (Bob Metcalfe) из Xerox PARC.md"}
 	],
 	"edges":[
 		{"id":"903ffebde10b1bbe","fromNode":"e97647ed1b8829ff","fromSide":"left","toNode":"16b5cfcbad9449c1","toSide":"right"},
@@ -25,10 +25,13 @@
 		{"id":"da44fd4c661f6e4d","fromNode":"e7d35fcfeee02f56","fromSide":"left","toNode":"e97647ed1b8829ff","toSide":"right"},
 		{"id":"58d5c77ee1701f8a","fromNode":"16b5cfcbad9449c1","fromSide":"bottom","toNode":"80d87771570a5857","toSide":"top"},
 		{"id":"e35544ca519dbbb0","fromNode":"80d87771570a5857","fromSide":"right","toNode":"a2bb06a512c9f139","toSide":"bottom"},
-		{"id":"a499bd3fd8da1682","fromNode":"80d87771570a5857","fromSide":"right","toNode":"a53f876e7069b815","toSide":"left"},
 		{"id":"f431b3d2c3da4996","fromNode":"a53f876e7069b815","fromSide":"right","toNode":"1ac6af4935008d73","toSide":"left"},
 		{"id":"3570f5b0264685e1","fromNode":"a53f876e7069b815","fromSide":"right","toNode":"c4ba2d1f0fc78a9d","toSide":"top"},
 		{"id":"c69f99442c5773a3","fromNode":"c4ba2d1f0fc78a9d","fromSide":"right","toNode":"8eda4919318fc233","toSide":"left"},
-		{"id":"fc184af3605b0366","fromNode":"a2bb06a512c9f139","fromSide":"right","toNode":"8822000361308dd9","toSide":"left"}
+		{"id":"fc184af3605b0366","fromNode":"a2bb06a512c9f139","fromSide":"right","toNode":"8822000361308dd9","toSide":"left"},
+		{"id":"35396aa957739e0b","fromNode":"a2bb06a512c9f139","fromSide":"right","toNode":"a53f876e7069b815","toSide":"top"},
+		{"id":"1001df71d7b06895","fromNode":"1ac6af4935008d73","fromSide":"right","toNode":"d8b933934f46bbde","toSide":"left"},
+		{"id":"24228f94e72b6c95","fromNode":"8eda4919318fc233","fromSide":"left","toNode":"1a067b7a3bd10c7e","toSide":"right"},
+		{"id":"7c4b1c76beaf7466","fromNode":"d8b933934f46bbde","fromSide":"top","toNode":"19b7bed39f33511d","toSide":"bottom"}
 	]
 }
