@@ -186,9 +186,10 @@ wget
 
 
 ```
-
+sudo --list - смотрим
 sudo deluser <user> sudo
-
+su root
+adduser <user> sudo
 ```
 
 ```
