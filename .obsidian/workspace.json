@@ -59,14 +59,11 @@
             "id": "365c0765b9fb28e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Без названия.canvas",
-                "viewState": {
-                  "x": 177.12044508117216,
-                  "y": -420.15213258249025,
-                  "zoom": -1
-                }
+                "file": "DevOps-Learn/Kubernetus/Сервер.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -78,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md",
+                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md",
+                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md"
+                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
               }
             }
           }
@@ -208,17 +204,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "365c0765b9fb28e6",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "0.Начало DevOps обучения, и краткое содержимое.canvas",
+    "DevOps-Learn/Kubernetus/Хостинг.md",
+    "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
+    "DevOps-Learn/Kubernetus/Сервер.md",
     "DevOps-Learn/Без названия.canvas",
+    "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "IT.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Helping-Sites/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
     "Helping-Sites/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
     "fe4987ea41d074418157dba8593d63a1_MD5.png",
     "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
-    "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "Helping-Sites/Английский язык для программиста how to.md",
     "Helping-Sites/IT.md",
     "DevOps-Learn/VIM интсрукция.md",
@@ -241,7 +239,6 @@
     "DevOps-Learn/Kubernetus/tewst.canvas",
     "Helping-Sites",
     "DevOps-Learn",
-    "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Excalidraw",
     "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/fb94f404877349b2afde716776c1df18.jpg",
     "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр/ef57fa8ff1784596b2a40dd8c9d4d5d6.jpg",
