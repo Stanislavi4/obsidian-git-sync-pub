@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
               }
             }
           },
@@ -214,8 +214,10 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "Helping-Sites/Известные люди в IT которых обязан знать.md",
+    "763bd371ce0b64db398f74d26489f316_MD5.gif",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
+    "Helping-Sites/Известные люди в IT которых обязан знать.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
@@ -241,9 +243,7 @@
     "DevOps-Learn/История IT для понимания основ 1/В 1973 году Технология Ethernet, разработанная  Бобом Меткалфом (Bob Metcalfe) из Xerox PARC.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1960-х годах, когда ВМС США (United States Navy) создали ARPANET - первый сетевой протокол, который использовался для связи между компьютерами.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
-    "DevOps-Learn/История IT для понимания основ 1/В 1888—1890 — табулятор Холлерита.md",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
-    "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/tewst.canvas",
     "fe4987ea41d074418157dba8593d63a1_MD5.png",
     "ff411dabd3523a4205db15e43c2c5e3c_MD5.jpg",
