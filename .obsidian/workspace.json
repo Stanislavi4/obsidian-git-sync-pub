@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-20.md",
+                "file": "Как стать VPN провайдером за один вечер  Хабр.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,19 +79,22 @@
             "id": "365c0765b9fb28e6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "64b00f0184a484a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
+                "file": "Kubernetus/tewst.canvas",
+                "viewState": {
+                  "x": 691,
+                  "y": -286.5,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -99,14 +102,12 @@
             "id": "921b0e2087e87289",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
+                "file": "Kubernetus/tewst.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
+                "file": "Kubernetus/tewst.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
+                "file": "Kubernetus/tewst.canvas"
               }
             }
           }
@@ -235,15 +236,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "921b0e2087e87289",
+  "active": "64b00f0184a484a5",
   "lastOpenFiles": [
+    "Как стать VPN провайдером за один вечер  Хабр.md",
+    "2024-02-20.md",
     "Kubernetus/tewst.canvas",
     "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
     "Kubernetus/Коротко о Kubernetus.md",
     "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
     "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md",
-    "2024-02-20.md",
-    "Как стать VPN провайдером за один вечер  Хабр.md",
     "Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр.md",
     "Excalidraw/Drawing 2024-02-20 16.58.28.excalidraw.md",
     "Kubernetus/Хостинг.md",
