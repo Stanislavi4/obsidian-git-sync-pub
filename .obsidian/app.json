@@ -1,4 +1,5 @@
 {
   "newFileLocation": "root",
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "promptDelete": false
 }
