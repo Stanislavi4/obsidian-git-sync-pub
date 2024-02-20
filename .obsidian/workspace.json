@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas"
+                "file": "0.Начало DevOps обучения, и краткое содержимое.md"
               }
             }
           }
