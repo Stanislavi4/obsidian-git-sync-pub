@@ -1,425 +1,35 @@
 {
   "main": {
-    "id": "2f925aaadf393986",
+    "id": "24b633c73be48531",
     "type": "split",
     "children": [
       {
-        "id": "800a4a9deb3c3c8c",
+        "id": "f4791f9c63559844",
         "type": "tabs",
-        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "83c3221661d787ef",
+            "id": "4c42bde3881a08bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDE/IDE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e86e967b872fc581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Troubleshooting-Траблуштинг всего и вся/Дамп.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a3971d277e8caae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Цикл.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acba3d95eab775d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetus/ЦОД.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8034922e5c25b885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetus/Сервер.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f9cbf02b546c589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb7d578f4053fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java - трого типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e5181d9d7357708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI-CD/SDLC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42dbef6f8b9447f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Краткая информация о инструментах веб-разработки для фронтендера.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7adbbbd49dbc74e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI-CD/В чем отличие QA от QC и нужны ли обе позиции в компании — рассказывают эксперты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
-        "id": "15f1e1ac0649005b",
-        "type": "tabs",
-        "dimension": 36.673928830791574,
-        "children": [
-          {
-            "id": "e0113f8d40aa2e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP-IP/ICMP - Пинг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "937ca7ecb6528d44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционная система.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f5562efbde807e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP-IP/Файервол.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd8b38b71cc9c3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кратко о Языках Пограммирования.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42f28ab9cc4f9799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/Операторы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1686219b6fff3467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дорожная карта DevOps 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03fb11ae61a22b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дорожная карта DevOps 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3db5c225c2231a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "335676f2861b96a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetus/Кэш.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e202c503d9506ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI-CD/Приложение - Описание этапов разработки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
-        "id": "65a5010ad909f950",
-        "type": "tabs",
-        "dimension": 29.99273783587509,
-        "children": [
-          {
-            "id": "6723a079406329c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "d24d429def581f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/Бит, байт - единицы измерения информации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd46c398fe1f6424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Troubleshooting-Траблуштинг всего и вся/Burp Suite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9261eebed9d31f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MongoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cacc5259d5b21f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDE/AppCode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "227edee59c64d219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI-CD/CI-CD (непрерывная интеграция и доставка) — это технология автоматизации тестирования и доставки новых модулей разрабатываемого проекта заинтересованным сторонам (разработчикам, аналитикам, инженерам качества, конечным пользователям и др.).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceea16a3035042d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Troubleshooting-Траблуштинг всего и вся/Хеширование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b91c855a8416d4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix-Linux Тематика/Debian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bc753836ddad2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning для Нейронок (генерация фото, видео, голосов).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "456d98b25b74cf10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDE/Visual Studio Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8a60ef026f303c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix-Linux Тематика/Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39c2950c0e2ff6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/Программное обеспечение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4491affba15c1aea",
+    "id": "3d599ec0687fcdbd",
     "type": "split",
     "children": [
       {
-        "id": "be0ff1e3b93af825",
+        "id": "50b8714ec754d975",
         "type": "tabs",
         "children": [
           {
-            "id": "8f84554b0915da3c",
+            "id": "2e57c15dcaf54960",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -429,12 +39,12 @@
             }
           },
           {
-            "id": "ad44b61f04a0f8d5",
+            "id": "cc9e8d180db70e83",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Микросервисная архитектура",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -444,7 +54,7 @@
             }
           },
           {
-            "id": "6ddaff265a7ddeb0",
+            "id": "beac54dbe2e7713b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -458,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "6483dd2377dd624a",
+    "id": "fef6970a83a5618b",
     "type": "split",
     "children": [
       {
-        "id": "93989da6e6ff9601",
+        "id": "d531a84993e37e48",
         "type": "tabs",
         "children": [
           {
-            "id": "2094d1d3607fe27c",
+            "id": "18cbba708f98fad5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI-CD/Приложение - Описание этапов разработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,19 +92,18 @@
             }
           },
           {
-            "id": "9f31dc2d6dfda0ef",
+            "id": "6db8e49b11e5086c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI-CD/Приложение - Описание этапов разработки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "72016bcacc5f6743",
+            "id": "2447f3c8725f9801",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -506,13 +114,11 @@
             }
           },
           {
-            "id": "afbf2816950316c4",
+            "id": "33e24537cb384de5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CI-CD/Приложение - Описание этапов разработки.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -520,57 +126,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
-      "canvas:Создать новый холст": false,
       "graph:Граф": false,
+      "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e202c503d9506ad4",
+  "active": "4c42bde3881a08bd",
   "lastOpenFiles": [
-    "CI-CD/Микросервисная архитектура.md",
-    "CI-CD/Приложение - Описание этапов разработки.md",
-    "Exel-GoogleExel/Как работать с Google Таблицами.md",
-    "Unix-Linux Тематика/UNIX.md",
-    "Frontend/Типизация.md",
-    "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "Bash/Программное обеспечение.md",
-    "Kubernetus/Кэш.md",
-    "VIM интсрукция.md",
-    "CI-CD/SDLC.md",
-    "CI-CD/Scrum.md",
-    "Frontend/Sass.md",
-    "Troubleshooting-Траблуштинг всего и вся/Postman.md",
-    "Frontend/PHP.md",
-    "CI-CD/Markdown.md",
-    "Frontend/JavaScript.md",
-    "IT.md",
-    "Frontend/Go (Golang).md",
-    "Deep Learning для Нейронок (генерация фото, видео, голосов).md",
-    "Frontend/Цикл.md",
-    "Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
-    "Bash/API.md",
-    "Troubleshooting-Траблуштинг всего и вся/SSR.md",
-    "SQL/СУБД.md",
-    "Frontend/Апрувить пул-реквест или сленг разработчиков и как его понимать.md",
-    "CI-CD/Стек.md",
-    "Windows",
-    "Exel-GoogleExel",
-    "Python",
-    "IDE",
-    "Java",
-    "Frontend",
-    "Без названия.canvas",
-    "Unix-Linux Тематика",
-    "SQL",
-    "Troubleshooting-Траблуштинг всего и вся",
-    "Bash"
+    "obsosok/asas.md",
+    "e.md",
+    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/3ozvnaa5rjx9mgwiuifunyhpahe.png",
+    "git-backup",
+    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/pok4zmwpbydhjg66eqruxpjwau4.png",
+    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/bqkyieeyeeg0csmew1ensefiqgg.png",
+    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
+    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/shmqlhxowdeksdiffvvxbouybvm.png",
+    "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle. Реализуем обход по доменам.mp4",
+    "obsosok/CI-CD/В чем отличие QA от QC и нужны ли обе позиции в компании — рассказывают эксперты.md",
+    "obsosok/CI-CD/GitHub.md",
+    "obsosok/Дорожная карта DevOps 3.md",
+    "obsosok/Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
+    "obsosok/Creating a cluster with kubeadm  Kubernetes/kubeadm-stacked-color.png",
+    "obsosok/VIM интсрукция.md",
+    "obsosok/Bash/Коротко о Bash.md",
+    "obsosok/Creating a cluster with kubeadm  Kubernetes",
+    "0a90d44313b83602abe8d8ecc56ca193_MD5.png",
+    "0a1b31a1a071621195c4e706562e01db_MD5.png",
+    "d9cdab38cd262d603f7d92b097edd09c_MD5.png",
+    "615865e544168020a1ec103c43a2d5a6_MD5.png",
+    "fbda2932bcca11c76e74c3c72211a6d9_MD5.png",
+    "obsosok/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
+    "obsosok/IT.md",
+    "obsosok/Deep Learning для Нейронок (генерация фото, видео, голосов).md",
+    "obsosok/Что изменилось в работе DevOps-инженеров.md",
+    "obsosok/Я сосал.md",
+    "obsosok/Установка куба на одном ноде (рабочем станции).md",
+    "obsosok/Описание Резюме.md",
+    "obsosok/Операционная система.md",
+    "obsosok/логи wizard1.2.md",
+    "obsosok/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
+    "obsosok/Кратко о Языках Пограммирования.md",
+    "obsosok/Как новичку правильно оформить профиль GitHub.md",
+    "obsosok/Дорожная карта DevOps 2.md",
+    "obsosok/Дорожная карта DevOps 1.md",
+    "obsosok/Английский язык для программиста how to.md",
+    "obsosok/0.Начало DevOps обучения, и краткое содержимое.md",
+    "obsosok/Windows/PowerShell.md",
+    "obsosok/История IT для понимания основ 1",
+    "obsosok/Windows",
+    "obsosok/Unix-Linux Тематика/Unix-древовидная графика",
+    "obsosok/Unix-Linux Тематика",
+    "obsosok/Troubleshooting-Траблуштинг всего и вся",
+    "obsosok/TCP-IP",
+    "obsosok/SQL"
   ]
 }

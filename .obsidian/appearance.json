@@ -1,7 +1,5 @@
 {
-  "accentColor": "",
-  "cssTheme": "Obsidian Nord",
-  "translucency": false,
-  "nativeMenus": false,
+  "accentColor": "#000000",
+  "cssTheme": "Minimal",
   "theme": "obsidian"
 }
