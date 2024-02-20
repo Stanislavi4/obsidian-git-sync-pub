@@ -11,9 +11,11 @@
             "id": "4c42bde3881a08bd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "d9cdab38cd262d603f7d92b097edd09c_MD5.png"
+                "file": "Windows/PowerShell.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "d9cdab38cd262d603f7d92b097edd09c_MD5.png",
+                "file": "Windows/PowerShell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "d9cdab38cd262d603f7d92b097edd09c_MD5.png",
+                "file": "Windows/PowerShell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d9cdab38cd262d603f7d92b097edd09c_MD5.png"
+                "file": "Windows/PowerShell.md"
               }
             }
           }
@@ -148,12 +150,12 @@
   },
   "active": "4c42bde3881a08bd",
   "lastOpenFiles": [
+    "d9cdab38cd262d603f7d92b097edd09c_MD5.png",
     "615865e544168020a1ec103c43a2d5a6_MD5.png",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр.md",
     "Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
     "Creating a cluster with kubeadm  Kubernetes/kubeadm-stacked-color.png",
     "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "d9cdab38cd262d603f7d92b097edd09c_MD5.png",
     "e.md",
     "obsosok/asas.md",
     "obsosok/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр/3ozvnaa5rjx9mgwiuifunyhpahe.png",
