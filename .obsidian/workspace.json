@@ -89,14 +89,9 @@
             "id": "64b00f0184a484a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Kubernetus/tewst.canvas",
-                "viewState": {
-                  "x": 691,
-                  "y": -343,
-                  "zoom": 0
-                }
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
               }
             }
           }
@@ -167,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetus/tewst.canvas",
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetus/tewst.canvas",
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetus/tewst.canvas"
+                "file": "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md"
               }
             }
           }
@@ -232,8 +227,8 @@
   },
   "active": "64b00f0184a484a5",
   "lastOpenFiles": [
-    "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
     "Kubernetus/tewst.canvas",
+    "Kubernetus/Drawing 2024-02-20 16.59.20.excalidraw.md",
     "Kubernetus/Коротко о Kubernetus.md",
     "Excalidraw/Drawing 2024-02-20 16.58.51.excalidraw.md",
     "Excalidraw/Drawing 2024-02-20 16.58.38.excalidraw.md",
