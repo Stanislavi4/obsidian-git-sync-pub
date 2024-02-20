@@ -11,7 +11,7 @@ sudo apt install sysstat  - набор системных утилит
 dstat - проверка в секунду какие нагрузки происходят (dstat --top-cpu --top-io --top-latency --top-mem)
 cd /var/log - где записываются логи
 ls -la - просмотр файлов и их прав
-
+sudo journalctl - лог всей системы 
 
 # Осмотр сервера
 free -h   - осмотр памяти (свап включен ли)
