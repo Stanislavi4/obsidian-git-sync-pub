@@ -11,7 +11,7 @@
             "id": "f9a1a4b9d5fb2958",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,8 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e57c15dcaf54960",
+  "active": "f9a1a4b9d5fb2958",
   "lastOpenFiles": [
+    "История IT для понимания основ 1/В  1964 г. 7  апреля  фирма IBM объявила о создании семейства компьютеров System 360.md",
+    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
     "Как стать VPN провайдером за один вечер  Хабр.md",
     "Как стать VPN провайдером за один вечер  Хабр/de160c4a8072e96c4e03b12370a89a88.png",
     "Как стать VPN провайдером за один вечер  Хабр/eb395e7eaeaa3c917f5ff2aa58901169.png",
@@ -159,7 +159,6 @@
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/bqkyieeyeeg0csmew1ensefiqgg.png",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/pok4zmwpbydhjg66eqruxpjwau4.png",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
-    "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
     "Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр",
     "Welcome.md",
     "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр",
@@ -188,7 +187,6 @@
     "obsosok/Creating a cluster with kubeadm  Kubernetes/Creating a cluster with kubeadm  Kubernetes.md",
     "obsosok/VIM интсрукция.md",
     "obsosok/Bash/Коротко о Bash.md",
-    "obsosok/Creating a cluster with kubeadm  Kubernetes",
-    "obsosok/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md"
+    "obsosok/Creating a cluster with kubeadm  Kubernetes"
   ]
 }
