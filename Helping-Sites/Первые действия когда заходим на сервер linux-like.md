@@ -185,11 +185,17 @@ curl -X POST <сайт>
 wget
 ```
 
+```
 touch
+```
 
+```
 chmod
+```
 
+```
 tmux
+```
 
 ```
 find . -name "*.csv"
