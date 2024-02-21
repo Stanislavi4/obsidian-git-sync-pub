@@ -175,7 +175,7 @@ journalctl -xeu <имя сервиса> - логи определенного с
 
 # Работа с пользователями
 
-sudo useradd --skel path/to/template_directory --create-home username
+sudo useradd --shell path/to/shell username - создание пользовтаеля с 
 
 ```
 sudo --list - смотрим права у твоего пользователя
