@@ -199,11 +199,12 @@ chmod x -  права только для владельца файла (read, w
 chown -R <юзер> path/to/directory -  используется для изменения владельца и группы файлов или директорий. (-R всю директорию и содержимое)
 ```
 
+# Прелюдие 
+
 # Прочее
 
 ```
 Создание SSH ключа с Win на Linux
-Прелюдие установка на винде openssh
 ssh-keygen -t ed25519 -f "$HOME\.ssh\id_ed25519-remote-ssh"
 scp C:\Users\<виндовыйюзер>\.ssh\id_ed25519-remote-ssh.pub <уд.юзер>@192.168.31.247:/home/<уд.юзер>/.ssh/authorized_keys
 ```
