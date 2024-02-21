@@ -215,10 +215,9 @@ Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
 ```
 Создание SSH ключа с Win на Linux
 ssh-keygen -t ed25519 -f "$HOME\.ssh\id_ed25519-remote-ssh"
-scp C:\Users\<виндовыйюзер>\.ssh\id_ed25519-remote-ssh.pub <уд.юзер>@(hostIP_or_DNS):/home/<уд.юзер>/.ssh/authorized_keys - утилита копирует данные по ssh
+scp C:\Users\<виндовыйюзер>\.ssh\id_ed25519-remote-ssh.pub <уд.юзер>@(hostIP_or_DNS):/home/<уд.юзер>/.ssh/authorized_keys - утилита копирует данные по ssh(22). Чтоб на удаленных тачках есть ssh
 ```
 
-scp 
 
 ```
 curl - запросы к различным ендпоинтам (сильная команда) (http/https)
