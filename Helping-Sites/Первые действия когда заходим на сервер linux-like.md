@@ -265,8 +265,8 @@ grep "имя чего хотим найти в файле" <название ф�
 ```
 
 ```
-scp -i /path/to/file_to_overwrite user@remote:/path/to/new_file /local/path/to/existing_file - Вот пример использования `scp` для добавления текстовой запись в конец существующего файла.
-scp -r user@remote:/path/to/new_file /local/path/to/existing_file - 
+scp -i /path/to/file_to_overwrite user@remote:/path/to/new_file /local/path/to/existing_file - для добавления текстовой запись в конец существующего файла.
+scp -r user@remote:/path/to/new_file /local/path/to/existing_file - добавить текстовую запись без перезаписи
 
 ```
 
