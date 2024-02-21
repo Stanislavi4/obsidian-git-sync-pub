@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "593072c1f1ea64ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Что делать от DDoS атаки на linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e1ce502b15bc67d3",
             "type": "leaf",
             "state": {
@@ -75,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Что делать от DDoS атаки на linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Что делать от DDoS атаки на linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "Что делать от DDoS атаки на linux.md"
               }
             }
           },
@@ -212,8 +225,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "593072c1f1ea64ba",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "Что делать от DDoS атаки на linux.md",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-5-1525x458.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-4-1525x984.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-3.png",
@@ -224,11 +239,9 @@
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-177.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-178.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-151.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-150.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel.md",
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
-    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Известные люди в IT которых обязан знать.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
