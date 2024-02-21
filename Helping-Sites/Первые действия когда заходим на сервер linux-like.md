@@ -173,9 +173,16 @@ dmesg -T - логи для людей
 journalctl -xeu <имя сервиса> - логи определенного сервиса
 ```
 
-# Работа с пользовтаелями
+# Работа с пользователями
 
+sudo useradd --skel path/to/template_directory --create-home username
 
+```
+sudo --list - смотрим права у твоего пользователя
+sudo deluser <user> sudo - удаляем права
+su root - заходим под рут
+adduser <user> sudo - добавляем права пользователю
+```
 # Прочее
 
 ```
@@ -207,12 +214,6 @@ find . -name "*.csv"
 grep "имя чего хотим найти в файле" <название файла> | column -t -s, | less -s
 ```
 
-```
-sudo --list - смотрим права у твоего пользователя
-sudo deluser <user> sudo - удаляем права
-su root - заходим под рут
-adduser <user> sudo - добавляем права пользователю
-```
 
 ```
 awk -  язык обработки строк (синтаксис языка С ). Аналог grep
