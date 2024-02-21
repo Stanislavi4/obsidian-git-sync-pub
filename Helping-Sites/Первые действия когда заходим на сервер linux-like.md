@@ -190,7 +190,8 @@ touch
 ```
 
 ```
-chmod
+chmod -
+chown -
 ```
 
 ```
