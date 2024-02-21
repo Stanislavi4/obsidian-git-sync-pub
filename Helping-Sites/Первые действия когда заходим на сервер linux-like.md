@@ -203,7 +203,7 @@ chown -R <юзер> path/to/directory -  используется для изм�
 
 ```
 Создание SSH ключа с Win на Linux
-scp C:\Users\Home\.ssh\id_rsa.pub admin11@192.168.31.247:/home/admin11/.ssh/authorized_keys
+scp C:\Users\<виндовыйюзер>\.ssh\id_ed25519-remote-ssh.pub <уд.юзер>@192.168.31.247:/home/<уд.юзер>/.ssh/authorized_keys
 ```
 
 
