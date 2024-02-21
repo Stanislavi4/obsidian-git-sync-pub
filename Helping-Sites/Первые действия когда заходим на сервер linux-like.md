@@ -173,7 +173,10 @@ sudo mkfs.ext4 <блокустройство> - создаем систему �
 sudo mkdir /mnt/point - создаём папку для будущего монтирования
 sudo mount (блокустройство) /mnt/point - монтируем, либо можно к существуещему каталоку примонтировать
 df -hT - проверка
-sudo nano /etc/fstab 
+sudo nano /etc/fstab - редактируем для постоянного маунта 
+         `/dev/sdb1   /mnt/point  ext4   defaults 0   0`
+
+
 ```
 tail -f -n50 /var/log/syslog  - смотрим все изменения последние 50
 ls  -lah /var/log/auth.log - аутификационные события
