@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +225,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "cc9e8d180db70e83",
   "lastOpenFiles": [
     "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
