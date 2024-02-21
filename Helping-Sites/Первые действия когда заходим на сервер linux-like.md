@@ -176,7 +176,7 @@ df -hT - проверка
 sudo nano /etc/fstab - редактируем для постоянного маунта 
          `/dev/sdb1   /mnt/point  ext4   defaults 0   0`
  ЛИБО
- 
+ sudo parted  <диск> - GUI интерфейс, всё сделает
 
 ```
 # Логи системы и сервисов
