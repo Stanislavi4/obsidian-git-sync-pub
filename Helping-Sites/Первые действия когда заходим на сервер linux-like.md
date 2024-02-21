@@ -175,7 +175,10 @@ journalctl -xeu <имя сервиса> - логи определенного с
 
 # Работа с пользователями
 
-sudo useradd --shell path/to/shell username - создание пользовтаеля с 
+```
+sudo useradd --shell path/to/shell <никнейм> - создание пользователя с указанием выбора интерпретатора (bash, sh, zsh)
+sudo passwd <никнейм> - за
+```
 
 ```
 sudo --list - смотрим права у твоего пользователя
