@@ -264,6 +264,14 @@ find . -name "*.csv"
 grep "имя чего хотим найти в файле" <название файла> | column -t -s, | less -s
 ```
 
+```
+Вот пример использования `scp` для добавления текстовой запись в конец существующего файла:
+scp -i /path/to/file_to_overwrite user@remote:/path/to/new_file /local/path/to/existing_file
+
+```
+
+
+
 
 ```
 awk -  язык обработки строк (синтаксис языка С ). Аналог grep
