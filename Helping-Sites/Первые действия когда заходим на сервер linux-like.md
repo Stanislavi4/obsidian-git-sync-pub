@@ -191,6 +191,13 @@ sudo deluser <user> sudo - удаляем права
 su root - заходим под рут
 adduser <user> sudo - добавляем права пользователю
 ```
+
+
+```
+chmod - 
+chown -
+```
+
 # Прочее
 
 ```
@@ -206,11 +213,6 @@ wget
 
 ```
 touch
-```
-
-```
-chmod -
-chown -
 ```
 
 ```
