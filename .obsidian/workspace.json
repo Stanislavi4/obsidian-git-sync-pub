@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ICMP",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/TCP-IP/ICMP - Пинг.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -227,6 +227,7 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Что делать от DDoS атаки на linux.md",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-5-1525x458.png",
@@ -263,7 +264,6 @@
     "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
     "DevOps-Learn/История IT для понимания основ 1/Нулевое издание (конец 1969 года) появилось на свет наследница MULTIX - UNIX.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1969 г. Пентагон создаёт четыре узла сети ARPAnet — прообраза современной Internet. День 2 сентября 1969 принято считать днём рождения Интернета..md",
-    "DevOps-Learn/История IT для понимания основ 1/В 1973 году Технология Ethernet, разработанная  Бобом Меткалфом (Bob Metcalfe) из Xerox PARC.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas",
