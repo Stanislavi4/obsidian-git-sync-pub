@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "593072c1f1ea64ba",
+            "id": "58945374c2a249b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -225,10 +224,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "593072c1f1ea64ba",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Что делать от DDoS атаки на linux.md",
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-5-1525x458.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-4-1525x984.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-3.png",
