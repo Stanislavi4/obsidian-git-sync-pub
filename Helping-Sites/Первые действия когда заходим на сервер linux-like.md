@@ -171,7 +171,9 @@ sudo iperf3 -c <адрес тачки сервера> --verbose -t 10
 
 sudo mkfs.ext4 <блокустройство> - создаем систему в формате ext4
 sudo mkdir /mnt/point - создаём папку для будущего монтирования
-sudo mount (блокустройство) /mnt/point
+sudo mount (блокустройство) /mnt/point - монтируем, либо можно к существуещему каталоку примонтировать
+df -hT - проверка
+sudo nano /etc/fstab 
 ```
 tail -f -n50 /var/log/syslog  - смотрим все изменения последние 50
 ls  -lah /var/log/auth.log - аутификационные события
