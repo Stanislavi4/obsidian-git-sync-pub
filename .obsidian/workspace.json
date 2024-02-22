@@ -86,8 +86,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e9e84a9ea7bc4c29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -132,6 +141,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "496f48980cc7fbfb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -153,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -233,8 +246,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "e9e84a9ea7bc4c29",
   "lastOpenFiles": [
+    "Что делать от DDoS атаки на linux.md",
+    "Helping-Sites/Дорожная карта DevOps 3 1.md",
+    "DevOps-Learn/Kubernetus/Хостинг.md",
     "2024-02-22.md",
     "Без названия.canvas",
     "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
@@ -250,7 +266,6 @@
     "257f59a40ff7151e4ea46b117a23c8c6_MD5.png",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
-    "Что делать от DDoS атаки на linux.md",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel.md",
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
@@ -271,7 +286,6 @@
     "DevOps-Learn/История IT для понимания основ 1/в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1988 году появления POSIX.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
-    "DevOps-Learn/История IT для понимания основ 1/В 1975г Билл Гейтс и Пол Аллен решили написать интерпретатор языка BASIC и основали компанию Micro-Soft.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas",
