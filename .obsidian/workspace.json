@@ -184,7 +184,7 @@
             }
           },
           {
-            "id": "8825b188d2b480c5",
+            "id": "430cf77ec3e93fc0",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -211,7 +211,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58945374c2a249b6",
+  "active": "430cf77ec3e93fc0",
   "lastOpenFiles": [
     "DevOps-Learn/Kubernetus/Сервер.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
