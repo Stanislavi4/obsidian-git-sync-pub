@@ -239,7 +239,7 @@ ssh-keygen -t ed25519 -f "$HOME\.ssh\id_ed25519-remote-ssh"
 scp C:\Users\<виндовыйюзер>\.ssh\id_ed25519-remote-ssh.pub <уд.юзер>@(hostIP_or_DNS):/home/<уд.юзер>/.ssh/authorized_keys - утилита копирует данные по ssh(22). Чтоб на удаленных тачках есть ssh
 ```
 
-
+`scp C:\Users\Home\.ssh\id_ed25519-remote-ssh.pub admin11@192.168.31.252:/home/admin11/.ssh/authorized_keys`
 
 ```
 curl - запросы к различным ендпоинтам (сильная команда) (http/https)
