@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md"
+                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md"
               }
             }
           },
@@ -212,12 +213,13 @@
   },
   "active": "58945374c2a249b6",
   "lastOpenFiles": [
+    "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
+    "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
     "Helping-Sites/Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS.md",
     "Что делать от DDoS атаки на linux.md",
     "DevOps-Learn/Kubernetus/Сервер.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/Хостинг.md",
-    "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "2024-02-22.md",
     "Без названия.canvas",
@@ -249,7 +251,6 @@
     "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а.md",
     "DevOps-Learn/TCP-IP/SSH.md",
     "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
-    "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas",
