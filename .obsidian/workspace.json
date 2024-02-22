@@ -23,11 +23,9 @@
             "id": "550127111a431bcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
-                "mode": "source",
-                "source": false
+                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg"
               }
             }
           },
@@ -85,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "первые",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg"
               }
             }
           },
@@ -214,6 +211,8 @@
   "active": "550127111a431bcd",
   "lastOpenFiles": [
     "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)/Kak-skopirovat-fajly-s-pomoshhyu-komandy-sr-v-Linux-330x250.png",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)",
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов/pravilo-firewall-blokirovki-rdp-dostupa-dlya-ip-adresov.jpg",
@@ -225,8 +224,6 @@
     "Helping-Sites/Искусство командной строки  Хабр/074f38cade178c89ee5afa5b06e368f8.png",
     "Helping-Sites/Искусство командной строки  Хабр",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр/e504f5fbf1cdfe2c5b270449c3e54a62.jpg",
-    "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр/c9638a5d0734b168240e1fedde5c131e.jpg",
-    "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр/9fd5476a9c0109ff8ae609909ed4f952.jpg",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр",
     "Helping-Sites/Подготовка эффективной среды для написания bash сценариев  Хабр",
     "Helping-Sites/Bash скрипты  Хабр",
@@ -259,7 +256,6 @@
     "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
     "Helping-Sites/Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS.md",
     "Что делать от DDoS атаки на linux.md",
-    "DevOps-Learn/Kubernetus/Сервер.md",
     "Без названия.canvas",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas"
