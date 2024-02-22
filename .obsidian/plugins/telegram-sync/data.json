@@ -21,9 +21,9 @@
           "value": ""
         }
       ],
-      "templateFilePath": "Telegram-notes/@Telegram-notes@.md",
-      "notePathTemplate": "Telegram/{{content:30}} - {{messageTime:YYYY-MM-DD-HH-mm}}.md",
-      "filePathTemplate": "Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "templateFilePath": "",
+      "notePathTemplate": "Telegram-notes/{{content:30}} - {{messageTime:YYYY-MM-DD-HH-mm}}.md",
+      "filePathTemplate": "Telegram-notes/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
       "reversedOrder": false,
       "heading": ""
     }
