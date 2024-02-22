@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,8 +210,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58945374c2a249b6",
+  "active": "2e57c15dcaf54960",
   "lastOpenFiles": [
+    "Telegram-notes",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
     "Helping-Sites/Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS.md",
@@ -250,7 +250,6 @@
     "Helping-Sites/IT.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1985 году был создан протокол HTTP (Hypertext Transfer Protocol), который позволил передавать веб-страницы между компьютерами, а.md",
     "DevOps-Learn/TCP-IP/SSH.md",
-    "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas",
