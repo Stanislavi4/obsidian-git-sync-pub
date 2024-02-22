@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegram-notes/@Telegram-notes@.md",
+                "file": "Telegram/eaf - 20240222222143059.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/@Telegram-notes@.md",
+                "file": "Telegram/eaf - 20240222222143059.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/@Telegram-notes@.md",
+                "file": "Telegram/eaf - 20240222222143059.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/@Telegram-notes@.md"
+                "file": "Telegram/eaf - 20240222222143059.md"
               }
             }
           },
@@ -224,12 +224,14 @@
   },
   "active": "002e21f9efb9688d",
   "lastOpenFiles": [
+    "Telegram-notes/@Telegram-notes@.md",
+    "0.Начало DevOps обучения, и краткое содержимое.md",
+    "Telegram/eaf - 20240222222143059.md",
+    "Telegram",
     "0a1b31a1a071621195c4e706562e01db_MD5.png",
     "0e8feef15c121ad1bfafed23b055e007_MD5.png",
-    "Telegram-notes/@Telegram-notes@.md",
     "0cf4062860e86ac604442e1c96b0c1b1_MD5.png",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
-    "0.Начало DevOps обучения, и краткое содержимое.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "Telegram-notes",
@@ -249,7 +251,6 @@
     "50f1b09de3391b4a0945987d5d0db67d_MD5.png",
     "9015535a9e922ec60ecf3b5407f8b5e1_MD5.png",
     "362c400277c1bfb4d2f9b94b495dea1d_MD5.png",
-    "2a1303eab9c8af12206ac6d406ba48a2_MD5.png",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel",
@@ -272,7 +273,6 @@
     "DevOps-Learn/Походная аптечка сисадмина. Минимальный набор утилит для максимально эффективного решения проблем  Хабр",
     "DevOps-Learn/Как стать VPN провайдером за один вечер  Хабр",
     "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle.mp4",
-    "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
-    "DevOps-Learn/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр"
+    "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle"
   ]
 }

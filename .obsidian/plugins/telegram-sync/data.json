@@ -2,7 +2,7 @@
   "botToken": "438804781:AAGfeJ_lA1iyrPPtckgbw1lJ08nwzAvbdA0",
   "deleteMessagesFromTelegram": false,
   "allowedChats": [
-    "hranilishe"
+    "-1002133256537"
   ],
   "mainDeviceId": "3440654d-fb80-4f52-b981-583a6a2a523f",
   "pluginVersion": "",
@@ -32,7 +32,7 @@
   "parallelMessageProcessing": false,
   "processOldMessages": false,
   "processOldMessagesSettings": {
-    "lastProcessingDate": 1708617033,
+    "lastProcessingDate": 1708618905,
     "daysLimit": 14,
     "dialogsLimit": 100,
     "messagesLimit": 1000,
