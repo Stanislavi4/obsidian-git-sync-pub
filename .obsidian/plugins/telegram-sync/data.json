@@ -21,7 +21,7 @@
           "value": ""
         }
       ],
-      "templateFilePath": "",
+      "templateFilePath": "Telegram-notes/@Telegram-notes@.md",
       "notePathTemplate": "Telegram/{{content:30}} - {{messageTime:YYYYMMDDHHmmssSSS}}.md",
       "filePathTemplate": "Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
       "reversedOrder": false,
