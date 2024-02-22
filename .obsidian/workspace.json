@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegram-notes/__Масштабное обновление DevOps - 2024-02-22-22-28.md",
+                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "550127111a431bcd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
               }
             }
           },
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/__Масштабное обновление DevOps - 2024-02-22-22-28.md",
+                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/__Масштабное обновление DevOps - 2024-02-22-22-28.md",
+                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/__Масштабное обновление DevOps - 2024-02-22-22-28.md"
+                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
               }
             }
           },
@@ -197,10 +208,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "550127111a431bcd",
   "lastOpenFiles": [
-    "Helping-Sites/Дорожная карта DevOps 3 1.md",
+    "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Telegram-notes/__Масштабное обновление DevOps - 2024-02-22-22-28.md",
+    "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
+    "Telegram-notes/photos",
+    "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "Telegram-notes/__Для проверки скорости записи - 2024-02-22-22-27.md",
     "Telegram/__Для проверки скорости записи - 2024-02-22-22-24.md",
     "Telegram/awefg - 2024-02-22-22-23.md",
@@ -234,7 +248,6 @@
     "0329b73b0e5a68c89fa90a3c2a68a3e3_MD5.png",
     "50f1b09de3391b4a0945987d5d0db67d_MD5.png",
     "9015535a9e922ec60ecf3b5407f8b5e1_MD5.png",
-    "362c400277c1bfb4d2f9b94b495dea1d_MD5.png",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel",
@@ -243,11 +256,9 @@
     "Helping-Sites/Известные люди в IT которых обязан знать.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1970-х годах были разработаны протоколы TCP (Transmission Control Protocol) и IP (Internet Protocol), которые стали основой для современного Интернета.md",
     "Helping-Sites/Как новичку правильно оформить профиль GitHub.md",
-    "Helping-Sites/Описание Резюме.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas",
     "Helping-Sites",
-    "DevOps-Learn",
-    "Excalidraw"
+    "DevOps-Learn"
   ]
 }
