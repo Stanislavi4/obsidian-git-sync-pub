@@ -22,7 +22,7 @@
         }
       ],
       "templateFilePath": "Telegram-notes/@Telegram-notes@.md",
-      "notePathTemplate": "Telegram/{{content:30}} - {{messageTime:YYYYMMDDHHmmssSSS}}.md",
+      "notePathTemplate": "Telegram/{{content:30}} - {{messageTime:YYYY-MM-DD-HH-mm}}.md",
       "filePathTemplate": "Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
       "reversedOrder": false,
       "heading": ""
@@ -32,7 +32,7 @@
   "parallelMessageProcessing": false,
   "processOldMessages": false,
   "processOldMessagesSettings": {
-    "lastProcessingDate": 1708618905,
+    "lastProcessingDate": 1708618975,
     "daysLimit": 14,
     "dialogsLimit": 100,
     "messagesLimit": 1000,
