@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openss",
+                "query": "хакер",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md"
               }
             }
           },
@@ -227,8 +227,8 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
     "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
     "Что делать от DDoS атаки на linux.md",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-5-1525x458.png",
