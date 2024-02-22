@@ -23,9 +23,11 @@
             "id": "550127111a431bcd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg"
+                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg",
+                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg",
+                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg"
+                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md"
               }
             }
           },
@@ -210,9 +212,10 @@
   },
   "active": "550127111a431bcd",
   "lastOpenFiles": [
+    "DevOps-Learn/Операционная система.md",
+    "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg",
     "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
-    "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)/Kak-skopirovat-fajly-s-pomoshhyu-komandy-sr-v-Linux-330x250.png",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)",
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов/pravilo-firewall-blokirovki-rdp-dostupa-dlya-ip-adresov.jpg",
