@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
+                "file": "Telegram-notes/@Telegram-notes@.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
+                "file": "Telegram-notes/@Telegram-notes@.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md",
+                "file": "Telegram-notes/@Telegram-notes@.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 3 1.md"
+                "file": "Telegram-notes/@Telegram-notes@.md"
               }
             }
           },
@@ -210,17 +210,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2e57c15dcaf54960",
+  "active": "58945374c2a249b6",
   "lastOpenFiles": [
+    "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
+    "Telegram-notes/@Telegram-notes@.md",
+    "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "Telegram-notes",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
     "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
     "Helping-Sites/Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS.md",
     "Что делать от DDoS атаки на linux.md",
     "DevOps-Learn/Kubernetus/Сервер.md",
-    "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/Хостинг.md",
-    "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "2024-02-22.md",
     "Без названия.canvas",
     "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
@@ -260,7 +261,6 @@
     "DevOps-Learn/Как стать VPN провайдером за один вечер  Хабр",
     "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists - Mangle.mp4",
     "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
-    "DevOps-Learn/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр",
-    "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle. Как реализовать обход по доменам  Хабр"
+    "DevOps-Learn/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak и все-все-все  Хабр"
   ]
 }

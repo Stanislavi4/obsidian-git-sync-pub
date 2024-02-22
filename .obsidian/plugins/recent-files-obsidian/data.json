@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "@Telegram-notes@",
+      "path": "Telegram-notes/@Telegram-notes@.md"
+    },
+    {
+      "basename": "Коротко о Kubernetus",
+      "path": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
+    },
+    {
       "basename": "Дорожная карта DevOps 3 1",
       "path": "Helping-Sites/Дорожная карта DevOps 3 1.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Сервер",
       "path": "DevOps-Learn/Kubernetus/Сервер.md"
-    },
-    {
-      "basename": "Коротко о Kubernetus",
-      "path": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
     },
     {
       "basename": "Хостинг",
