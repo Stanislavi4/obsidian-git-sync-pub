@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
+                "file": "2024-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "хакер",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
+                "file": "2024-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
+                "file": "2024-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md"
+                "file": "2024-02-22.md"
               }
             }
           },
@@ -205,9 +205,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "8825b188d2b480c5",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -222,25 +230,28 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "Без названия.canvas",
+    "2024-02-22.md",
     "Helping-Sites/Мастерская хакера. 13 утилит для Linux, которые пригодятся админу — Хакер.md",
+    "de2cae297a8d127e649c23dd77b31e7a_MD5.png",
+    "009462a7983741c57f522cdbc5eedd72_MD5.png",
+    "b1f82beede4c1ca725dbee3abbc13ce7_MD5.png",
+    "0329b73b0e5a68c89fa90a3c2a68a3e3_MD5.png",
+    "50f1b09de3391b4a0945987d5d0db67d_MD5.png",
+    "9015535a9e922ec60ecf3b5407f8b5e1_MD5.png",
+    "362c400277c1bfb4d2f9b94b495dea1d_MD5.png",
+    "2a1303eab9c8af12206ac6d406ba48a2_MD5.png",
+    "c697b53ca4a5f4b5549d5d6b87dfa014_MD5.png",
+    "257f59a40ff7151e4ea46b117a23c8c6_MD5.png",
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "DevOps-Learn/TCP-IP/ICMP - Пинг.md",
     "Что делать от DDoS атаки на linux.md",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-5-1525x458.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-4-1525x984.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-3.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-2-1525x1070.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/image-1-1525x572.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-180.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-179.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-177.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-178.png",
-    "Helping-Sites/Настройка iptables в Linux - Академия Selectel/Frame-151.png",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel",
     "Helping-Sites/Настройка iptables в Linux - Академия Selectel.md",
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
@@ -262,8 +273,6 @@
     "DevOps-Learn/История IT для понимания основ 1/В 1988 году появления POSIX.md",
     "DevOps-Learn/История IT для понимания основ 1/В 1982 году было решено, что TCP IP должен заменить NCP в качестве стандартного языка ARPAnet..md",
     "DevOps-Learn/История IT для понимания основ 1/В 1975г Билл Гейтс и Пол Аллен решили написать интерпретатор языка BASIC и основали компанию Micro-Soft.md",
-    "DevOps-Learn/История IT для понимания основ 1/История IT для понимания основ.md",
-    "DevOps-Learn/История IT для понимания основ 1/Нулевое издание (конец 1969 года) появилось на свет наследница MULTIX - UNIX.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas",
