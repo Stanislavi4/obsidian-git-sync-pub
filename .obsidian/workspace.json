@@ -23,9 +23,11 @@
             "id": "550127111a431bcd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -83,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "первые",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -210,6 +213,7 @@
   },
   "active": "550127111a431bcd",
   "lastOpenFiles": [
+    "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)/Kak-skopirovat-fajly-s-pomoshhyu-komandy-sr-v-Linux-330x250.png",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)",
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов/pravilo-firewall-blokirovki-rdp-dostupa-dlya-ip-adresov.jpg",
@@ -223,7 +227,6 @@
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр/e504f5fbf1cdfe2c5b270449c3e54a62.jpg",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр/c9638a5d0734b168240e1fedde5c131e.jpg",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр/9fd5476a9c0109ff8ae609909ed4f952.jpg",
-    "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр/803892bfe548499aa763df324d40fd01.png",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр",
     "Helping-Sites/Подготовка эффективной среды для написания bash сценариев  Хабр",
     "Helping-Sites/Bash скрипты  Хабр",
