@@ -2,12 +2,12 @@
   "botToken": "438804781:AAGfeJ_lA1iyrPPtckgbw1lJ08nwzAvbdA0",
   "deleteMessagesFromTelegram": false,
   "allowedChats": [
-    "Хранилищеудалитьпосле"
+    "1Hranilishe11"
   ],
   "mainDeviceId": "",
   "pluginVersion": "",
   "telegramSessionType": "bot",
-  "telegramSessionId": 20240222215330936,
+  "telegramSessionId": 20240222215626880,
   "betaVersion": "",
   "connectionStatusIndicatorType": "CONSTANT",
   "cacheCleanupAtStartup": false,
