@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md"
+                "file": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md"
               }
             }
           },
@@ -211,13 +210,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "430cf77ec3e93fc0",
+  "active": "58945374c2a249b6",
   "lastOpenFiles": [
+    "Helping-Sites/Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS.md",
+    "Что делать от DDoS атаки на linux.md",
     "DevOps-Learn/Kubernetus/Сервер.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/Хостинг.md",
     "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md",
-    "Что делать от DDoS атаки на linux.md",
     "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "2024-02-22.md",
     "Без названия.canvas",
@@ -250,7 +250,6 @@
     "DevOps-Learn/TCP-IP/SSH.md",
     "DevOps-Learn/TCP-IP/TCPIP против модели OSI – разница между ними.md",
     "DevOps-Learn/История IT для понимания основ 1/в 1990 году ARPAnet завершила свое существование  С тех пор Интернет вырос из корней ARPAnet, а TCP-IP развивался для удовлетворения меняющихся требований Интернета..md",
-    "DevOps-Learn/История IT для понимания основ 1/в 1990-х годах появились протоколы SSL-TLS для безопасной передачи данных..md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas",
