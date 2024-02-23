@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -212,6 +213,7 @@
   },
   "active": "550127111a431bcd",
   "lastOpenFiles": [
+    "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Telegram-notes/Администрирование Active Direc - 2024-02-23-03-13.md",
     "Telegram-notes/__Проверить файлы, которые был - 2024-02-23-03-11.md",
@@ -257,7 +259,6 @@
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр",
     "Helping-Sites/Подготовка эффективной среды для написания bash сценариев  Хабр",
     "Helping-Sites/Bash скрипты  Хабр",
-    "Telegram-notes/photos",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Без названия.canvas",
     "DevOps-Learn/История IT для понимания основ.canvas",
