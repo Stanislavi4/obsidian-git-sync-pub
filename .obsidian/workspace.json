@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
+                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bash",
+                "query": "tag:#sshpass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
+                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
+                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md"
+                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md"
               }
             }
           },
@@ -249,11 +247,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cc9e8d180db70e83",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
-    "DevOps-Learn/Frontend/Sass.md",
+    "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр.md",
+    "Helping-Sites/Искусство командной строки  Хабр.md",
+    "Helping-Sites/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
+    "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
+    "DevOps-Learn/Frontend/Sass.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/CI-CD/Канбан-доска.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
@@ -272,15 +274,11 @@
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Lab-Work/Lab-Work.md",
     "Lab-Work",
-    "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Telegram-notes/Администрирование Active Direc - 2024-02-23-03-13.md",
     "Telegram-notes/Как избежать побочных эффектов - 2024-02-23-03-10.md",
     "Telegram-notes/__Когда система подтормаживает - 2024-02-23-03-09.md",
     "Telegram-notes/Генерировать пароли своим собс - 2024-02-23-03-09.md",
     "Telegram-notes/__Команды для отображения базо - 2024-02-23-03-09.md",
-    "Telegram-notes/__Команды монтирование файловы - 2024-02-23-03-09.md",
-    "Telegram-notes/__Утилита ss__ (Socket Statist - 2024-02-23-03-09.md",
-    "Telegram-notes/__Управление фоновыми заданиям - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
     "Telegram-notes/photos/photo_2133256537_4 - 20240223030727348.jpg",
