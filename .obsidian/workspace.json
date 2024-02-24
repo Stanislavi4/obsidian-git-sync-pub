@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "6da1609747840b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab_Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e1ce502b15bc67d3",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Lab_Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Lab_Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "Lab_Work.md"
               }
             }
           },
@@ -211,8 +222,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "550127111a431bcd",
+  "active": "6da1609747840b45",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "Lab_Work.md",
     "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Telegram-notes/Администрирование Active Direc - 2024-02-23-03-13.md",
@@ -239,9 +252,7 @@
     "Telegram-notes/__Выборка файлов для поиска с  - 2024-02-23-03-08.md",
     "Telegram-notes/__Объединение информации из не - 2024-02-23-03-08.md",
     "Telegram-notes/__Топ-5 полезных демонов Linux - 2024-02-23-03-08.md",
-    "Telegram-notes/__Скрипт, выполняющий резервно - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
-    "Telegram-notes/__Возможности команды find для - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_4 - 20240223030727348.jpg",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Telegram-notes/documents/Xray_mikrotik_rb5009 - 20240223030253817.docx",
