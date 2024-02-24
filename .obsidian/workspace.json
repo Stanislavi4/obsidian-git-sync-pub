@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "dfae2be62d8f33cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e1ce502b15bc67d3",
             "type": "leaf",
             "state": {
@@ -75,14 +87,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work/Без названия.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work/Без названия.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work/Без названия.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work/Без названия.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -236,10 +249,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "10430b6318766517",
+  "active": "dfae2be62d8f33cf",
   "lastOpenFiles": [
     "Lab-Work/Lab-Work.md",
-    "Lab-Work/Без названия.md",
+    "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "Lab-Work",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
