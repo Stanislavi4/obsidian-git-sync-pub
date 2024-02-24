@@ -27,4 +27,4 @@ Prompt: из youtubetest доложи что ты там увидал
 
  [Кэтлин](https://en.wikipedia.org/wiki/Kathleen_Booth "Кэтлин Бут") и [Эндрю Дональда Бута](https://en.wikipedia.org/wiki/Andrew_Donald_Booth "Эндрю Дональд Бут") - Первый ассемблерный код, в котором язык используется для представления инструкций машинного кода. Ассемблерный код преобразуется в исполняемый машинный код с помощью [служебной программы](https://en.wikipedia.org/wiki/Utility_software "Служебное программное обеспечение"), называемой _[ассемблером](https://en.wikipedia.org/wiki/Assembler_(computing))_
 
-  Билл Джой - осннователь BSD и создатель Vim
+  Билл Джой - работал BSD Unix и создатель Vi, и оболочки csh.
