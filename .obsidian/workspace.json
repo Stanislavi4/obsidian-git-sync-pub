@@ -49,14 +49,11 @@
             "id": "dfae2be62d8f33cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ.canvas",
-                "viewState": {
-                  "x": 382.5,
-                  "y": -620,
-                  "zoom": -1.200541324168639
-                }
+                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -126,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Lab-Work/\" ",
+                "query": "tag:#/path/to/remote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ.canvas",
+                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ.canvas",
+                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/История IT для понимания основ.canvas"
+                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md"
               }
             }
           },
@@ -232,11 +230,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,8 +249,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dfae2be62d8f33cf",
+  "active": "cc9e8d180db70e83",
   "lastOpenFiles": [
+    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/CI-CD/Канбан-доска.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Telegram-notes/__Архитектура systemd____Подси - 2024-02-23-03-06.md",
@@ -282,7 +281,6 @@
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/__Неповседневные примеры испол - 2024-02-23-03-08.md",
     "Telegram-notes/__Топ-8 самых полезных команд  - 2024-02-23-03-08.md",
-    "Telegram-notes/Разница между `CHMOD` и CH`OWN - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
     "Telegram-notes/photos/photo_2133256537_4 - 20240223030727348.jpg",
     "Telegram-notes/documents/Xray_mikrotik_rb5009 - 20240223030253817.docx",
@@ -301,7 +299,6 @@
     "Helping-Sites/Подготовка эффективной среды для написания bash сценариев  Хабр",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Без названия.canvas",
-    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
 }
