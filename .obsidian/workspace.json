@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#/path/to/remote",
+                "query": "tag:#/path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
