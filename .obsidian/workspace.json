@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "кратк",
+                "query": "like",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -248,10 +248,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cc9e8d180db70e83",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
     "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
+    "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
     "Helping-Sites/Предлагаю вашему вниманию необычный мониторинг..  Системное администрирование  ВКонтакте.md",
     "Helping-Sites/Обход блокировок настройка сервера XRay для Shadowsocks-2022 и VLESS с XTLS-Vision, Websockets и фейковым веб-сайтом  Хабр.md",
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
