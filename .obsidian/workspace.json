@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "like",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Что изменилось в работе DevOps-инженеров.md"
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать.md"
               }
             }
           },
@@ -249,9 +249,10 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+    "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Helping-Sites/Описание Резюме.md",
-    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
     "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
     "Helping-Sites/Предлагаю вашему вниманию необычный мониторинг..  Системное администрирование  ВКонтакте.md",
@@ -277,7 +278,6 @@
     "Telegram-notes/__Масштабное обновление DevOps - 2024-02-22-22-28.md",
     "Telegram-notes/__Имена файлов в Linux__ __В L - 2024-02-23-03-08.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
-    "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
