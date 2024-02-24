@@ -1,6 +1,12 @@
 ---
 created: 2024-02-22T01:08:47 (UTC +06:00)
-tags: [sshpass,сервера,scp,команды,если,/path/to/remote/file]
+tags:
+  - sshpass
+  - сервера
+  - scp
+  - команды
+  - linux
+  - Windows
 source: https://pavel-a-safronov.name/statji/veb-razrabotka/22-perenos-fajlov-mezhdu-serverami-napryamuyu-po-ssh-cherez-scp
 author: Павел А. Сафронов
 ---
