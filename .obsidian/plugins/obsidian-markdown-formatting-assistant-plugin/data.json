@@ -22,12 +22,12 @@
     {
       "name": "tables",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "html",
       "active": true,
-      "visible": false
+      "visible": true
     },
     {
       "name": "latex",
