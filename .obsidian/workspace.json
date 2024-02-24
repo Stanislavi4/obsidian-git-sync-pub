@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
+                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
+                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
+                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md"
+                "file": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md"
               }
             }
           },
@@ -249,6 +249,10 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
+    "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
+    "Helping-Sites/Предлагаю вашему вниманию необычный мониторинг..  Системное администрирование  ВКонтакте.md",
+    "Helping-Sites/Обход блокировок настройка сервера XRay для Shadowsocks-2022 и VLESS с XTLS-Vision, Websockets и фейковым веб-сайтом  Хабр.md",
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр.md",
     "Helping-Sites/Искусство командной строки  Хабр.md",
@@ -275,10 +279,6 @@
     "Lab-Work/Lab-Work.md",
     "Lab-Work",
     "Telegram-notes/Администрирование Active Direc - 2024-02-23-03-13.md",
-    "Telegram-notes/Как избежать побочных эффектов - 2024-02-23-03-10.md",
-    "Telegram-notes/__Когда система подтормаживает - 2024-02-23-03-09.md",
-    "Telegram-notes/Генерировать пароли своим собс - 2024-02-23-03-09.md",
-    "Telegram-notes/__Команды для отображения базо - 2024-02-23-03-09.md",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
     "Telegram-notes/photos/photo_2133256537_4 - 20240223030727348.jpg",
