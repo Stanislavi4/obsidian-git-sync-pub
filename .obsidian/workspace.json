@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md"
               }
             }
           },
@@ -251,10 +251,10 @@
   },
   "active": "dfae2be62d8f33cf",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Lab-Work/Lab-Work.md",
     "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "Lab-Work",
-    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Telegram-notes/Администрирование Active Direc - 2024-02-23-03-13.md",
