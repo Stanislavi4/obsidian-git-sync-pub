@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work.md",
+                "file": "Lab-Work/Lab-Work.md",
                 "mode": "source",
                 "source": false
               },
@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10430b6318766517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab-Work/Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work.md",
+                "file": "Lab-Work/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work.md",
+                "file": "Lab-Work/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work.md"
+                "file": "Lab-Work/Без названия.md"
               }
             }
           },
@@ -225,10 +236,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6da1609747840b45",
+  "active": "10430b6318766517",
   "lastOpenFiles": [
+    "Lab-Work/Lab-Work.md",
+    "Lab-Work/Без названия.md",
+    "Lab-Work",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
-    "Lab-Work.md",
     "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Telegram-notes/Администрирование Active Direc - 2024-02-23-03-13.md",
@@ -254,7 +267,6 @@
     "Telegram-notes/__Основы регулярных выражений_ - 2024-02-23-03-08.md",
     "Telegram-notes/__Выборка файлов для поиска с  - 2024-02-23-03-08.md",
     "Telegram-notes/__Объединение информации из не - 2024-02-23-03-08.md",
-    "Telegram-notes/__Топ-5 полезных демонов Linux - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
     "Telegram-notes/photos/photo_2133256537_4 - 20240223030727348.jpg",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
@@ -272,7 +284,6 @@
     "Helping-Sites/Искусство командной строки  Хабр",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр",
     "Helping-Sites/Подготовка эффективной среды для написания bash сценариев  Хабр",
-    "Helping-Sites/Bash скрипты  Хабр",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Без названия.canvas",
     "DevOps-Learn/История IT для понимания основ.canvas",
