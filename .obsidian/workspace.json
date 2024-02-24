@@ -220,7 +220,7 @@
             }
           },
           {
-            "id": "2aab3213fc52f244",
+            "id": "adbaee06b8c4474e",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -247,7 +247,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "adbaee06b8c4474e",
   "lastOpenFiles": [
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
