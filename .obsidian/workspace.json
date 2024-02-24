@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#/path",
+                "query": "tag:#в",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md"
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
               }
             }
           },
@@ -249,8 +249,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cc9e8d180db70e83",
+  "active": "dfae2be62d8f33cf",
   "lastOpenFiles": [
+    "DevOps-Learn/Frontend/Sass.md",
+    "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/CI-CD/Канбан-доска.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
@@ -280,7 +282,6 @@
     "Telegram-notes/__Управление фоновыми заданиям - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/__Неповседневные примеры испол - 2024-02-23-03-08.md",
-    "Telegram-notes/__Топ-8 самых полезных команд  - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
     "Telegram-notes/photos/photo_2133256537_4 - 20240223030727348.jpg",
     "Telegram-notes/documents/Xray_mikrotik_rb5009 - 20240223030253817.docx",

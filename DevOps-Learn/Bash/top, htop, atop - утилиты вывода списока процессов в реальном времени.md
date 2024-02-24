@@ -8,7 +8,6 @@ tags:
   - утилиты
   - вывода
   - процессов
-  - в
   - реальном
   - времени
 source: http://snakeproject.ru/rubric/article.php?art=top_19072022
