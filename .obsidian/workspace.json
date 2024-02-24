@@ -49,11 +49,9 @@
             "id": "dfae2be62d8f33cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
-                "mode": "source",
-                "source": false
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
               }
             }
           },
@@ -168,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md"
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
               }
             }
           },
@@ -250,13 +248,16 @@
   },
   "active": "dfae2be62d8f33cf",
   "lastOpenFiles": [
+    "Telegram-notes/__Архитектура systemd____Подси - 2024-02-23-03-06.md",
+    "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md",
+    "Telegram-notes/В Linux драйверы ядра - это пр - 2024-02-23-03-08.md",
+    "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
     "Telegram-notes/__Работа с Certbot в терминале - 2024-02-23-03-09.md",
     "Telegram-notes/__FTP-сервер в Linux____1. Для - 2024-02-23-03-08.md",
     "Telegram-notes/__Поиск файлов с определенными - 2024-02-23-03-08.md",
     "Telegram-notes/__Проверить файлы, которые был - 2024-02-23-03-11.md",
     "Telegram-notes/__Масштабное обновление DevOps - 2024-02-22-22-28.md",
     "Telegram-notes/__Имена файлов в Linux__ __В L - 2024-02-23-03-08.md",
-    "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Lab-Work/Импорт сертификатов из винды в линукс.md",
@@ -277,9 +278,6 @@
     "Telegram-notes/__Топ-8 самых полезных команд  - 2024-02-23-03-08.md",
     "Telegram-notes/Разница между `CHMOD` и CH`OWN - 2024-02-23-03-08.md",
     "Telegram-notes/__Визуальное представление дер - 2024-02-23-03-08.md",
-    "Telegram-notes/В Linux драйверы ядра - это пр - 2024-02-23-03-08.md",
-    "Telegram-notes/__Инвертированный поиск с помо - 2024-02-23-03-08.md",
-    "Telegram-notes/__Основы регулярных выражений_ - 2024-02-23-03-08.md",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
     "Telegram-notes/photos/photo_2133256537_4 - 20240223030727348.jpg",
     "Telegram-notes/documents/Xray_mikrotik_rb5009 - 20240223030253817.docx",
