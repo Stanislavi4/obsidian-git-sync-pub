@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "like",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,7 +248,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "cc9e8d180db70e83",
   "lastOpenFiles": [
     "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
     "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
