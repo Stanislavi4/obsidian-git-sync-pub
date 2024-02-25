@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Линус",
+                "query": "\"**Эндрю Таненбаум**\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,7 +248,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "be67d489bf08d2d5",
+  "active": "cc9e8d180db70e83",
   "lastOpenFiles": [
     "Lab-Work/притензии.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
