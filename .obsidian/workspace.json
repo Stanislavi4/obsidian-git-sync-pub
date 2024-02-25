@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
+                "file": "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
                 "mode": "source",
                 "source": false
               }
@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
+                "file": "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
+                "file": "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md"
+                "file": "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md"
               }
             }
           },
@@ -248,10 +247,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cc9e8d180db70e83",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "Lab-Work/притензии.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
+    "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
+    "Lab-Work/притензии.md",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
@@ -277,7 +277,6 @@
     "Telegram-notes/__Работа с Certbot в терминале - 2024-02-23-03-09.md",
     "Telegram-notes/__FTP-сервер в Linux____1. Для - 2024-02-23-03-08.md",
     "Telegram-notes/__Поиск файлов с определенными - 2024-02-23-03-08.md",
-    "Telegram-notes/__Проверить файлы, которые был - 2024-02-23-03-11.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
