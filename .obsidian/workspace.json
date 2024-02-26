@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#-",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -248,7 +248,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2447f3c8725f9801",
+  "active": "beac54dbe2e7713b",
   "lastOpenFiles": [
     "DevOps-Learn/Docker/Как появились контейнеры.md",
     "DevOps-Learn/Docker/Контейнеризация.md",
