@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
+                "file": "DevOps-Learn/Docker/Контейнеризация.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
+                "file": "DevOps-Learn/Docker/Контейнеризация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
+                "file": "DevOps-Learn/Docker/Контейнеризация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md"
+                "file": "DevOps-Learn/Docker/Контейнеризация.md"
               }
             }
           },
@@ -249,8 +249,8 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
+    "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
     "Lab-Work/притензии.md",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
