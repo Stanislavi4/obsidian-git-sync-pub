@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Docker/Контейнеризация.md",
+                "file": "DevOps-Learn/Docker/Как появились контейнеры.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Docker/Контейнеризация.md",
+                "file": "DevOps-Learn/Docker/Как появились контейнеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Docker/Контейнеризация.md",
+                "file": "DevOps-Learn/Docker/Как появились контейнеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Docker/Контейнеризация.md"
+                "file": "DevOps-Learn/Docker/Как появились контейнеры.md"
               }
             }
           },
@@ -249,6 +249,8 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "DevOps-Learn/Docker/Контейнеризация.md",
+    "DevOps-Learn/Docker/Как появились контейнеры.md",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
@@ -275,8 +277,6 @@
     "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md",
     "Telegram-notes/В Linux драйверы ядра - это пр - 2024-02-23-03-08.md",
     "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
-    "Telegram-notes/__Работа с Certbot в терминале - 2024-02-23-03-09.md",
-    "Telegram-notes/__FTP-сервер в Linux____1. Для - 2024-02-23-03-08.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",

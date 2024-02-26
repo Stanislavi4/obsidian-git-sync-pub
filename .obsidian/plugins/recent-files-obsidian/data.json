@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Как появились контейнеры",
+      "path": "DevOps-Learn/Docker/Как появились контейнеры.md"
+    },
+    {
       "basename": "Контейнеризация",
       "path": "DevOps-Learn/Docker/Контейнеризация.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Сервер",
       "path": "DevOps-Learn/Kubernetus/Сервер.md"
-    },
-    {
-      "basename": "Хостинг",
-      "path": "DevOps-Learn/Kubernetus/Хостинг.md"
     }
   ],
   "omittedPaths": [],
