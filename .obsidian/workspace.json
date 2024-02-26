@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Docker/Как появились контейнеры.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"**Эндрю Таненбаум**\"",
+                "query": "curl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Docker/Как появились контейнеры.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Docker/Как появились контейнеры.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Docker/Как появились контейнеры.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
               }
             }
           },
@@ -249,8 +250,8 @@
   },
   "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
-    "DevOps-Learn/Docker/Контейнеризация.md",
     "DevOps-Learn/Docker/Как появились контейнеры.md",
+    "DevOps-Learn/Docker/Контейнеризация.md",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
