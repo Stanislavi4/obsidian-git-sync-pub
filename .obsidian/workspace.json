@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md"
               }
             }
           },
@@ -248,15 +248,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "beac54dbe2e7713b",
+  "active": "be67d489bf08d2d5",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "DevOps-Learn/Docker/Как появились контейнеры.md",
     "DevOps-Learn/Docker/Контейнеризация.md",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
     "Lab-Work/притензии.md",
-    "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Helping-Sites/Описание Резюме.md",
