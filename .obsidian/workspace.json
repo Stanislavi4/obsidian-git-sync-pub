@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
+                "file": "DevOps-Learn/Frontend/Sass.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "первые",
+                "query": "tag:#b2ad7f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
+                "file": "DevOps-Learn/Frontend/Sass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
+                "file": "DevOps-Learn/Frontend/Sass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
+                "file": "DevOps-Learn/Frontend/Sass.md"
               }
             }
           },
@@ -237,12 +237,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "03bd4c46371f19f8",
+  "active": "cc9e8d180db70e83",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Lab-Work/Lab-Work.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/Сервер.md",
-    "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "DevOps-Learn/Docker/Как появились контейнеры.md",
     "DevOps-Learn/Docker/Контейнеризация.md",
