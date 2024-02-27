@@ -73,14 +73,11 @@
             "id": "03bd4c46371f19f8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
-                "viewState": {
-                  "x": -10,
-                  "y": -420,
-                  "zoom": 0
-                }
+                "file": "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -159,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
+                "file": "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
+                "file": "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas"
+                "file": "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md"
               }
             }
           },
@@ -241,6 +238,10 @@
   },
   "active": "03bd4c46371f19f8",
   "lastOpenFiles": [
+    "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
+    "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
+    "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
+    "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Операционная система.md",
@@ -267,9 +268,6 @@
     "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
     "Helping-Sites/Предлагаю вашему вниманию необычный мониторинг..  Системное администрирование  ВКонтакте.md",
     "Helping-Sites/Обход блокировок настройка сервера XRay для Shadowsocks-2022 и VLESS с XTLS-Vision, Websockets и фейковым веб-сайтом  Хабр.md",
-    "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр.md",
-    "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
-    "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
@@ -288,7 +286,6 @@
     "Helping-Sites/Искусство командной строки  Хабр",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр",
     "Helping-Sites/Подготовка эффективной среды для написания bash сценариев  Хабр",
-    "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Без названия.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
