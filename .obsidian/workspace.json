@@ -136,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +209,7 @@
             }
           },
           {
-            "id": "adbaee06b8c4474e",
+            "id": "9cf026f5a8a361c3",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -218,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -237,7 +236,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "03bd4c46371f19f8",
+  "active": "9cf026f5a8a361c3",
   "lastOpenFiles": [
     "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
     "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
