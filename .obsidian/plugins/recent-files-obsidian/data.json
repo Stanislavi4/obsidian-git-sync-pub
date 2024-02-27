@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Известные люди в IT которых обязан знать.",
-      "path": "Helping-Sites/Известные люди в IT которых обязан знать..md"
+      "basename": "Lab-Work",
+      "path": "Lab-Work/Lab-Work.md"
+    },
+    {
+      "basename": "Коротко о Kubernetus",
+      "path": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
+    },
+    {
+      "basename": "Сервер",
+      "path": "DevOps-Learn/Kubernetus/Сервер.md"
     },
     {
       "basename": "Первые действия когда заходим на сервер linux-like",
       "path": "Helping-Sites/Первые действия когда заходим на сервер linux-like.md"
+    },
+    {
+      "basename": "Известные люди в IT которых обязан знать.",
+      "path": "Helping-Sites/Известные люди в IT которых обязан знать..md"
     },
     {
       "basename": "Как появились контейнеры",
@@ -141,10 +153,6 @@
       "path": "Lab-Work/Импорт сертификатов из винды в линукс.md"
     },
     {
-      "basename": "Lab-Work",
-      "path": "Lab-Work/Lab-Work.md"
-    },
-    {
       "basename": "Операционная система",
       "path": "DevOps-Learn/Операционная система.md"
     },
@@ -177,10 +185,6 @@
       "path": "0.Начало DevOps обучения, и краткое содержимое.canvas"
     },
     {
-      "basename": "Коротко о Kubernetus",
-      "path": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
-    },
-    {
       "basename": "Как стать VPN провайдером за один вечер  Хабр",
       "path": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Что делать от DDoS атаки на linux",
       "path": "Что делать от DDoS атаки на linux.md"
-    },
-    {
-      "basename": "Сервер",
-      "path": "DevOps-Learn/Kubernetus/Сервер.md"
     }
   ],
   "omittedPaths": [],
