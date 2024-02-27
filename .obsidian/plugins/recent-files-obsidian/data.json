@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "top, htop, atop - утилиты вывода списока процессов в реальном времени",
+      "path": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
+    },
+    {
+      "basename": "БЭМ -«Блок, Элемент, Модификатор»",
+      "path": "DevOps-Learn/Frontend/БЭМ -«Блок, Элемент, Модификатор».md"
+    },
+    {
       "basename": "Sass",
       "path": "DevOps-Learn/Frontend/Sass.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "5 простых способов визуализации данных на Python. Пишем код",
       "path": "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md"
-    },
-    {
-      "basename": "top, htop, atop - утилиты вывода списока процессов в реальном времени",
-      "path": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
     },
     {
       "basename": "в закладки Bash для начинающих 21 полезная команда  Хабр",
@@ -195,10 +199,6 @@
     {
       "basename": "Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS",
       "path": "Helping-Sites/Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS.md"
-    },
-    {
-      "basename": "Что делать от DDoS атаки на linux",
-      "path": "Что делать от DDoS атаки на linux.md"
     }
   ],
   "omittedPaths": [],

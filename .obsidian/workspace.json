@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Frontend/Sass.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#архивация",
+                "query": "tag:#-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Frontend/Sass.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Frontend/Sass.md",
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Frontend/Sass.md"
+                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
               }
             }
           },
@@ -237,8 +237,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cc9e8d180db70e83",
+  "active": "03bd4c46371f19f8",
   "lastOpenFiles": [
+    "DevOps-Learn/Frontend/БЭМ -«Блок, Элемент, Модификатор».md",
+    "DevOps-Learn/Frontend/Sass.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Lab-Work/Lab-Work.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
@@ -262,11 +264,9 @@
     "Helping-Sites/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
     "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
     "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md",
-    "DevOps-Learn/Frontend/Sass.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/CI-CD/Канбан-доска.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
-    "Telegram-notes/__Архитектура systemd____Подси - 2024-02-23-03-06.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
