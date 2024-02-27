@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
+                "file": "Lab-Work/Lab-Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
+                "file": "Lab-Work/Lab-Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
+                "file": "Lab-Work/Lab-Work.md"
               }
             }
           },
@@ -225,10 +225,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e1ce502b15bc67d3",
+  "active": "6da1609747840b45",
   "lastOpenFiles": [
-    "DevOps-Learn/Kubernetus/Сервер.md",
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
+    "DevOps-Learn/Kubernetus/Сервер.md",
     "Helping-Sites/Первые действия когда заходим на сервер linux-like.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "DevOps-Learn/Docker/Как появились контейнеры.md",
