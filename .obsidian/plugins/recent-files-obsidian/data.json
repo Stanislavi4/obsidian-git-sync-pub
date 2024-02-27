@@ -5,6 +5,14 @@
       "path": "DevOps-Learn/Bash/Работа с bash.md"
     },
     {
+      "basename": "Операторы",
+      "path": "DevOps-Learn/Bash/Операторы.md"
+    },
+    {
+      "basename": "Программное обеспечение",
+      "path": "DevOps-Learn/Bash/Программное обеспечение.md"
+    },
+    {
       "basename": "Команды необходимые в bash",
       "path": "DevOps-Learn/Bash/Команды необходимые в bash.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "photo_2133256537_0 - 20240222222841239",
       "path": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
-    },
-    {
-      "basename": "Дорожная карта DevOps 3 1",
-      "path": "Helping-Sites/Дорожная карта DevOps 3 1.md"
-    },
-    {
-      "basename": "0a1b31a1a071621195c4e706562e01db_MD5",
-      "path": "0a1b31a1a071621195c4e706562e01db_MD5.png"
     }
   ],
   "omittedPaths": [],
