@@ -1,6 +1,17 @@
 ---
 created: 2024-02-20T01:18:24 (UTC +06:00)
-tags: [обход блокировок,mikrotik,routeros,обход блокировок по доменам,bgp,точечный обход блокировок]
+tags:
+  - обход
+  - блокировок
+  - mikrotik
+  - routeros
+  - обход
+  - блокировок
+  - доменам
+  - bgp
+  - точечный
+  - обход
+  - блокировок
 source: https://habr.com/ru/articles/775110/
 author: itdog
 ---

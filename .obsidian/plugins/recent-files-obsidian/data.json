@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS",
+      "path": "DevOps-Learn/Frontend/CSS.md"
+    },
+    {
+      "basename": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
+      "path": "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md"
+    },
+    {
       "basename": "top, htop, atop - утилиты вывода списока процессов в реальном времени",
       "path": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Как стать VPN провайдером за один вечер  Хабр",
       "path": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md"
-    },
-    {
-      "basename": "Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер",
-      "path": "Helping-Sites/Кто такой системный администратор,  И почему это уже не человек, который настраивает офисный компьютер.md"
-    },
-    {
-      "basename": "Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS",
-      "path": "Helping-Sites/Краткое руководство по борьбе с DDOS-атаками на веб-сервер  FirstVDS.md"
     }
   ],
   "omittedPaths": [],
