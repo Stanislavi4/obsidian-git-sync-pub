@@ -11,8 +11,12 @@
             "id": "f0872ab728e0395d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-Learn/Bash/Работа с bash.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps-Learn/Bash/Работа с bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps-Learn/Bash/Работа с bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps-Learn/Bash/Работа с bash.md"
+              }
             }
           },
           {
@@ -167,6 +175,7 @@
   },
   "active": "f0872ab728e0395d",
   "lastOpenFiles": [
+    "DevOps-Learn/Bash/Работа с bash.md",
     "DevOps-Learn/Bash/Команды необходимые в bash.md",
     "Unix+Shell(Raif)/1.pdf",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235.jpg",
@@ -201,7 +210,6 @@
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Helping-Sites/Описание Резюме.md",
     "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
-    "DevOps-Learn/Python/5 простых способов визуализации данных на Python. Пишем код.md",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
