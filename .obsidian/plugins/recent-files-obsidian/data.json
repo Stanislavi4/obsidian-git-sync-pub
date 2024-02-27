@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab-Work",
+      "path": "Lab-Work/Lab-Work.md"
+    },
+    {
+      "basename": "Известные люди в IT которых обязан знать.",
+      "path": "Helping-Sites/Известные люди в IT которых обязан знать..md"
+    },
+    {
       "basename": "Первые действия когда заходим на сервер unix-like",
       "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
     },
@@ -53,20 +61,12 @@
       "path": "DevOps-Learn/Frontend/Sass.md"
     },
     {
-      "basename": "Lab-Work",
-      "path": "Lab-Work/Lab-Work.md"
-    },
-    {
       "basename": "Коротко о Kubernetus",
       "path": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
     },
     {
       "basename": "Сервер",
       "path": "DevOps-Learn/Kubernetus/Сервер.md"
-    },
-    {
-      "basename": "Известные люди в IT которых обязан знать.",
-      "path": "Helping-Sites/Известные люди в IT которых обязан знать..md"
     },
     {
       "basename": "Как появились контейнеры",
