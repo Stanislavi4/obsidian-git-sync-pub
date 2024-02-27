@@ -11,8 +11,12 @@
             "id": "a9cd4d5dad52e855",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-Learn/Bash/Команды необходимые в bash.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps-Learn/Bash/Команды необходимые в bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps-Learn/Bash/Команды необходимые в bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix+Shell(Raif)/1.pdf"
+                "file": "DevOps-Learn/Bash/Команды необходимые в bash.md"
               }
             }
           },
@@ -167,8 +173,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2e57c15dcaf54960",
+  "active": "a9cd4d5dad52e855",
   "lastOpenFiles": [
+    "DevOps-Learn/Bash/Команды необходимые в bash.md",
+    "Unix+Shell(Raif)/1.pdf",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235.jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(2).jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(1).jpg",
@@ -213,10 +221,8 @@
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)/Kak-skopirovat-fajly-s-pomoshhyu-komandy-sr-v-Linux-330x250.png",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)",
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов/pravilo-firewall-blokirovki-rdp-dostupa-dlya-ip-adresov.jpg",
-    "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов/neudachie-popitki-rdp-vhoda-podbor-parolya.jpg",
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов",
     "Helping-Sites/Искусство командной строки  Хабр",
-    "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр",
     "Без названия.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
