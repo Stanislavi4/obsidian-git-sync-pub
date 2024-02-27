@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Bash/2.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#команды",
+                "query": "unix-l",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Bash/2.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Bash/2.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Bash/2.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
               }
             }
           },
@@ -175,8 +176,8 @@
   },
   "active": "f0872ab728e0395d",
   "lastOpenFiles": [
-    "DevOps-Learn/Bash/Операторы.md",
     "DevOps-Learn/Bash/2.md",
+    "DevOps-Learn/Bash/Операторы.md",
     "DevOps-Learn/Bash/Работа с bash.md",
     "DevOps-Learn/Bash/Программное обеспечение.md",
     "DevOps-Learn/Bash/Команды необходимые в bash.md",
