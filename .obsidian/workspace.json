@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
               }
             }
           },
@@ -238,8 +239,8 @@
   },
   "active": "03bd4c46371f19f8",
   "lastOpenFiles": [
-    "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
     "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
+    "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
