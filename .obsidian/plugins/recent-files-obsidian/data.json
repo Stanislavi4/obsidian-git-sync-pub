@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "0.Начало DevOps обучения, и краткое содержимое",
+      "path": "0.Начало DevOps обучения, и краткое содержимое.canvas"
+    },
+    {
+      "basename": "История IT для понимания основ",
+      "path": "DevOps-Learn/История IT для понимания основ.canvas"
+    },
+    {
+      "basename": "Операционная система",
+      "path": "DevOps-Learn/Операционная система.md"
+    },
+    {
+      "basename": "Виртуальная машина",
+      "path": "DevOps-Learn/Docker/Виртуальная машина.md"
+    },
+    {
       "basename": "top, htop, atop - утилиты вывода списока процессов в реальном времени",
       "path": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
     },
@@ -105,10 +121,6 @@
       "path": "DevOps-Learn/История IT для понимания основ 1/В 1964 году Американская Ассоциация Стандартов принимает новый 7-битовый стандарт для обмена информации ASCII (American Standard Code for Information Interchange)..md"
     },
     {
-      "basename": "История IT для понимания основ",
-      "path": "DevOps-Learn/История IT для понимания основ.canvas"
-    },
-    {
       "basename": "Канбан-доска",
       "path": "DevOps-Learn/CI-CD/Канбан-доска.md"
     },
@@ -165,10 +177,6 @@
       "path": "Lab-Work/Импорт сертификатов из винды в линукс.md"
     },
     {
-      "basename": "Операционная система",
-      "path": "DevOps-Learn/Операционная система.md"
-    },
-    {
       "basename": "photo_2133256537_1 - 20240223022603165",
       "path": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "0cf4062860e86ac604442e1c96b0c1b1_MD5",
       "path": "0cf4062860e86ac604442e1c96b0c1b1_MD5.png"
-    },
-    {
-      "basename": "0.Начало DevOps обучения, и краткое содержимое",
-      "path": "0.Начало DevOps обучения, и краткое содержимое.canvas"
-    },
-    {
-      "basename": "Как стать VPN провайдером за один вечер  Хабр",
-      "path": "Helping-Sites/Как стать VPN провайдером за один вечер  Хабр.md"
     }
   ],
   "omittedPaths": [],

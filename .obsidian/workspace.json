@@ -73,11 +73,14 @@
             "id": "03bd4c46371f19f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
-                "mode": "source",
-                "source": false
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
+                "viewState": {
+                  "x": -10,
+                  "y": -420,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#реальном",
+                "query": "tag:#команды",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +139,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
+                "file": "0.Начало DevOps обучения, и краткое содержимое.canvas"
               }
             }
           },
@@ -239,9 +241,12 @@
   },
   "active": "03bd4c46371f19f8",
   "lastOpenFiles": [
+    "DevOps-Learn/История IT для понимания основ.canvas",
+    "DevOps-Learn/Операционная система.md",
+    "DevOps-Learn/Docker/Виртуальная машина.md",
+    "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
     "DevOps-Learn/Frontend/CSS.md",
     "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
-    "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
     "DevOps-Learn/Frontend/БЭМ -«Блок, Элемент, Модификатор».md",
     "DevOps-Learn/Frontend/Sass.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
@@ -262,10 +267,6 @@
     "Helping-Sites/Предлагаю вашему вниманию необычный мониторинг..  Системное администрирование  ВКонтакте.md",
     "Helping-Sites/Обход блокировок настройка сервера XRay для Shadowsocks-2022 и VLESS с XTLS-Vision, Websockets и фейковым веб-сайтом  Хабр.md",
     "Helping-Sites/в закладки Bash для начинающих 21 полезная команда  Хабр.md",
-    "Helping-Sites/Искусство командной строки  Хабр.md",
-    "Helping-Sites/Современные технологии обхода блокировок V2Ray, XRay, XTLS, Hysteria, Cloak.md",
-    "Telegram-notes/🚀__ Полезная шпаргалка по GIT - 2024-02-22-22-28.md",
-    "DevOps-Learn/История IT для понимания основ.canvas",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Lab-Work",
