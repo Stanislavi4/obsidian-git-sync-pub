@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Работа с bash",
-      "path": "DevOps-Learn/Bash/Работа с bash.md"
+      "basename": "2",
+      "path": "DevOps-Learn/Bash/2.md"
     },
     {
       "basename": "Операторы",
       "path": "DevOps-Learn/Bash/Операторы.md"
+    },
+    {
+      "basename": "Работа с bash",
+      "path": "DevOps-Learn/Bash/Работа с bash.md"
     },
     {
       "basename": "Программное обеспечение",
@@ -195,10 +199,6 @@
     {
       "basename": "photo_2133256537_1 - 20240223022603165",
       "path": "Telegram-notes/photos/photo_2133256537_1 - 20240223022603165.jpg"
-    },
-    {
-      "basename": "photo_2133256537_0 - 20240222222841239",
-      "path": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
     }
   ],
   "omittedPaths": [],
