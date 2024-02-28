@@ -33,7 +33,8 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Nano, Apache kafka, 
 			 Настраивал, ремонтировал маршрутизаторы на основе Linux (Centos 7) для обеспечения туннельного соединения между филиалами организации. (iptables, cat var/log, inode, mount, ip2ban, OpenVPN, OpenSSH)
 			 Администрировал, диагностировал неисправности в семействах ОС Windows . (PS Get-EventLog, Get-WinEvent, методом черного ящика через просмотр wireshark, DevTools web.)
 			 Аудит систем на семействах ОС Windows. (Active Directory, ACL, Делегирование на основе GPO)
-			 Центрилозовал 
+			 Централизовал при помощи AD GPO, сетевые принтера по разграничению прав пользователей
+			  
 		Администратор безопасности  сети ОАО "Сибхлеб"
 			asdfadf
 		Системный техник МКОО БПОУ "Омский колледж культуры  и искусства"
