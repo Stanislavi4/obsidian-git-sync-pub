@@ -59,6 +59,6 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 Ключевые навыки:  Linux, CI/CD, Devops, docker, Kubernetes, Ansible, [[PostgreSQL]],  [[Kafka Apache]] , helm, Git, Gitlab, PromoxVE, Prometheus, Garbache collector [[Java Core]]  
 
 Водительские права: категория "B" (14.11.2020 )
-
+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
 Гражданство: Россия 
 
