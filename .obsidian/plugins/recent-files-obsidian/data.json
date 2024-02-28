@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Elasticsearch",
+      "path": "DevOps-Learn/SQL/Elasticsearch.md"
+    },
+    {
+      "basename": "СУБД",
+      "path": "DevOps-Learn/SQL/СУБД.md"
+    },
+    {
+      "basename": "Коротко о База данных",
+      "path": "DevOps-Learn/SQL/Коротко о База данных.md"
+    },
+    {
       "basename": "UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры",
-      "path": "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md"
+      "path": "Helping-Sites/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md"
     },
     {
       "basename": "SQL",
@@ -19,18 +31,6 @@
     {
       "basename": "JOIN",
       "path": "DevOps-Learn/SQL/JOIN.md"
-    },
-    {
-      "basename": "Elasticsearch",
-      "path": "DevOps-Learn/SQL/Elasticsearch.md"
-    },
-    {
-      "basename": "СУБД",
-      "path": "DevOps-Learn/SQL/СУБД.md"
-    },
-    {
-      "basename": "Коротко о База данных",
-      "path": "DevOps-Learn/SQL/Коротко о База данных.md"
     },
     {
       "basename": "Резюме build 0.1",
