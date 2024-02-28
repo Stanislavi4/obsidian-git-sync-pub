@@ -273,7 +273,7 @@ scp -r user@remote:/path/to/new_file /local/path/to/existing_file - добави
 ```
 
 
-
+e
 
 ```
 awk -  язык обработки строк (синтаксис языка С ). Аналог grep
