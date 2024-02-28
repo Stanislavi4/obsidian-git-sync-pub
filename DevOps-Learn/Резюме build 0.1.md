@@ -26,4 +26,4 @@ DevOps инженер / системный администратор [[Linux]]
 
 
 Технологический стек:
-Linux, Unix-like, Centos, Ubuntu, Debian, Bash, 
+Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, RabbitMQ, Zabbix, Prometheus, Grafana, ELK, Docker,
