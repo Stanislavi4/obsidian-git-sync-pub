@@ -4,34 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "55ffddd720b8c1de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f0872ab728e0395d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 2 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c880a0f935b5fe3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "469cb9426633b274f0549dce921fa60b_MD5.png"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "252e480b774ed539",
         "type": "tabs",
         "children": [
@@ -41,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md"
+                "file": "DevOps-Learn/Резюме build 0.1.md"
               }
             }
           },
@@ -204,8 +176,8 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
-    "DevOps-Learn/Резюме build 0.1.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
+    "DevOps-Learn/Резюме build 0.1.md",
     "DevOps-Learn/Windows/Резюме build 0.2.md",
     "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
     "DevOps-Learn/Windows/Резюме Альфа.md",
