@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Резюме Бетта ChatGPT",
+      "path": "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md"
+    },
+    {
       "basename": "Резюме build 0.1",
       "path": "DevOps-Learn/Резюме build 0.1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "__Архитектура systemd____Подси - 2024-02-23-03-06",
       "path": "Telegram-notes/__Архитектура systemd____Подси - 2024-02-23-03-06.md"
-    },
-    {
-      "basename": "__В Linux есть несколько полез - 2024-02-23-03-08",
-      "path": "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md"
     }
   ],
   "omittedPaths": [],
