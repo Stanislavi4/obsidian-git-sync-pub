@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 2 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "58bdef1d3defc679",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md",
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md",
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md"
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png"
               }
             }
           },
@@ -173,8 +184,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f0872ab728e0395d",
+  "active": "58bdef1d3defc679",
   "lastOpenFiles": [
+    "Helping-Sites/Дорожная карта DevOps 2 1.md",
+    "Helping-Sites/Дорожная карта DevOps 3 1.md",
+    "Helping-Sites/Дорожная карта DevOps 1 1.md",
     "DevOps-Learn/Операционная система.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
@@ -208,8 +222,6 @@
     "DevOps-Learn/Docker/Виртуальная машина.md",
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
     "DevOps-Learn/Frontend/CSS.md",
-    "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
-    "DevOps-Learn/Frontend/БЭМ -«Блок, Элемент, Модификатор».md",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
