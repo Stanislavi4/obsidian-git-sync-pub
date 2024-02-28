@@ -43,7 +43,7 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 		- Создание проекта, реализация и администрирование сетевых протоколов, а точнее NAT, Forwarding Port, VLAN, DHCP, SMB, FTP, NTP, DNS, Wi-Fi Mesh/Repeater, QoS, Marking/Mangle, Filter Rules, Routers List, SSH, SFTP, Web Proxy;
 		- Построение Карт сети уровня L2, L3, L4 TCP/IP, контроля и управления сетевыми устройствами и их поддержка в актуализированном состоянии;
 		- Введение в эксплуатацию hardware/software raid контроллеров, а также массивов дисков, с дальнейшем администрированием и мониторингом на базе ОС Windows Server; 
-		- Создание одностраничных сайтов на HTML/CSS, и их поднятие в эксплуатацию на базе ОС Linux (контроль SSL сертификатов, хостинг VPS, мониторинг );
+		- Создание  сайтов-визиток на HTML/CSS, и их поднятие в эксплуатацию на базе ОС Linux (контроль SSL сертификатов, хостинг VPS, мониторинг );
 		- Настройка систем мониторинга (Zabbix + API bot Telegram);
 		Soft skill:
 		- Выполнение функций оператора технической поддержки первого, второго, и третьего уровня;
@@ -54,11 +54,11 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 
 
 Обо мне:
-Добрый день! Я  трудолюбивый и увлеченный в computer science. Я легко нахожу общий язык с людьми и готов к работе. Права категории «В» (от 14.11.2020)
+Добрый день! Я  трудолюбивый и увлеченный в computer science. Я легко нахожу общий язык с людьми и готов к работе. 
 
 Ключевые навыки:  Linux, CI/CD, Devops, docker, Kubernetes, Ansible, [[PostgreSQL]],  [[Kafka Apache]] , helm, Git, Gitlab, PromoxVE, Prometheus, Garbache collector [[Java Core]]  
 
-Водительские права:
+Водительские права: категория "B" (14.11.2020 )
 
 Гражданство: Россия
 
