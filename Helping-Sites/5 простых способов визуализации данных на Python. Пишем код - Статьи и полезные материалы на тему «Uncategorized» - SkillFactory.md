@@ -1,8 +1,8 @@
 ---
 created: 2024-02-24T07:23:29 (UTC +06:00)
-tags: []
+tags: 
 source: https://blog.skillfactory.ru/5-prostyh-sposobov-vizualizacii-dannyh-na-python-pishem-kod/#%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82
-author: 
+author:
 ---
 
 # 5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory
