@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md",
+                "file": "DevOps-Learn/SQL/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md",
+                "file": "DevOps-Learn/SQL/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md",
+                "file": "DevOps-Learn/SQL/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md"
+                "file": "DevOps-Learn/SQL/SQL.md"
               }
             }
           },
@@ -188,8 +188,15 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
-    "DevOps-Learn/Резюме build 0.2.1.md",
+    "DevOps-Learn/SQL/PostgreSQL.md",
+    "DevOps-Learn/SQL/SQL.md",
+    "DevOps-Learn/SQL/MongoDB.md",
+    "DevOps-Learn/SQL/JOIN.md",
+    "DevOps-Learn/SQL/Elasticsearch.md",
+    "DevOps-Learn/SQL/СУБД.md",
+    "DevOps-Learn/SQL/Коротко о База данных.md",
     "DevOps-Learn/Резюме build 0.1.md",
+    "DevOps-Learn/Резюме build 0.2.1.md",
     "DevOps-Learn/Java/Java Core.md",
     "DevOps-Learn/Windows/Резюме build 0.2.md",
     "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
@@ -209,16 +216,9 @@
     "DevOps-Learn/Операционная система.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Bash/VIM интсрукция.md",
-    "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "Welcome.md",
-    "0.Начало DevOps обучения, и краткое содержимое.md",
     "Без названия.canvas",
-    "2024-02-22.md",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
-    "Lab-Work/притензии.md",
-    "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
-    "DevOps-Learn/Bash/2.md",
     "Unix+Shell(Raif)/1.pdf",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235.jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(2).jpg",
