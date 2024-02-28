@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 2 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 2 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md"
+                "file": "Helping-Sites/Дорожная карта DevOps 2 1.md"
               }
             }
           },
@@ -198,17 +198,18 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8a6e58680ecdc3e",
+  "active": "f0872ab728e0395d",
   "lastOpenFiles": [
+    "DevOps-Learn/Резюме build 0.1.md",
     "Helping-Sites/Дорожная карта DevOps 2 1.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "Telegram-notes/__Док-панель Tint2____Tint2 —  - 2024-02-28-18-45.md",
     "Telegram-notes/__Все утилиты для обработки те - 2024-02-28-18-45.md",
     "Telegram-notes/__Док-панель Cairo-Dock____Cai - 2024-02-28-18-45.md",
-    "DevOps-Learn/Резюме build 0.1.md",
     "Helping-Sites/Английский язык для программиста how to.md",
     "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
     "DevOps-Learn/Что делать от DDoS атаки на linux.md",
