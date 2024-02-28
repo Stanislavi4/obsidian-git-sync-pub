@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Java/Java Core.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Java/Java Core.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Java/Java Core.md"
+                "file": "DevOps-Learn/Резюме build 0.1.md"
               }
             }
           },
@@ -187,8 +186,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bd83bd2ce2ecf4b",
+  "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "DevOps-Learn/Java/Java Core.md",
     "DevOps-Learn/Резюме build 0.1.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
     "DevOps-Learn/Windows/Резюме build 0.2.md",
@@ -219,7 +219,6 @@
     "Lab-Work/притензии.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "DevOps-Learn/Bash/2.md",
-    "DevOps-Learn/Bash/Операторы.md",
     "Unix+Shell(Raif)/1.pdf",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235.jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(2).jpg",
