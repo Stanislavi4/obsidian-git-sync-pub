@@ -34,4 +34,5 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 	Создание, тестирование, введение в эксплуатацию и  администрирование Workstation (рабочих станций) на базе ОС Windows Server / [[Linux]] 
 	Выполнение функций аудита/разграничение доступа на базе семейства ОС Windows, 
 	Работа с ACL, Firewall на Router/Switch Mikrotik, ОС Linux Centos 
-	Проведение технических мероприятий/о  
+	Проведение технических мероприятий/обслуживания периферии и клиентского оборудования
+	   
