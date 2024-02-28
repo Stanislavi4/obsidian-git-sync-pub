@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Резюме Альфа",
+      "path": "DevOps-Learn/Windows/Резюме Альфа.md"
+    },
+    {
       "basename": "Резюме build 0.1",
       "path": "DevOps-Learn/Резюме build 0.1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "__В Linux есть несколько полез - 2024-02-23-03-08",
       "path": "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md"
-    },
-    {
-      "basename": "В Linux драйверы ядра - это пр - 2024-02-23-03-08",
-      "path": "Telegram-notes/В Linux драйверы ядра - это пр - 2024-02-23-03-08.md"
     }
   ],
   "omittedPaths": [],
