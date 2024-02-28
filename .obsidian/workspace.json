@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md",
+                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что делать от DDoS атаки на linux.md"
+                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "f0872ab728e0395d",
   "lastOpenFiles": [
+    "Welcome.md",
+    "DevOps-Learn/Что делать от DDoS атаки на linux.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Без названия.canvas",
     "2024-02-22.md",
@@ -209,7 +211,6 @@
     "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
     "DevOps-Learn/Kubernetus/Сервер.md",
     "DevOps-Learn/Docker/Как появились контейнеры.md",
-    "DevOps-Learn/Docker/Контейнеризация.md",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
