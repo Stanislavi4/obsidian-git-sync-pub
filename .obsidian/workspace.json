@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
+                "file": "Что делать от DDoS атаки на linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
+                "file": "Что делать от DDoS атаки на linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
+                "file": "Что делать от DDoS атаки на linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Начало DevOps обучения, и краткое содержимое.md"
+                "file": "Что делать от DDoS атаки на linux.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "f0872ab728e0395d",
   "lastOpenFiles": [
+    "0.Начало DevOps обучения, и краткое содержимое.md",
+    "Без названия.canvas",
+    "2024-02-22.md",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Lab-Work/притензии.md",
@@ -207,8 +210,6 @@
     "DevOps-Learn/Kubernetus/Сервер.md",
     "DevOps-Learn/Docker/Как появились контейнеры.md",
     "DevOps-Learn/Docker/Контейнеризация.md",
-    "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
-    "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
@@ -222,7 +223,6 @@
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов/pravilo-firewall-blokirovki-rdp-dostupa-dlya-ip-adresov.jpg",
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов",
     "Helping-Sites/Искусство командной строки  Хабр",
-    "Без названия.canvas",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
 }
