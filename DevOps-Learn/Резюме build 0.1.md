@@ -56,7 +56,7 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 Обо мне:
 Добрый день! Я  трудолюбивый и увлеченный в computer science. Я легко нахожу общий язык с людьми и готов к работе. Права категории «В» (от 14.11.2020)
 
-Ключевые навыки:  Linux, CI/CD, Devops, docker, Kubernetes, Ansible, [[PostgreSQL]],  [[Kafka Apache]] , helm
+Ключевые навыки:  Linux, CI/CD, Devops, docker, Kubernetes, Ansible, [[PostgreSQL]],  [[Kafka Apache]] , helm, Git, Gitlab, PromoxVE, 
 
 Водительские права:
 
