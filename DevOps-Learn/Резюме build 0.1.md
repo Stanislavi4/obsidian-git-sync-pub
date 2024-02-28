@@ -18,7 +18,7 @@ source:
 Моб.Телефон: +79293684543
 
 DevOps инженер / системный администратор [[Linux]] 
-Dev
+DevOps (CI/CD, Linux, Docker,[Ansible )
 
 Опыт и навыки
 
