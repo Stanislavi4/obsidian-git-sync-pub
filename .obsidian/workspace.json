@@ -11,9 +11,11 @@
             "id": "f0872ab728e0395d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf"
+                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
+                "file": "0.Начало DevOps обучения, и краткое содержимое.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf"
+                "file": "0.Начало DevOps обучения, и краткое содержимое.md"
               }
             }
           },
@@ -173,6 +175,9 @@
   },
   "active": "f0872ab728e0395d",
   "lastOpenFiles": [
+    "0.Начало DevOps обучения, и краткое содержимое.canvas",
+    "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
+    "Lab-Work/притензии.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "DevOps-Learn/Bash/2.md",
     "DevOps-Learn/Bash/Операторы.md",
@@ -190,8 +195,6 @@
     "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
     "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
-    "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
-    "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Операционная система.md",
     "DevOps-Learn/Docker/Виртуальная машина.md",
@@ -206,8 +209,6 @@
     "DevOps-Learn/Docker/Контейнеризация.md",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
     "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md",
-    "Lab-Work/притензии.md",
-    "Helping-Sites/Что изменилось в работе DevOps-инженеров.md",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
