@@ -33,4 +33,5 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 	Выполнение функций оператора технической поддержки первого, второго, и третьего уровня
 	Создание, тестирование, введение в эксплуатацию и  администрирование Workstation (рабочих станций) на базе ОС Windows Server / [[Linux]] 
 	Выполнение функций аудита/разграничение доступа на базе семейства ОС Windows, 
-	Работа с ACL, Firewall, Bra  
+	Работа с ACL, Firewall на Router/Switch Mikrotik, ОС Linux Centos 
+	Проведение технических мероприятий/о  
