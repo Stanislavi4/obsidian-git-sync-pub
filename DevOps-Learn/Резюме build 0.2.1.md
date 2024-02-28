@@ -29,17 +29,13 @@ DevOps инженер / системный администратор [[Linux]]
 Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Nano, Apache kafka, RabbitMQ, Zabbix, Prometheus, Grafana, ELK, Docker, Gitlab, GitHub, Jenkins, Ansible, Windows Server, Windows (XP, 7, 8.1, 10, 11), Mikrotik, TCP/IP, Cisco, Kuberneteus
 
 Обязанности в подробностях:
-		Системный администратор Безопасности сети ООО ТК "Агро-Инвест"
 			 Настраивал, ремонтировал маршрутизаторы на основе Linux (Centos 7) для обеспечения туннельного соединения между филиалами организации. (iptables, cat var/log, inode, mount, ip2ban, OpenVPN, OpenSSH)
 			 Администрировал, диагностировал неисправности в семействах ОС Windows . (PS Get-EventLog, Get-WinEvent, методом черного ящика через просмотр wireshark, DevTools web.)
 			 Аудит систем на семействах ОС Windows. (Active Directory, ACL, Делегирование на основе GPO)
 			 Централизовал при помощи AD GPO, сетевые принтера по разграничению прав пользователей
 			 Собирал на x86 workstation шлюз-принтера (CUPS) и принт-сервера. Настраивал совместимость работы между всеми редакциям ОС Windows, а также на Linux машинах.
 			 Создал проект сетей на предприятии, а точнее мониторинг каждого элемента звена с оповещением событий. (Zabbix+ Telegram bot+ LUA)
-		Администратор безопасности  сети ОАО "Сибхлеб"
-			asdfadf
-		Системный техник МКОО БПОУ "Омский колледж культуры  и искусства"
-			asdaewf
+
 		
 Обо мне
 Здравствуйте! Я коммуникабельный, трудолюбивый и увлеченный в computer science. Я легко нахожу общий язык с людьми и готов к работе. 
