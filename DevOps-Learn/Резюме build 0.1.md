@@ -32,7 +32,7 @@ DevOps (CI/CD, Linux, Docker,Ansible)
 Технологический стек:
 Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, RabbitMQ, Zabbix, Prometheus, Grafana, ELK, Docker, Gitlab, GitHub, Jenkins, Ansible, Windows Server, Windows (XP, 7, 8.1, 10, 11), Mikrotik, TCP/IP, Cisco, Kuberneteus
 
-Баллада о том как меня ебали, я сосал:
+Подумать о названии лаконичном об обязанностях:
 		Hard stack:
 		- Траблшутинг ЛВС (локально-вычислительной сети ), 1С,  unix-like, windows, периферийной техники;
 		- Сборка, создание, тестирование, введение в эксплуатацию и  администрирование Workstation (рабочих станций) на базе ОС Windows Server / Linux;
