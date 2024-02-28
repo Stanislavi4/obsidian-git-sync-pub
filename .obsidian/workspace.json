@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Bash/VIM интсрукция.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Bash/VIM интсрукция.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Bash/VIM интсрукция.md",
+                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Bash/VIM интсрукция.md"
+                "file": "Helping-Sites/Дорожная карта DevOps 1 1.md"
               }
             }
           },
@@ -173,14 +173,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2e57c15dcaf54960",
+  "active": "f0872ab728e0395d",
   "lastOpenFiles": [
-    "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "DevOps-Learn/Bash/VIM интсрукция.md",
-    "DevOps-Learn/Что делать от DDoS атаки на linux.md",
-    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Операционная система.md",
+    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
+    "DevOps-Learn/Что делать от DDoS атаки на linux.md",
+    "DevOps-Learn/Bash/VIM интсрукция.md",
+    "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "Welcome.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Без названия.canvas",
