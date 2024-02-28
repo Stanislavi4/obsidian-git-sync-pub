@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "252e480b774ed539",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "469cb9426633b274f0549dce921fa60b_MD5.png",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "469cb9426633b274f0549dce921fa60b_MD5.png",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "469cb9426633b274f0549dce921fa60b_MD5.png"
+                "file": "DevOps-Learn/Резюме build 0.1.md"
               }
             }
           },
@@ -202,13 +201,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6c880a0f935b5fe3",
+  "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "Helping-Sites/Дорожная карта DevOps 2 1.md",
+    "469cb9426633b274f0549dce921fa60b_MD5.png",
     "Telegram-notes/__Док-панель Tint2____Tint2 —  - 2024-02-28-18-45.md",
     "Telegram-notes/__Все утилиты для обработки те - 2024-02-28-18-45.md",
     "Telegram-notes/__Док-панель Cairo-Dock____Cai - 2024-02-28-18-45.md",
-    "Helping-Sites/Дорожная карта DevOps 2 1.md",
-    "469cb9426633b274f0549dce921fa60b_MD5.png",
     "DevOps-Learn/Резюме build 0.1.md",
     "Helping-Sites/Английский язык для программиста how to.md",
     "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
@@ -239,7 +238,6 @@
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(1).jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр.md",
-    "Lab-Work/Lab-Work.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
