@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unix-l",
+                "query": "резюму",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8a6e58680ecdc3e",
+  "active": "cc9e8d180db70e83",
   "lastOpenFiles": [
     "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
     "DevOps-Learn/Резюме build 0.1.md",
