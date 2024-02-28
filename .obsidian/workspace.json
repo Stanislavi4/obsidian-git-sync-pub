@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md",
+                "file": "DevOps-Learn/Bash/VIM интсрукция.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md",
+                "file": "DevOps-Learn/Bash/VIM интсрукция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md",
+                "file": "DevOps-Learn/Bash/VIM интсрукция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Что делать от DDoS атаки на linux.md"
+                "file": "DevOps-Learn/Bash/VIM интсрукция.md"
               }
             }
           },
@@ -173,10 +173,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f0872ab728e0395d",
+  "active": "2e57c15dcaf54960",
   "lastOpenFiles": [
-    "Welcome.md",
+    "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
+    "DevOps-Learn/Bash/VIM интсрукция.md",
     "DevOps-Learn/Что делать от DDoS атаки на linux.md",
+    "DevOps-Learn/История IT для понимания основ.canvas",
+    "DevOps-Learn/Операционная система.md",
+    "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
+    "Welcome.md",
     "0.Начало DevOps обучения, и краткое содержимое.md",
     "Без названия.canvas",
     "2024-02-22.md",
@@ -200,17 +205,11 @@
     "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
     "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
-    "DevOps-Learn/История IT для понимания основ.canvas",
-    "DevOps-Learn/Операционная система.md",
     "DevOps-Learn/Docker/Виртуальная машина.md",
     "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md",
     "DevOps-Learn/Frontend/CSS.md",
     "DevOps-Learn/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md",
     "DevOps-Learn/Frontend/БЭМ -«Блок, Элемент, Модификатор».md",
-    "DevOps-Learn/Frontend/Sass.md",
-    "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md",
-    "DevOps-Learn/Kubernetus/Сервер.md",
-    "DevOps-Learn/Docker/Как появились контейнеры.md",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
     "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
