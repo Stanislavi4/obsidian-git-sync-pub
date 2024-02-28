@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/SQL/SQL.md",
+                "file": "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/SQL/SQL.md",
+                "file": "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/SQL/SQL.md",
+                "file": "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/SQL/SQL.md"
+                "file": "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
-    "DevOps-Learn/SQL/PostgreSQL.md",
     "DevOps-Learn/SQL/SQL.md",
+    "DevOps-Learn/SQL/PostgreSQL.md",
     "DevOps-Learn/SQL/MongoDB.md",
     "DevOps-Learn/SQL/JOIN.md",
     "DevOps-Learn/SQL/Elasticsearch.md",
