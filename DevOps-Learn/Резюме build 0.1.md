@@ -42,5 +42,6 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 	Создание и администрирование  туннелей на основе OpenVPN/GRE/EoIP/IPIP/L2TP/Wireguard
 	Создание и администрирование автоматизированных маршрутизаций удаленных туннелей на основе BGP/OSPF
 	Создание проекта, реализация и администрирование сетевых протоколов, а точнее NAT, Forwarding Port, VLAN, DHCP, SMB, FTP, NTP, DNS, Wi-Fi Mesh/Repeater, QoS, Marking/Mangle, Filter Rules, Routers List, SSH, SFTP, Web Proxy.
-	Траблшутинг периферии совместимости работы unix-like и windows систем, 
+	Траблшутинг  периферии совместимости работы unix-like и windows систем 
+	Создание схематичных проектов L2, L3, L4 OSI IP
 	   
