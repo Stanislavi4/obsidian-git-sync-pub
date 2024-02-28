@@ -45,4 +45,5 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 	Траблшутинг  периферии совместимости работы unix-like и windows систем 
 	Создание схематичных  проектов L2, L3, L4 TCP/IP, и их поддержка
 	Создание одностраничных сайтов на HTML/CSS, и их поднятие в эксплуатацию на базе ОС Linux (контроль SSL сертификатов, хостинг VPS, мониторинг )
-	Создания 
+	Настройка систем мониторинга (Zabbix + API bot Telegram)
+	Введение в 
