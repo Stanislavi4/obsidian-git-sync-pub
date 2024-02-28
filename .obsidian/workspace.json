@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md"
+                "file": "DevOps-Learn/Резюме build 0.1.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
-    "DevOps-Learn/Резюме build 0.1.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
+    "DevOps-Learn/Резюме build 0.1.md",
     "DevOps-Learn/Java/Java Core.md",
     "DevOps-Learn/Windows/Резюме build 0.2.md",
     "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
