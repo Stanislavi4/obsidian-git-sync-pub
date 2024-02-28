@@ -44,4 +44,4 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 	Создание проекта, реализация и администрирование сетевых протоколов, а точнее NAT, Forwarding Port, VLAN, DHCP, SMB, FTP, NTP, DNS, Wi-Fi Mesh/Repeater, QoS, Marking/Mangle, Filter Rules, Routers List, SSH, SFTP, Web Proxy.
 	Траблшутинг  периферии совместимости работы unix-like и windows систем 
 	Создание схематичных  проектов L2, L3, L4 TCP/IP, и их поддержка
-	Создание сайтов на HTML/
+	Создание одностраничных сайтов на HTML/CSS, и их поднятие в эксплуатацию (SSL сертификат, хостинг VPS, ) 
