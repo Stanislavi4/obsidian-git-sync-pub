@@ -29,7 +29,13 @@ DevOps инженер / системный администратор [[Linux]]
 Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Nano, Apache kafka, RabbitMQ, Zabbix, Prometheus, Grafana, ELK, Docker, Gitlab, GitHub, Jenkins, Ansible, Windows Server, Windows (XP, 7, 8.1, 10, 11), Mikrotik, TCP/IP, Cisco, Kuberneteus
 
 Обязанности в подробностях:
-	- 
+		Системный администратор Безопасности сети ООО ТК "Агро-Инвест"
+			adsf
+		Администратор безопасности  сети ОАО "Сибхлеб"
+			asdfadf
+		Системный техник МКОО БПОУ "Омский колледж культуры  и искусства"
+			asdaewf
+		
 Обо мне
 Здравствуйте! Я коммуникабельный, трудолюбивый и увлеченный в computer science. Я легко нахожу общий язык с людьми и готов к работе. 
 
