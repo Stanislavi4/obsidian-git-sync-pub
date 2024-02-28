@@ -29,9 +29,10 @@ DevOps инженер / системный администратор [[Linux]]
 Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, RabbitMQ, Zabbix, Prometheus, Grafana, ELK, Docker, Gitlab, GitHub, Jenkins, Ansible, Windows Server, Windows (XP, 7, 8.1, 10, 11), Mikrotik, TCP/IP, Cisco, Kuberneteus
 
 Обязанности в подробностях:
+		Hard stac
 	- Траблшутинг ЛВС (локально-вычислительной сети )
 	- Выполнение функций оператора технической поддержки первого, второго, и третьего уровня
-	- Сборка, создание, тестирование, введение в эксплуатацию и  администрирование Workstation (рабочих станций) на базе ОС Windows Server / [[Linux]]
+	- Сборка, создание, тестирование, введение в эксплуатацию и  администрирование Workstation (рабочих станций) на базе ОС Windows Server / Linux
 	- Выполнение функций аудита/разграничение доступа на базе семейства ОС Windows,
 	- Работа с ACL, Firewall на Router/Switch Mikrotik, ОС Linux Centos
 	- Проведение технических мероприятий/обслуживания периферии и клиентского оборудования
