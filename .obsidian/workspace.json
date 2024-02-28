@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Без названия.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Без названия.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Без названия.md",
+                "file": "DevOps-Learn/Резюме build 0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Без названия.md"
+                "file": "DevOps-Learn/Резюме build 0.1.md"
               }
             }
           },
@@ -188,15 +188,16 @@
   },
   "active": "58bdef1d3defc679",
   "lastOpenFiles": [
+    "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
+    "DevOps-Learn/Резюме build 0.1.md",
+    "DevOps-Learn/Что делать от DDoS атаки на linux.md",
+    "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
-    "DevOps-Learn/Без названия.md",
     "Helping-Sites/Дорожная карта DevOps 2 1.md",
     "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "Helping-Sites/Дорожная карта DevOps 1 1.md",
     "DevOps-Learn/Операционная система.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
-    "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
-    "DevOps-Learn/Что делать от DDoS атаки на linux.md",
     "DevOps-Learn/Bash/VIM интсрукция.md",
     "DevOps-Learn/SQL/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
     "Welcome.md",
@@ -234,7 +235,6 @@
     "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)/Kak-skopirovat-fajly-s-pomoshhyu-komandy-sr-v-Linux-330x250.png",
     "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)",
-    "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов/pravilo-firewall-blokirovki-rdp-dostupa-dlya-ip-adresov.jpg",
     "Helping-Sites/Защита RDP сервера от перебора паролей с блокировкой IP  Windows для системных администраторов",
     "Helping-Sites/Искусство командной строки  Хабр",
     "DevOps-Learn/Kubernetus/tewst.canvas"
