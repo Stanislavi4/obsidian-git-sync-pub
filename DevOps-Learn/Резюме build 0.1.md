@@ -48,4 +48,4 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 	- Настройка систем мониторинга (Zabbix + API bot Telegram)
 	- Введение в эксплуатацию hardware/software raid контроллеров, а также массивов дисков, с дальнейшем администрированием и мониторингом на базе ОС Windows Server 
 Обо мне
-Приветствую! Коммуникабельный, трудолюбивый, 
+Приветствую! Коммуникабельный, трудолюбивый, дико увлеченный в computer since.
