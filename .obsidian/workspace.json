@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,9 +204,10 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "DevOps-Learn/Windows/Резюме build 0.2.md",
+    "DevOps-Learn/Резюме build 0.1.md",
     "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
     "DevOps-Learn/Windows/Резюме Альфа.md",
-    "DevOps-Learn/Резюме build 0.1.md",
     "Helping-Sites/Описание Резюме.md",
     "Helping-Sites/Дорожная карта DevOps 2 1.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
@@ -235,7 +235,6 @@
     "DevOps-Learn/Bash/2.md",
     "DevOps-Learn/Bash/Операторы.md",
     "DevOps-Learn/Bash/Работа с bash.md",
-    "DevOps-Learn/Bash/Программное обеспечение.md",
     "Unix+Shell(Raif)/1.pdf",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235.jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(2).jpg",
