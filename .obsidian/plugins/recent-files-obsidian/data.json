@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Без названия",
+      "path": "DevOps-Learn/Без названия.md"
+    },
+    {
       "basename": "469cb9426633b274f0549dce921fa60b_MD5",
       "path": "469cb9426633b274f0549dce921fa60b_MD5.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "__Работа с Certbot в терминале - 2024-02-23-03-09",
       "path": "Telegram-notes/__Работа с Certbot в терминале - 2024-02-23-03-09.md"
-    },
-    {
-      "basename": "__FTP-сервер в Linux____1. Для - 2024-02-23-03-08",
-      "path": "Telegram-notes/__FTP-сервер в Linux____1. Для - 2024-02-23-03-08.md"
     }
   ],
   "omittedPaths": [],
