@@ -30,7 +30,7 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 
 Обязанности в подробностях:
 		Hard stack:
-		- Траблшутинг ЛВС (локально-вычислительной сети )
+		- Траблшутинг ЛВС (локально-вычислительной сети ), 1С
 	- Сборка, создание, тестирование, введение в эксплуатацию и  администрирование Workstation (рабочих станций) на базе ОС Windows Server / Linux
 	- Выполнение функций аудита/разграничение доступа на базе семейства ОС Windows,
 	- Работа с ACL, Firewall на Router/Switch Mikrotik, ОС Linux Centos
