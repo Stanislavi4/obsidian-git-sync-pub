@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Описание Резюме.md",
+                "file": "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Описание Резюме.md",
+                "file": "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Описание Резюме.md",
+                "file": "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Описание Резюме.md"
+                "file": "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
     "DevOps-Learn/Резюме build 0.1.md",
+    "Helping-Sites/Описание Резюме.md",
     "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
     "DevOps-Learn/Windows/Резюме Альфа.md",
     "Helping-Sites/Дорожная карта DevOps 2 1.md",
@@ -235,7 +236,6 @@
     "DevOps-Learn/Bash/Операторы.md",
     "DevOps-Learn/Bash/Работа с bash.md",
     "DevOps-Learn/Bash/Программное обеспечение.md",
-    "DevOps-Learn/Bash/Команды необходимые в bash.md",
     "Unix+Shell(Raif)/1.pdf",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235.jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(2).jpg",
