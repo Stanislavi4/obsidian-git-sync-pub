@@ -30,3 +30,4 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 
 Обязанности в подробностях:
 	Траблшутинг ЛВС (локально-вычислительной сети )
+	Выполнени
