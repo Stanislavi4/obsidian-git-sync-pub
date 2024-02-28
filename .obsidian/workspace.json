@@ -20,7 +20,24 @@
             }
           },
           {
-            "id": "58bdef1d3defc679",
+            "id": "6c880a0f935b5fe3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "252e480b774ed539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a6e58680ecdc3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md",
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md",
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.1.md"
+                "file": "469cb9426633b274f0549dce921fa60b_MD5.png"
               }
             }
           },
@@ -186,15 +202,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58bdef1d3defc679",
+  "active": "6c880a0f935b5fe3",
   "lastOpenFiles": [
-    "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
-    "Helping-Sites/Английский язык для программиста how to.md",
+    "Helping-Sites/Дорожная карта DevOps 2 1.md",
+    "469cb9426633b274f0549dce921fa60b_MD5.png",
     "DevOps-Learn/Резюме build 0.1.md",
+    "Helping-Sites/Английский язык для программиста how to.md",
+    "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
     "DevOps-Learn/Что делать от DDoS атаки на linux.md",
     "DevOps-Learn/Основные протоколы и порты необходимые знать для DevOps.md",
-    "469cb9426633b274f0549dce921fa60b_MD5.png",
-    "Helping-Sites/Дорожная карта DevOps 2 1.md",
     "Helping-Sites/Дорожная карта DevOps 3 1.md",
     "Helping-Sites/Дорожная карта DevOps 1 1.md",
     "DevOps-Learn/Операционная система.md",
@@ -223,7 +239,6 @@
     "Lab-Work/Lab-Work.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md",
-    "Telegram-notes/https___youtu.be_gJNkZKRrKnk_s - 2024-02-27-08-23.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Lab-Work",
     "Telegram-notes/photos/photo_2133256537_6 - 20240223030844201.jpg",
