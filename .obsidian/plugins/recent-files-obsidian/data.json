@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java Core",
+      "path": "DevOps-Learn/Java/Java Core.md"
+    },
+    {
       "basename": "Резюме build 0.1",
       "path": "DevOps-Learn/Резюме build 0.1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов",
       "path": "Helping-Sites/Перенос файлов между серверами напрямую по SSH через SCP. Павел А. Сафронов.md"
-    },
-    {
-      "basename": "В 1964 году Американская Ассоциация Стандартов принимает новый 7-битовый стандарт для обмена информации ASCII (American Standard Code for Information Interchange).",
-      "path": "DevOps-Learn/История IT для понимания основ 1/В 1964 году Американская Ассоциация Стандартов принимает новый 7-битовый стандарт для обмена информации ASCII (American Standard Code for Information Interchange)..md"
     }
   ],
   "omittedPaths": [],
