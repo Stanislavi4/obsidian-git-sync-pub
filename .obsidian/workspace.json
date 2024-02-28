@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/SQL/Elasticsearch.md",
+                "file": "DevOps-Learn/SQL/JOIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/SQL/Elasticsearch.md",
+                "file": "DevOps-Learn/SQL/JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/SQL/Elasticsearch.md",
+                "file": "DevOps-Learn/SQL/JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/SQL/Elasticsearch.md"
+                "file": "DevOps-Learn/SQL/JOIN.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "DevOps-Learn/Kubernetus/Elasticsearch.md",
     "DevOps-Learn/SQL/СУБД.md",
     "DevOps-Learn/SQL/Коротко о База данных.md",
     "Helping-Sites/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
@@ -195,7 +196,6 @@
     "DevOps-Learn/SQL/PostgreSQL.md",
     "DevOps-Learn/SQL/MongoDB.md",
     "DevOps-Learn/SQL/JOIN.md",
-    "DevOps-Learn/SQL/Elasticsearch.md",
     "DevOps-Learn/Резюме build 0.1.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
     "DevOps-Learn/Java/Java Core.md",

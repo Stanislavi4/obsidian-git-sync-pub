@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "JOIN",
+      "path": "DevOps-Learn/SQL/JOIN.md"
+    },
+    {
       "basename": "Elasticsearch",
-      "path": "DevOps-Learn/SQL/Elasticsearch.md"
+      "path": "DevOps-Learn/Kubernetus/Elasticsearch.md"
     },
     {
       "basename": "СУБД",
@@ -27,10 +31,6 @@
     {
       "basename": "MongoDB",
       "path": "DevOps-Learn/SQL/MongoDB.md"
-    },
-    {
-      "basename": "JOIN",
-      "path": "DevOps-Learn/SQL/JOIN.md"
     },
     {
       "basename": "Резюме build 0.1",
