@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Виртуализация",
+      "path": "DevOps-Learn/Docker/Виртуализация.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "DevOps-Learn/SQL/PostgreSQL.md"
+    },
+    {
+      "basename": "JOIN",
+      "path": "DevOps-Learn/SQL/JOIN.md"
+    },
+    {
+      "basename": "Дорожная карта DevOps 2 1",
+      "path": "Helping-Sites/Дорожная карта DevOps 2 1.md"
+    },
+    {
+      "basename": "Дорожная карта DevOps 1 1",
+      "path": "Helping-Sites/Дорожная карта DevOps 1 1.md"
+    },
+    {
       "basename": "Резюме build 0.3",
       "path": "DevOps-Learn/Резюме build 0.3.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "MongoDB",
       "path": "DevOps-Learn/SQL/MongoDB.md"
-    },
-    {
-      "basename": "JOIN",
-      "path": "DevOps-Learn/SQL/JOIN.md"
     },
     {
       "basename": "Elasticsearch",
@@ -37,10 +53,6 @@
       "path": "DevOps-Learn/SQL/SQL.md"
     },
     {
-      "basename": "PostgreSQL",
-      "path": "DevOps-Learn/SQL/PostgreSQL.md"
-    },
-    {
       "basename": "Java Core",
       "path": "DevOps-Learn/Java/Java Core.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "Описание Резюме",
       "path": "Helping-Sites/Описание Резюме.md"
-    },
-    {
-      "basename": "Дорожная карта DevOps 2 1",
-      "path": "Helping-Sites/Дорожная карта DevOps 2 1.md"
     },
     {
       "basename": "469cb9426633b274f0549dce921fa60b_MD5",
@@ -87,10 +95,6 @@
     {
       "basename": "Дорожная карта DevOps 3 1",
       "path": "Helping-Sites/Дорожная карта DevOps 3 1.md"
-    },
-    {
-      "basename": "Дорожная карта DevOps 1 1",
-      "path": "Helping-Sites/Дорожная карта DevOps 1 1.md"
     },
     {
       "basename": "Операционная система",
@@ -195,10 +199,6 @@
     {
       "basename": "Контейнеризация",
       "path": "DevOps-Learn/Docker/Контейнеризация.md"
-    },
-    {
-      "basename": "Как изучать Компьютерные Науки. (Computer Science)",
-      "path": "Lab-Work/Как изучать Компьютерные Науки. (Computer Science).md"
     }
   ],
   "omittedPaths": [],
