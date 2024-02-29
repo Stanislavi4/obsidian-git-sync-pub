@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Импорт сертификатов из винды в линукс",
+      "path": "Lab-Work/Импорт сертификатов из винды в линукс.md"
+    },
+    {
       "basename": "Контейнеризация",
       "path": "DevOps-Learn/Docker/Контейнеризация.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Сервер",
       "path": "DevOps-Learn/Kubernetus/Сервер.md"
-    },
-    {
-      "basename": "Как появились контейнеры",
-      "path": "DevOps-Learn/Docker/Как появились контейнеры.md"
     }
   ],
   "omittedPaths": [],
