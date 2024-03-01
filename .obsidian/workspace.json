@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/IT.md",
+                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/IT.md",
+                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/IT.md",
+                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/IT.md"
+                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "Helping-Sites/IT.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тесты, юнит-тесты, черный ящик.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
     "DevOps-Learn/CI-CD/Проекты в Git, понимание процесса разработки.md",
@@ -223,7 +224,6 @@
     "DevOps-Learn/SQL/SQL.md",
     "DevOps-Learn/Java/Java Core.md",
     "DevOps-Learn/Windows/Резюме build 0.2.md",
-    "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "Без названия.canvas",

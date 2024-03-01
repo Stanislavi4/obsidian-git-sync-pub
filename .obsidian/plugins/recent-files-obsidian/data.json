@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Unit-тестирование",
+      "path": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md"
+    },
+    {
       "basename": "IT",
       "path": "Helping-Sites/IT.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "top, htop, atop - утилиты вывода списока процессов в реальном времени",
       "path": "DevOps-Learn/Bash/top, htop, atop - утилиты вывода списока процессов в реальном времени.md"
-    },
-    {
-      "basename": "CSS",
-      "path": "DevOps-Learn/Frontend/CSS.md"
     }
   ],
   "omittedPaths": [],
