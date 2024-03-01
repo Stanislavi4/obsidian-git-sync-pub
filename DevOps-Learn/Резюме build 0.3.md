@@ -62,4 +62,5 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 Гражданство: Россия 
 
 Apaache kafka поигратся с ним, 
+Поигратся с сетями:
 netfilter -> iptbles/firewalld -> nftables  -> ufw
