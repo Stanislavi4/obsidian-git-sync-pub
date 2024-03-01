@@ -32,7 +32,7 @@
   "parallelMessageProcessing": false,
   "processOldMessages": false,
   "processOldMessagesSettings": {
-    "lastProcessingDate": 1709273580,
+    "lastProcessingDate": 1709273839,
     "daysLimit": 14,
     "dialogsLimit": 100,
     "messagesLimit": 1000,
