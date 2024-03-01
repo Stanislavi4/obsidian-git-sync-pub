@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "люди",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md"
+                "file": "Helping-Sites/Известные люди в IT которых обязан знать..md"
               }
             }
           },
@@ -189,8 +190,8 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
-    "DevOps-Learn/Резюме build 0.2.1.md",
     "DevOps-Learn/Резюме build 0.3.md",
+    "DevOps-Learn/Резюме build 0.2.1.md",
     "Lab-Work/Примеры.md",
     "Telegram-notes/❻ способов построить диаграмму - 2024-03-01-12-17.md",
     "Telegram-notes/photos/photo_2133256537_14 - 20240301121715601.jpg",
