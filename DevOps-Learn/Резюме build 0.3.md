@@ -75,3 +75,4 @@ netfilter -> iptbles/firewalld -> nftables  -> ufw
 Zabbix полный мониторинг аппаратной части ос windows, mikrotik.
 centos 6 + roundcube + mailserver +postmail, fail2ban, 
 centor 6 машрутизатор iptables +fail2ban. Дописывал конфиг.
+Избавился от центоса в пользу микротика.
