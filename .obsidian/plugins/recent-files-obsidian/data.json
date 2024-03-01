@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Тестирование черного и белого ящика в чем разница",
+      "path": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md"
+    },
+    {
+      "basename": "Проекты в Git, понимание процесса разработки",
+      "path": "DevOps-Learn/CI-CD/Проекты в Git, понимание процесса разработки.md"
+    },
+    {
       "basename": "Известные люди в IT которых обязан знать.",
       "path": "Helping-Sites/Известные люди в IT которых обязан знать..md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "БЭМ -«Блок, Элемент, Модификатор»",
       "path": "DevOps-Learn/Frontend/БЭМ -«Блок, Элемент, Модификатор».md"
-    },
-    {
-      "basename": "Sass",
-      "path": "DevOps-Learn/Frontend/Sass.md"
-    },
-    {
-      "basename": "Коротко о Kubernetus",
-      "path": "DevOps-Learn/Kubernetus/Коротко о Kubernetus.md"
     }
   ],
   "omittedPaths": [],
