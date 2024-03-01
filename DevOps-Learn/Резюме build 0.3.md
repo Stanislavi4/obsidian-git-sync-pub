@@ -65,3 +65,4 @@ Apaache kafka поигратся с ним,
 Поигратся с сетями:
 netfilter -> iptbles/firewalld -> nftables  -> ufw
 фишинэбильных заведениях, 
+защита бюджета, планирование бюджета
