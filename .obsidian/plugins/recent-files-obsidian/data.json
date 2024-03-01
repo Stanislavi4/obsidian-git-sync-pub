@@ -5,6 +5,10 @@
       "path": "DevOps-Learn/Резюме build 0.3.md"
     },
     {
+      "basename": "Резюме build 0.2.1",
+      "path": "DevOps-Learn/Резюме build 0.2.1.md"
+    },
+    {
       "basename": "Примеры",
       "path": "Lab-Work/Примеры.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Дорожная карта DevOps 1 1",
       "path": "Helping-Sites/Дорожная карта DevOps 1 1.md"
-    },
-    {
-      "basename": "Резюме build 0.2.1",
-      "path": "DevOps-Learn/Резюме build 0.2.1.md"
     },
     {
       "basename": "MongoDB",
