@@ -61,3 +61,4 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 Водительские права: категория "B" (14.11.2020 )
 Гражданство: Россия 
 
+Apaache kafka поигратся с ним, 
