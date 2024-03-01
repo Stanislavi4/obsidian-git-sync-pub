@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
+                "file": "Helping-Sites/IT.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
+                "file": "Helping-Sites/IT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
+                "file": "Helping-Sites/IT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md"
+                "file": "Helping-Sites/IT.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тесты, юнит-тесты, черный ящик.md",
+    "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
     "DevOps-Learn/CI-CD/Проекты в Git, понимание процесса разработки.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "DevOps-Learn/Резюме build 0.3.md",
@@ -222,8 +224,6 @@
     "DevOps-Learn/Java/Java Core.md",
     "DevOps-Learn/Windows/Резюме build 0.2.md",
     "DevOps-Learn/Windows/Резюме Бетта ChatGPT.md",
-    "DevOps-Learn/Windows/Резюме Альфа.md",
-    "Helping-Sites/Описание Резюме.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "Без названия.canvas",

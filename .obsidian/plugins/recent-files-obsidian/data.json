@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IT",
+      "path": "Helping-Sites/IT.md"
+    },
+    {
+      "basename": "Тесты, юнит-тесты, черный ящик",
+      "path": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тесты, юнит-тесты, черный ящик.md"
+    },
+    {
       "basename": "Тестирование черного и белого ящика в чем разница",
       "path": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "CSS",
       "path": "DevOps-Learn/Frontend/CSS.md"
-    },
-    {
-      "basename": "Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle",
-      "path": "Helping-Sites/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle/Точечный обход блокировок на Mikrotik BGP и Address lists + Mangle.md"
-    },
-    {
-      "basename": "БЭМ -«Блок, Элемент, Модификатор»",
-      "path": "DevOps-Learn/Frontend/БЭМ -«Блок, Элемент, Модификатор».md"
     }
   ],
   "omittedPaths": [],
