@@ -73,4 +73,5 @@ netfilter -> iptbles/firewalld -> nftables  -> ufw
 потом неуспешные задачи, организационные вопросы, связанные с 1с включительно.
 на конец неплохие задачи которые работают до сих пор. Domain, AD, GPO, DNS-server, 
 Zabbix полный мониторинг аппаратной части ос windows, mikrotik.
-centos + roundcube + mailserver +postmail, fail2ban, 
+centos 6 + roundcube + mailserver +postmail, fail2ban, 
+centor 6 машрутизатор iptables +fail2ban. Дописывал конфиг.
