@@ -76,3 +76,4 @@ Zabbix полный мониторинг аппаратной части ос wi
 centos 6 + roundcube + mailserver +postmail, fail2ban, 
 centor 6 машрутизатор iptables +fail2ban. Дописывал конфиг.
 Избавился от центоса в пользу микротика.
+это веселое keenetic перевести в openwrt запиливание прошивок в принтер
