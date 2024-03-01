@@ -56,9 +56,8 @@ Linux, Unix-like, Centos, Ubuntu, Debian, Bash, Vim, Nginx, Apache kafka, Rabbit
 Обо мне:
 Добрый день!   Я трудолюбив и увлечен computer science. Обладаю целеустремленностью, исполнительностью и умением разрешать конфликтные ситуации. Готов принимать решения и нести ответственность за свои действия. Открыт для новых знаний и быстро усваиваю новую информацию. Обладаю самостоятельностью, организованностью и инициативностью. Легко нахожу общий язык с людьми и готов к работе в команде.
 
-Ключевые навыки:  Linux, CI/CD, Devops, docker, Kubernetes, Ansible, [[PostgreSQL]],  [[Kafka Apache]] , helm, Git, Gitlab, PromoxVE, Prometheus, Garbache collector [[Java Core]]  
+Ключевые навыки:  Linux, CI/CD, Devops, docker, Kubernetes, Ansible, [[PostgreSQL]],  [[Kafka Apache]] , Git, Gitlab, PromoxVE, Prometheus, Garbache collector [[Java Core]]  
 
 Водительские права: категория "B" (14.11.2020 )
-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
 Гражданство: Россия 
 

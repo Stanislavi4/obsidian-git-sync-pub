@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unix-like",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
+                "file": "DevOps-Learn/Резюме build 0.3.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "DevOps-Learn/Docker/Контейнеризация.md",
     "DevOps-Learn/Docker/Виртуализация.md",
@@ -216,7 +217,6 @@
     "Telegram-notes/__Док-панель Cairo-Dock____Cai - 2024-02-28-18-45.md",
     "Helping-Sites/Английский язык для программиста how to.md",
     "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md",
-    "DevOps-Learn/Что делать от DDoS атаки на linux.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "Без названия.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
