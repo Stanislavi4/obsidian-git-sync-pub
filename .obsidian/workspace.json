@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "DevOps-Learn/Резюме build 0.2.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "DevOps-Learn/Резюме build 0.2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "DevOps-Learn/Резюме build 0.2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md"
+                "file": "DevOps-Learn/Резюме build 0.2.1.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "DevOps-Learn/Резюме build 0.3.md",
     "Helping-Sites/Описание Резюме.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
     "Telegram-notes/👣__ Jet____Jet - это комплекс - 2024-03-02-00-27.md",
@@ -200,7 +201,6 @@
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
     "DevOps-Learn/CI-CD/Проекты в Git, понимание процесса разработки.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
-    "DevOps-Learn/Резюме build 0.3.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
     "Lab-Work/Примеры.md",
     "Telegram-notes/❻ способов построить диаграмму - 2024-03-01-12-17.md",
