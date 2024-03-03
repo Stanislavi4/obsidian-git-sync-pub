@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тесты",
+                "query": "резюме",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md"
+                "file": "DevOps-Learn/Резюме build 0.3.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "Helping-Sites/Описание Резюме.md",
+    "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
     "Telegram-notes/👣__ Jet____Jet - это комплекс - 2024-03-02-00-27.md",
     "Telegram-notes/photos/photo_2133256537_15 - 20240302002716842.jpg",
     "Telegram-notes/А я вам тут еще одно бонусное  - 2024-03-02-00-26.md",
@@ -223,8 +225,6 @@
     "DevOps-Learn/Kubernetus/Elasticsearch.md",
     "DevOps-Learn/SQL/СУБД.md",
     "DevOps-Learn/SQL/Коротко о База данных.md",
-    "Helping-Sites/UML - Это графический язык, который с помощью диаграмм и схем описывает разнообразные процессы и структуры.md",
-    "DevOps-Learn/SQL/SQL.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "Без названия.canvas",
