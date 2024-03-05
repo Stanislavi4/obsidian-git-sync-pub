@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.2.1.md"
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md"
               }
             }
           },
@@ -190,6 +190,10 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
+    "DevOps-Learn/Резюме build 0.2.1.md",
+    "Telegram-notes/🖼__ Новая нейросеть, которая  - 2024-03-04-22-14.md",
+    "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
     "DevOps-Learn/Резюме build 0.3.md",
     "Helping-Sites/Описание Резюме.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
@@ -201,7 +205,6 @@
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
     "DevOps-Learn/CI-CD/Проекты в Git, понимание процесса разработки.md",
     "Helping-Sites/Известные люди в IT которых обязан знать..md",
-    "DevOps-Learn/Резюме build 0.2.1.md",
     "Lab-Work/Примеры.md",
     "Telegram-notes/❻ способов построить диаграмму - 2024-03-01-12-17.md",
     "Telegram-notes/photos/photo_2133256537_14 - 20240301121715601.jpg",
@@ -213,7 +216,6 @@
     "Telegram-notes/__Крутой способ узнать детали  - 2024-03-01-12-12.md",
     "Telegram-notes/videos/dr_cintas-1761784804704497731-20240225_190644-vid1 - 20240301121257826.mp4",
     "Telegram-notes/videos",
-    "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "DevOps-Learn/Docker/Контейнеризация.md",
     "DevOps-Learn/Docker/Виртуализация.md",
@@ -224,7 +226,6 @@
     "DevOps-Learn/SQL/MongoDB.md",
     "DevOps-Learn/Kubernetus/Elasticsearch.md",
     "DevOps-Learn/SQL/СУБД.md",
-    "DevOps-Learn/SQL/Коротко о База данных.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "Без названия.canvas",
@@ -238,7 +239,6 @@
     "Lab-Work",
     "Telegram-notes/documents/Xray_mikrotik_rb5009 - 20240223030253817.docx",
     "Telegram-notes/documents",
-    "Helping-Sites/Как скопировать файлы с помощью команды ср в Linux  ИТ Блог. Администрирование серверов на основе Linux (Ubuntu, Debian, CentOS, openSUSE)",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
 }
