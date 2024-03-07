@@ -26,9 +26,11 @@
             "id": "c403d1af61f06359",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md"
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -99,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md"
+                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md"
               }
             }
           },
@@ -203,8 +206,8 @@
   },
   "active": "c403d1af61f06359",
   "lastOpenFiles": [
-    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
+    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Резюме build 0.2.1.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Lab-Work/Импорт сертификатов из винды в линукс.md",
