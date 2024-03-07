@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md"
+                "file": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "d8a6e58680ecdc3e",
   "lastOpenFiles": [
+    "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
     "Telegram-notes/🖼__ Новая нейросеть, которая  - 2024-03-04-22-14.md",
@@ -216,7 +217,6 @@
     "Telegram-notes/__Крутой способ узнать детали  - 2024-03-01-12-12.md",
     "Telegram-notes/videos/dr_cintas-1761784804704497731-20240225_190644-vid1 - 20240301121257826.mp4",
     "Telegram-notes/videos",
-    "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "DevOps-Learn/Docker/Контейнеризация.md",
     "DevOps-Learn/Docker/Виртуализация.md",
     "DevOps-Learn/SQL/PostgreSQL.md",
