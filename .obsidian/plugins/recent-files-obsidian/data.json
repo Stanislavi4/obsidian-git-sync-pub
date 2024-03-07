@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Proxmox shell",
+      "path": "Lab-Work/Proxmox shell.md"
+    },
+    {
       "basename": "Импорт сертификатов из винды в линукс",
       "path": "Lab-Work/Импорт сертификатов из винды в линукс.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "pfSense_настройка_BGP - 20240223030304237",
       "path": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
-    },
-    {
-      "basename": "Виртуальная машина",
-      "path": "DevOps-Learn/Docker/Виртуальная машина.md"
     }
   ],
   "omittedPaths": [],

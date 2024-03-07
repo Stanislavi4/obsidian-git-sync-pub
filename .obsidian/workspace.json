@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
+                "file": "Lab-Work/Proxmox shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
+                "file": "Lab-Work/Proxmox shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md",
+                "file": "Lab-Work/Proxmox shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work/Импорт сертификатов из винды в линукс.md"
+                "file": "Lab-Work/Proxmox shell.md"
               }
             }
           },
@@ -206,11 +205,12 @@
   },
   "active": "c403d1af61f06359",
   "lastOpenFiles": [
+    "Lab-Work/Импорт сертификатов из винды в линукс.md",
+    "Lab-Work/Proxmox shell.md",
     "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Резюме build 0.2.1.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
-    "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "Telegram-notes/🖼__ Новая нейросеть, которая  - 2024-03-04-22-14.md",
     "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
     "DevOps-Learn/Резюме build 0.3.md",
