@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Сетевые порты DevOps",
+      "path": "DevOps-Learn/Сетевые порты DevOps.md"
+    },
+    {
       "basename": "Резюме build 0.3",
       "path": "DevOps-Learn/Резюме build 0.3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "У себя вместо tun2socks исполь - 2024-02-23-03-02",
       "path": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md"
-    },
-    {
-      "basename": "pfSense_настройка_BGP - 20240223030304237",
-      "path": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
     }
   ],
   "omittedPaths": [],

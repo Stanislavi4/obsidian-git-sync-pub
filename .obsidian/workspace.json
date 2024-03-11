@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "DevOps-Learn/Сетевые порты DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "DevOps-Learn/Сетевые порты DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md",
+                "file": "DevOps-Learn/Сетевые порты DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Резюме build 0.3.md"
+                "file": "DevOps-Learn/Сетевые порты DevOps.md"
               }
             }
           },
@@ -205,9 +205,10 @@
   },
   "active": "c403d1af61f06359",
   "lastOpenFiles": [
+    "DevOps-Learn/Резюме build 0.3.md",
+    "DevOps-Learn/Сетевые порты DevOps.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
-    "DevOps-Learn/Резюме build 0.3.md",
     "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
     "DevOps-Learn/Computer Sicence/Операционная система.md",
     "DevOps-Learn/Computer Sicence",
