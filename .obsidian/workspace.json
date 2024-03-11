@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learn/Операционная система.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learn/Операционная система.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learn/Операционная система.md",
+                "file": "DevOps-Learn/Резюме build 0.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learn/Операционная система.md"
+                "file": "DevOps-Learn/Резюме build 0.3.md"
               }
             }
           },
@@ -205,14 +205,17 @@
   },
   "active": "c403d1af61f06359",
   "lastOpenFiles": [
-    "DevOps-Learn/Unix-Linux Тематика/Что делать от DDoS атаки на linux.md",
-    "DevOps-Learn/Операционная система.md",
     "DevOps-Learn/Резюме build 0.2.1.md",
+    "DevOps-Learn/История IT для понимания основ.canvas",
     "DevOps-Learn/Резюме build 0.3.md",
+    "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
+    "DevOps-Learn/Computer Sicence/Операционная система.md",
+    "DevOps-Learn/Computer Sicence",
+    "DevOps-Learn/История IT для понимания основ 1/Без названия",
+    "Без названия",
+    "DevOps-Learn/Unix-Linux Тематика/Что делать от DDoS атаки на linux.md",
     "Lab-Work/Proxmox shell.md",
     "Lab-Work/Импорт сертификатов из винды в линукс.md",
-    "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
-    "DevOps-Learn/История IT для понимания основ.canvas",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Telegram-notes/🖼__ Новая нейросеть, которая  - 2024-03-04-22-14.md",
     "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
@@ -241,7 +244,6 @@
     "DevOps-Learn/Docker/Виртуализация.md",
     "DevOps-Learn/SQL/PostgreSQL.md",
     "DevOps-Learn/SQL/JOIN.md",
-    "Helping-Sites/Дорожная карта DevOps 2 1.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "Без названия.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
@@ -251,9 +253,6 @@
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(2).jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
-    "Lab-Work",
-    "Telegram-notes/documents/Xray_mikrotik_rb5009 - 20240223030253817.docx",
-    "Telegram-notes/documents",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
 }
