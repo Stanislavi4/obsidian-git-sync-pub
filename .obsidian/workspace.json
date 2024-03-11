@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work/Proxmox shell.md",
+                "file": "DevOps-Learn/Операционная система.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work/Proxmox shell.md",
+                "file": "DevOps-Learn/Операционная система.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work/Proxmox shell.md",
+                "file": "DevOps-Learn/Операционная система.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work/Proxmox shell.md"
+                "file": "DevOps-Learn/Операционная система.md"
               }
             }
           },
@@ -205,15 +205,17 @@
   },
   "active": "c403d1af61f06359",
   "lastOpenFiles": [
-    "Lab-Work/Импорт сертификатов из винды в линукс.md",
+    "DevOps-Learn/Unix-Linux Тематика/Что делать от DDoS атаки на linux.md",
+    "DevOps-Learn/Операционная система.md",
+    "DevOps-Learn/Резюме build 0.2.1.md",
+    "DevOps-Learn/Резюме build 0.3.md",
     "Lab-Work/Proxmox shell.md",
+    "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
     "DevOps-Learn/История IT для понимания основ.canvas",
-    "DevOps-Learn/Резюме build 0.2.1.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Telegram-notes/🖼__ Новая нейросеть, которая  - 2024-03-04-22-14.md",
     "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
-    "DevOps-Learn/Резюме build 0.3.md",
     "Helping-Sites/Описание Резюме.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
     "Telegram-notes/👣__ Jet____Jet - это комплекс - 2024-03-02-00-27.md",
@@ -240,8 +242,6 @@
     "DevOps-Learn/SQL/PostgreSQL.md",
     "DevOps-Learn/SQL/JOIN.md",
     "Helping-Sites/Дорожная карта DevOps 2 1.md",
-    "Helping-Sites/Дорожная карта DevOps 1 1.md",
-    "DevOps-Learn/SQL/MongoDB.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "Без названия.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",

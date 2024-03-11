@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Операционная система",
+      "path": "DevOps-Learn/Операционная система.md"
+    },
+    {
+      "basename": "Что делать от DDoS атаки на linux",
+      "path": "DevOps-Learn/Unix-Linux Тематика/Что делать от DDoS атаки на linux.md"
+    },
+    {
+      "basename": "Резюме build 0.2.1",
+      "path": "DevOps-Learn/Резюме build 0.2.1.md"
+    },
+    {
+      "basename": "Резюме build 0.3",
+      "path": "DevOps-Learn/Резюме build 0.3.md"
+    },
+    {
       "basename": "Proxmox shell",
       "path": "Lab-Work/Proxmox shell.md"
     },
@@ -17,16 +33,8 @@
       "path": "DevOps-Learn/История IT для понимания основ.canvas"
     },
     {
-      "basename": "Резюме build 0.2.1",
-      "path": "DevOps-Learn/Резюме build 0.2.1.md"
-    },
-    {
       "basename": "Первые действия когда заходим на сервер unix-like",
       "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
-    },
-    {
-      "basename": "Резюме build 0.3",
-      "path": "DevOps-Learn/Резюме build 0.3.md"
     },
     {
       "basename": "Описание Резюме",
@@ -137,20 +145,12 @@
       "path": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md"
     },
     {
-      "basename": "Что делать от DDoS атаки на linux",
-      "path": "DevOps-Learn/Что делать от DDoS атаки на linux.md"
-    },
-    {
       "basename": "Основные протоколы и порты необходимые знать для DevOps",
       "path": "Helping-Sites/Основные протоколы и порты необходимые знать для DevOps.md"
     },
     {
       "basename": "Дорожная карта DevOps 3 1",
       "path": "Helping-Sites/Дорожная карта DevOps 3 1.md"
-    },
-    {
-      "basename": "Операционная система",
-      "path": "DevOps-Learn/Операционная система.md"
     },
     {
       "basename": "VIM интсрукция",
