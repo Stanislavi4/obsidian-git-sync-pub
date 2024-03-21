@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Создание cloud-init шаблонов",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md"
+    },
+    {
+      "basename": "Proxmox shell",
+      "path": "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md"
+    },
+    {
       "basename": "Сетевые порты DevOps",
       "path": "DevOps-Learn/Сетевые порты DevOps.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Что делать от DDoS атаки на linux",
       "path": "DevOps-Learn/Unix-Linux Тематика/Что делать от DDoS атаки на linux.md"
-    },
-    {
-      "basename": "Proxmox shell",
-      "path": "Lab-Work/Proxmox shell.md"
     },
     {
       "basename": "Импорт сертификатов из винды в линукс",
@@ -195,10 +199,6 @@
     {
       "basename": "Lab-Work",
       "path": "Lab-Work/Lab-Work.md"
-    },
-    {
-      "basename": "У себя вместо tun2socks исполь - 2024-02-23-03-02",
-      "path": "Telegram-notes/У себя вместо tun2socks исполь - 2024-02-23-03-02.md"
     }
   ],
   "omittedPaths": [],
