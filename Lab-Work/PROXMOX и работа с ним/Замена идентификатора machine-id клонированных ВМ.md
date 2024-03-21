@@ -36,3 +36,17 @@ Initializing machine ID from D-Bus machine ID.
 
 ЛИБО
 
+## Устранение неполадок[](https://technotim.live/posts/cloud-init-cloud-image/#troubleshooting)
+
+Если вам нужно сбросить идентификатор вашего компьютера
+
+```
+sudo rm -f /etc/machine-id
+sudo rm -f /var/lib/dbus/machine-id
+
+```
+Затем выключите его и не загружайте. Новый идентификатор будет сгенерирован при следующей загрузке.Если этого не произойдет, вы можете запустить:
+
+```
+sudo systemd-machine-id-setup
+```
