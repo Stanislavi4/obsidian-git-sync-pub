@@ -23,6 +23,7 @@ root@SERVER2:~# hostnamectl | grep "Machine ID"
 - Возвращаем исходные права доступа на файл /etc/machine-id
     
 
+```
 # chmod 644 /etc/machine-id
 # > /etc/machine-id
 # systemd-machine-id-setup
@@ -30,3 +31,8 @@ Initializing machine ID from D-Bus machine ID.
 # chmod 444 /etc/machine-id
 # cat /etc/machine-id
 5f3ff6fda7e5a7091651473e648ff962
+```
+
+
+ЛИБО
+
