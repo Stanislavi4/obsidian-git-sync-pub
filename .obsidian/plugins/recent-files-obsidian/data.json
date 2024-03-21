@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Замена идентификатора machine-id клонированных ВМ",
+      "path": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
+    },
+    {
       "basename": "Создание cloud-init шаблонов",
       "path": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Команды необходимые в bash",
       "path": "DevOps-Learn/Bash/Команды необходимые в bash.md"
-    },
-    {
-      "basename": "Lab-Work",
-      "path": "Lab-Work/Lab-Work.md"
     }
   ],
   "omittedPaths": [],

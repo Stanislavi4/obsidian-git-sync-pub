@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md",
+                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md",
+                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md",
+                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md"
+                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
               }
             }
           },
@@ -205,8 +205,9 @@
   },
   "active": "c403d1af61f06359",
   "lastOpenFiles": [
-    "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md",
     "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md",
+    "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
+    "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md",
     "DevOps-Learn/Сетевые порты DevOps.md",
     "Lab-Work/PROXMOX и работа с ним",
     "Telegram-notes/В Windows 10 тестируются новые - 2024-03-21-14-35.md",
@@ -245,7 +246,6 @@
     "Telegram-notes/videos/dr_cintas-1761784804704497731-20240225_190644-vid1 - 20240301121257826.mp4",
     "Telegram-notes/videos",
     "DevOps-Learn/Docker/Контейнеризация.md",
-    "DevOps-Learn/Docker/Виртуализация.md",
     "469cb9426633b274f0549dce921fa60b_MD5.png",
     "Без названия.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
