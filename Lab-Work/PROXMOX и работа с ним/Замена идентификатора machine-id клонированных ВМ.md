@@ -97,3 +97,8 @@ bashCopy code
 `sudo systemctl enable machine-id-setup.service`
 
 Теперь служба `machine-id-setup.service` будет запущена только один раз при первой загрузке системы.
+
+Документация:
+то для дистров без системди, для системди же надо написать uninitialized емнип
+можешь вон доку почитать по системде
+https://www.freedesktop.org/software/systemd/man/latest/machine-id.html
