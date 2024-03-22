@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Чтобы включить QEMU Guest Agent",
+      "path": "Lab-Work/PROXMOX и работа с ним/Чтобы включить QEMU Guest Agent.md"
+    },
+    {
       "basename": "Замена идентификатора machine-id клонированных ВМ",
       "path": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Программное обеспечение",
       "path": "DevOps-Learn/Bash/Программное обеспечение.md"
-    },
-    {
-      "basename": "Команды необходимые в bash",
-      "path": "DevOps-Learn/Bash/Команды необходимые в bash.md"
     }
   ],
   "omittedPaths": [],
