@@ -52,4 +52,48 @@ sudo systemd-machine-id-setup
 ```
 
 
-А так же автоматический запуск службы
+А так же автоматический запуск службы:
+Вот как это сделать:
+
+1. Создайте файл службы, например, `machine-id-setup.service`, в каталоге `/etc/systemd/system/`:
+
+bashCopy code
+
+`sudo nano /etc/systemd/system/machine-id-setup.service`
+
+2. Вставьте следующий юнит для службы:
+
+plaintextCopy code
+
+```
+[Unit]
+Description=Machine ID Setup
+DefaultDependencies=no
+After=local-fs.target
+Before=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/systemd-machine-id-setup
+RemainAfterExit=true
+
+[Install]
+WantedBy=multi-user.target
+
+```
+3. Сохраните и закройте файл.
+    
+4. Затем выполните следующую команду для перезагрузки конфигурации systemd:
+    
+
+bashCopy code
+
+`sudo systemctl daemon-reload`
+
+5. Активируйте службу для выполнения ее при следующей загрузке системы:
+
+bashCopy code
+
+`sudo systemctl enable machine-id-setup.service`
+
+Теперь служба `machine-id-setup.service` будет запущена только один раз при первой загрузке системы.
