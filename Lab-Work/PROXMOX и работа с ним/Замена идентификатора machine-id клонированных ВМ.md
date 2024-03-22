@@ -50,3 +50,6 @@ sudo rm -f /var/lib/dbus/machine-id
 ```
 sudo systemd-machine-id-setup
 ```
+
+
+А так же автоматический запуск службы
