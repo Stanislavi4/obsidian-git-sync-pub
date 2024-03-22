@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "6df2c7f166db2172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4bd83bd2ce2ecf4b",
             "type": "leaf",
             "state": {
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +215,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c403d1af61f06359",
+  "active": "6df2c7f166db2172",
   "lastOpenFiles": [
     "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md",
     "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
