@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Создание zerotier в режиме site-to-site",
-      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md"
-    },
-    {
       "basename": "Создание zerotier в режиме VPN (routing global)",
       "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md"
     },
     {
-      "basename": "Первые действия когда заходим на сервер unix-like",
-      "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
+      "basename": "Создание zerotier в режиме site-to-site",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md"
     },
     {
       "basename": "Замена идентификатора machine-id клонированных ВМ",
       "path": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
+    },
+    {
+      "basename": "Первые действия когда заходим на сервер unix-like",
+      "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
     },
     {
       "basename": "Чтобы включить QEMU Guest Agent",
