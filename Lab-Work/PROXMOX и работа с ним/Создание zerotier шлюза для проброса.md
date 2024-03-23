@@ -32,7 +32,10 @@ curl -s https://install.zerotier.com | sudo bash
 ### Теперь давайте установим некоторые переменные оболочки[](https://docs.zerotier.com/bridging#lets-set-some-shell-variables-now "Прямая ссылка на Давайте установим некоторые переменные оболочки прямо сейчас")
 
 ```
-NETWORK_ID=<your-network-id>BR_IF="br0"BR_ADDR=<your-bridge-address>GW_ADDR=<your-gateway-address>
+NETWORK_ID=<your-network-id>
+BR_IF="br0"
+BR_ADDR=<your-bridge-address>
+GW_ADDR=<your-gateway-address>
 ```
 
 ### Присоединяйтесь к сети ZeroTier[](https://docs.zerotier.com/bridging#join-zerotier-network "Прямая ссылка для подключения к сети ZeroTier")
