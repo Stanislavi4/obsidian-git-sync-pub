@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
+                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier шлюза для проброса.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
+                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier шлюза для проброса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
+                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier шлюза для проброса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
+                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier шлюза для проброса.md"
               }
             }
           },
@@ -217,8 +217,9 @@
   },
   "active": "6df2c7f166db2172",
   "lastOpenFiles": [
-    "Lab-Work/PROXMOX и работа с ним/Чтобы включить QEMU Guest Agent.md",
     "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
+    "Lab-Work/PROXMOX и работа с ним/Создание zerotier шлюза для проброса.md",
+    "Lab-Work/PROXMOX и работа с ним/Чтобы включить QEMU Guest Agent.md",
     "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md",
     "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md",
     "DevOps-Learn/Сетевые порты DevOps.md",
@@ -255,7 +256,6 @@
     "Telegram-notes/photos/photo_2133256537_11 - 20240301121715742.jpg",
     "Telegram-notes/photos/photo_2133256537_10 - 20240301121715122.jpg",
     "Telegram-notes/photos/photo_2133256537_9 - 20240301121715490.jpg",
-    "Telegram-notes/__Крутой способ узнать детали  - 2024-03-01-12-12.md",
     "Telegram-notes/videos/dr_cintas-1761784804704497731-20240225_190644-vid1 - 20240301121257826.mp4",
     "Telegram-notes/videos",
     "469cb9426633b274f0549dce921fa60b_MD5.png",

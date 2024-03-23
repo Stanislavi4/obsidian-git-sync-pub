@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Создание zerotier шлюза для проброса",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier шлюза для проброса.md"
+    },
+    {
       "basename": "Замена идентификатора machine-id клонированных ВМ",
       "path": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Работа с bash",
       "path": "DevOps-Learn/Bash/Работа с bash.md"
-    },
-    {
-      "basename": "Программное обеспечение",
-      "path": "DevOps-Learn/Bash/Программное обеспечение.md"
     }
   ],
   "omittedPaths": [],
