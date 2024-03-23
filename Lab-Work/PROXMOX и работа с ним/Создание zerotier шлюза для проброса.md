@@ -12,10 +12,39 @@
 | Идентификатор сети ZeroTier                  | d5e04297a19bbd70                        | $NETWORK_ID          |
 | Название сетевого интерфейса ZeroTier        | zt3jnwghuq                              | $ZT_IF               |
 Устанавливаем:
+
+### Обновите операционную систему[](https://docs.zerotier.com/bridging#update-the-operating-system "Прямая ссылка для обновления операционной системы")
+
+```
 sudo apt update && sudo apt -y full-upgrade && sudo reboot
+```
+
+После завершения работы снова войдите в систему
+
+### Установите ZeroTier[](https://docs.zerotier.com/bridging#install-zerotier "Прямая ссылка для установки ZeroTier")
+
+https://www.ZeroTier.com/download/
+
 ```
 curl -s https://install.zerotier.com | sudo bash
 ```
 
-sudo zerotier-cli join $NETWORK_ID
+### Теперь давайте установим некоторые переменные оболочки[](https://docs.zerotier.com/bridging#lets-set-some-shell-variables-now "Прямая ссылка на Давайте установим некоторые переменные оболочки прямо сейчас")
 
+```
+NETWORK_ID=<your-network-id>BR_IF="br0"BR_ADDR=<your-bridge-address>GW_ADDR=<your-gateway-address>
+```
+
+### Присоединяйтесь к сети ZeroTier[](https://docs.zerotier.com/bridging#join-zerotier-network "Прямая ссылка для подключения к сети ZeroTier")
+
+```
+sudo zerotier-cli join $NETWORK_ID
+```
+
+### Настройте устройство в ZeroTier Central[](https://docs.zerotier.com/bridging#configure-the-device-in-zerotier-central "Прямая ссылка для настройки устройства в ZeroTier Central")
+
+- Перейдите в раздел Участников сети
+- Откройте значок гаечного ключа для получения дополнительных настроек и проверьте
+- Проверьте Разрешить подключение моста
+- Установите флажок Не назначать автоматически
+- Авторизовать участника
