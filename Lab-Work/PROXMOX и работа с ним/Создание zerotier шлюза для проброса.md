@@ -39,12 +39,11 @@ NETWORK_ID=<your-network-id>BR_IF="br0"BR_ADDR=<your-bridge-address>GW_ADDR=<you
 
 ```
 sudo zerotier-cli join $NETWORK_ID
+sudo zerotier-cli listnetworks - проверяем что сеть ок
 ```
 
 ### Настройте устройство в ZeroTier Central[](https://docs.zerotier.com/bridging#configure-the-device-in-zerotier-central "Прямая ссылка для настройки устройства в ZeroTier Central")
 
 - Перейдите в раздел Участников сети
 - Откройте значок гаечного ключа для получения дополнительных настроек и проверьте
-- Проверьте Разрешить подключение моста
-- Установите флажок Не назначать автоматически
 - Авторизовать участника
