@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Первые действия когда заходим на сервер unix-like",
-      "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
+      "basename": "Создание zerotier в режиме site-to-site",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md"
     },
     {
-      "basename": "Создание zerotier шлюза для проброса",
-      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier шлюза для проброса.md"
+      "basename": "Создание zerotier в режиме VPN (routing global)",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md"
+    },
+    {
+      "basename": "Первые действия когда заходим на сервер unix-like",
+      "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
     },
     {
       "basename": "Замена идентификатора machine-id клонированных ВМ",
@@ -195,10 +199,6 @@
     {
       "basename": "Операторы",
       "path": "DevOps-Learn/Bash/Операторы.md"
-    },
-    {
-      "basename": "Работа с bash",
-      "path": "DevOps-Learn/Bash/Работа с bash.md"
     }
   ],
   "omittedPaths": [],
