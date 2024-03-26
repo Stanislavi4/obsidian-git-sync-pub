@@ -5,16 +5,24 @@
       "path": "Telegram-notes/documents/Гайд vrc.md"
     },
     {
-      "basename": "Краткая личная информация 2023 - 20240223031303257",
-      "path": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf"
+      "basename": "Резюме build 0.3",
+      "path": "DevOps-Learn/Резюме build 0.3.md"
     },
     {
-      "basename": "__В Linux есть несколько полез - 2024-02-23-03-08",
-      "path": "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md"
+      "basename": "Drawing 2024-03-07 07.19.51.excalidraw",
+      "path": "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md"
     },
     {
-      "basename": "Создание zerotier в режиме site-to-site",
-      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md"
+      "basename": "Сетевые порты DevOps",
+      "path": "DevOps-Learn/Сетевые порты DevOps.md"
+    },
+    {
+      "basename": "Замена идентификатора machine-id клонированных ВМ",
+      "path": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
+    },
+    {
+      "basename": "Создание zerotier в режиме VPN (routing global)",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md"
     },
     {
       "basename": "Чтобы включить QEMU Guest Agent",
@@ -23,6 +31,22 @@
     {
       "basename": "Proxmox shell",
       "path": "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md"
+    },
+    {
+      "basename": "Создание cloud-init шаблонов",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md"
+    },
+    {
+      "basename": "Создание zerotier в режиме site-to-site",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md"
+    },
+    {
+      "basename": "Краткая личная информация 2023 - 20240223031303257",
+      "path": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf"
+    },
+    {
+      "basename": "__В Linux есть несколько полез - 2024-02-23-03-08",
+      "path": "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md"
     },
     {
       "basename": "pfSense_настройка_BGP - 20240223030304237",
@@ -49,28 +73,8 @@
       "path": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
     },
     {
-      "basename": "Создание zerotier в режиме VPN (routing global)",
-      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md"
-    },
-    {
-      "basename": "Замена идентификатора machine-id клонированных ВМ",
-      "path": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
-    },
-    {
       "basename": "Первые действия когда заходим на сервер unix-like",
       "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
-    },
-    {
-      "basename": "Создание cloud-init шаблонов",
-      "path": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md"
-    },
-    {
-      "basename": "Сетевые порты DevOps",
-      "path": "DevOps-Learn/Сетевые порты DevOps.md"
-    },
-    {
-      "basename": "Резюме build 0.3",
-      "path": "DevOps-Learn/Резюме build 0.3.md"
     },
     {
       "basename": "Резюме build 0.2.1",
@@ -79,10 +83,6 @@
     {
       "basename": "История IT для понимания основ",
       "path": "DevOps-Learn/История IT для понимания основ.canvas"
-    },
-    {
-      "basename": "Drawing 2024-03-07 07.19.51.excalidraw",
-      "path": "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md"
     },
     {
       "basename": "Операционная система",
