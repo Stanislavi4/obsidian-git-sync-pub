@@ -38,11 +38,9 @@
             "id": "6df2c7f166db2172",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md",
-                "mode": "source",
-                "source": false
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
               }
             }
           },
@@ -133,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md",
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md",
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md"
+                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
               }
             }
           },
@@ -217,8 +215,8 @@
   },
   "active": "6df2c7f166db2172",
   "lastOpenFiles": [
-    "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Telegram-notes/documents/Гайд vrc.md",
+    "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
     "Telegram-notes/photos/photo_2133256537_15 - 20240302002716842.jpg",
@@ -265,7 +263,6 @@
     "Без названия.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
     "Unix+Shell(Raif)/1.pdf",
-    "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
 }
