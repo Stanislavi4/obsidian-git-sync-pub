@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Предысловие.md",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Предысловие.md",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Предысловие.md",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Предысловие.md"
+                "file": "Telegram-notes/documents/Гайд vrc.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "6df2c7f166db2172",
   "lastOpenFiles": [
-    "Telegram-notes/documents/Гайд vrc.md",
     "Предысловие.md",
+    "Telegram-notes/documents/Гайд vrc.md",
     "DevOps-Learn/Резюме build 0.3.md",
     "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
     "DevOps-Learn/Сетевые порты DevOps.md",
