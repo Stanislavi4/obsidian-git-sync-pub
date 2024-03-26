@@ -38,9 +38,11 @@
             "id": "6df2c7f166db2172",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
+                "file": "Telegram-notes/documents/Гайд vrc.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -131,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
+                "file": "Telegram-notes/documents/Гайд vrc.md"
               }
             }
           },
@@ -215,8 +217,9 @@
   },
   "active": "6df2c7f166db2172",
   "lastOpenFiles": [
-    "Telegram-notes/documents/Гайд vrc.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
+    "Telegram-notes/documents/Гайд vrc.md",
+    "Telegram-notes/documents/Гайд vrc.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
     "Telegram-notes/photos/photo_2133256537_15 - 20240302002716842.jpg",
@@ -251,7 +254,6 @@
     "Telegram-notes/А я вам тут еще одно бонусное  - 2024-03-02-00-26.md",
     "Helping-Sites/IT.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тесты, юнит-тесты, черный ящик.md",
-    "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
     "Telegram-notes/photos/photo_2133256537_14 - 20240301121715601.jpg",
     "Telegram-notes/photos/photo_2133256537_13 - 20240301121715977.jpg",
     "Telegram-notes/photos/photo_2133256537_12 - 20240301121715361.jpg",
