@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md",
+                "file": "Предысловие.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md",
+                "file": "Предысловие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md",
+                "file": "Предысловие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram-notes/documents/Гайд vrc.md"
+                "file": "Предысловие.md"
               }
             }
           },
@@ -217,6 +217,8 @@
   },
   "active": "6df2c7f166db2172",
   "lastOpenFiles": [
+    "Telegram-notes/documents/Гайд vrc.md",
+    "Предысловие.md",
     "DevOps-Learn/Резюме build 0.3.md",
     "DevOps-Learn/Drawing 2024-03-07 07.19.51.excalidraw.md",
     "DevOps-Learn/Сетевые порты DevOps.md",
@@ -226,7 +228,6 @@
     "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md",
     "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md",
     "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md",
-    "Telegram-notes/documents/Гайд vrc.md",
     "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md",
     "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",

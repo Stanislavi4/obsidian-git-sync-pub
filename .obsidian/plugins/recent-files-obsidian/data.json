@@ -5,6 +5,10 @@
       "path": "Telegram-notes/documents/Гайд vrc.md"
     },
     {
+      "basename": "Предысловие",
+      "path": "Предысловие.md"
+    },
+    {
       "basename": "Резюме build 0.3",
       "path": "DevOps-Learn/Резюме build 0.3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "469cb9426633b274f0549dce921fa60b_MD5",
       "path": "469cb9426633b274f0549dce921fa60b_MD5.png"
-    },
-    {
-      "basename": "Английский язык для программиста how to",
-      "path": "Helping-Sites/Английский язык для программиста how to.md"
     }
   ],
   "omittedPaths": [],
