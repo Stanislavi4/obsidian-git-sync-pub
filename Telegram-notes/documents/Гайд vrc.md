@@ -25,4 +25,7 @@
 				 Virtual Desktop
 				 SteamVR
 				 Airlink
+				 OVR Advanced Settings
+				 fpsVR
+				 XSOverlay
 				 
