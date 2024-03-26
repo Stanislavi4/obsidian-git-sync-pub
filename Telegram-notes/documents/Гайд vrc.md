@@ -28,4 +28,6 @@
 				 OVR Advanced Settings
 				 fpsVR
 				 XSOverlay
-				 [OpenVR-SpaceCalibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator)
+				 OpenVR-SpaceCalibrator
+	Техника и элементы в танцах
+		
