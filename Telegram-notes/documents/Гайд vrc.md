@@ -22,4 +22,7 @@
 			Расстановка и планировка мебели
 			Девайсы/софт
 				OVR Lighthouse Manager
+				 Virtual Desktop
+				 SteamVR
+				 Airlink
 				 
