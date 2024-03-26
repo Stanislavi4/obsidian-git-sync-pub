@@ -5,12 +5,28 @@
       "path": "Telegram-notes/documents/Гайд vrc.md"
     },
     {
-      "basename": "pfSense_настройка_BGP - 20240223030304237",
-      "path": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
-    },
-    {
       "basename": "Краткая личная информация 2023 - 20240223031303257",
       "path": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf"
+    },
+    {
+      "basename": "__В Linux есть несколько полез - 2024-02-23-03-08",
+      "path": "Telegram-notes/__В Linux есть несколько полез - 2024-02-23-03-08.md"
+    },
+    {
+      "basename": "Создание zerotier в режиме site-to-site",
+      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md"
+    },
+    {
+      "basename": "Чтобы включить QEMU Guest Agent",
+      "path": "Lab-Work/PROXMOX и работа с ним/Чтобы включить QEMU Guest Agent.md"
+    },
+    {
+      "basename": "Proxmox shell",
+      "path": "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md"
+    },
+    {
+      "basename": "pfSense_настройка_BGP - 20240223030304237",
+      "path": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
     },
     {
       "basename": "IMG_9790 - 20240304221445222",
@@ -37,10 +53,6 @@
       "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md"
     },
     {
-      "basename": "Создание zerotier в режиме site-to-site",
-      "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md"
-    },
-    {
       "basename": "Замена идентификатора machine-id клонированных ВМ",
       "path": "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md"
     },
@@ -49,16 +61,8 @@
       "path": "Helping-Sites/Первые действия когда заходим на сервер unix-like.md"
     },
     {
-      "basename": "Чтобы включить QEMU Guest Agent",
-      "path": "Lab-Work/PROXMOX и работа с ним/Чтобы включить QEMU Guest Agent.md"
-    },
-    {
       "basename": "Создание cloud-init шаблонов",
       "path": "Lab-Work/PROXMOX и работа с ним/Создание cloud-init шаблонов.md"
-    },
-    {
-      "basename": "Proxmox shell",
-      "path": "Lab-Work/PROXMOX и работа с ним/Proxmox shell.md"
     },
     {
       "basename": "Сетевые порты DevOps",
@@ -195,10 +199,6 @@
     {
       "basename": "Английский язык для программиста how to",
       "path": "Helping-Sites/Английский язык для программиста how to.md"
-    },
-    {
-      "basename": "5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory",
-      "path": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md"
     }
   ],
   "omittedPaths": [],
