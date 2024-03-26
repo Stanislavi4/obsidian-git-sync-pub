@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Гайд vrc",
+      "path": "Telegram-notes/documents/Гайд vrc.md"
+    },
+    {
+      "basename": "pfSense_настройка_BGP - 20240223030304237",
+      "path": "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf"
+    },
+    {
+      "basename": "Краткая личная информация 2023 - 20240223031303257",
+      "path": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf"
+    },
+    {
+      "basename": "IMG_9790 - 20240304221445222",
+      "path": "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4"
+    },
+    {
+      "basename": "photo_2133256537_15 - 20240302002716842",
+      "path": "Telegram-notes/photos/photo_2133256537_15 - 20240302002716842.jpg"
+    },
+    {
+      "basename": "__Вывести только подкаталоги в - 2024-02-23-03-08",
+      "path": "Telegram-notes/__Вывести только подкаталоги в - 2024-02-23-03-08.md"
+    },
+    {
+      "basename": "photo_2133256537_5 - 20240223030811862",
+      "path": "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg"
+    },
+    {
+      "basename": "photo_2133256537_0 - 20240222222841239",
+      "path": "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg"
+    },
+    {
       "basename": "Создание zerotier в режиме VPN (routing global)",
       "path": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory",
       "path": "Helping-Sites/5 простых способов визуализации данных на Python. Пишем код - Статьи и полезные материалы на тему «Uncategorized» - SkillFactory.md"
-    },
-    {
-      "basename": "Основные протоколы и порты необходимые знать для DevOps",
-      "path": "Helping-Sites/Основные протоколы и порты необходимые знать для DevOps.md"
-    },
-    {
-      "basename": "Дорожная карта DevOps 3 1",
-      "path": "Helping-Sites/Дорожная карта DevOps 3 1.md"
-    },
-    {
-      "basename": "VIM интсрукция",
-      "path": "DevOps-Learn/Bash/VIM интсрукция.md"
-    },
-    {
-      "basename": "0.Начало DevOps обучения, и краткое содержимое",
-      "path": "0.Начало DevOps обучения, и краткое содержимое.md"
-    },
-    {
-      "basename": "0.Начало DevOps обучения, и краткое содержимое",
-      "path": "0.Начало DevOps обучения, и краткое содержимое.canvas"
-    },
-    {
-      "basename": "Краткая личная информация 2023 - 20240223031303257",
-      "path": "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf"
-    },
-    {
-      "basename": "2",
-      "path": "DevOps-Learn/Bash/2.md"
-    },
-    {
-      "basename": "Операторы",
-      "path": "DevOps-Learn/Bash/Операторы.md"
     }
   ],
   "omittedPaths": [],

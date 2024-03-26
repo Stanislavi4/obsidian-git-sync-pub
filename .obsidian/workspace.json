@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md",
+                "file": "Telegram-notes/documents/Гайд vrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md"
+                "file": "Telegram-notes/documents/Гайд vrc.md"
               }
             }
           },
@@ -217,9 +217,17 @@
   },
   "active": "6df2c7f166db2172",
   "lastOpenFiles": [
+    "Telegram-notes/documents/pfSense_настройка_BGP - 20240223030304237.pdf",
+    "Telegram-notes/documents/Гайд vrc.md",
+    "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
+    "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
+    "Telegram-notes/photos/photo_2133256537_15 - 20240302002716842.jpg",
+    "Telegram-notes/__Вывести только подкаталоги в - 2024-02-23-03-08.md",
+    "Telegram-notes/photos/photo_2133256537_5 - 20240223030811862.jpg",
+    "Telegram-notes/photos/photo_2133256537_0 - 20240222222841239.jpg",
+    "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md",
     "8f02379d1cf3f1eadc676cf1e0546853_MD5.png",
     "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме site-to-site.md",
-    "Lab-Work/PROXMOX и работа с ним/Создание zerotier в режиме VPN (routing global).md",
     "Lab-Work/PROXMOX и работа с ним/Замена идентификатора machine-id клонированных ВМ.md",
     "Helping-Sites/Первые действия когда заходим на сервер unix-like.md",
     "Lab-Work/PROXMOX и работа с ним/Чтобы включить QEMU Guest Agent.md",
@@ -239,17 +247,13 @@
     "DevOps-Learn/Unix-Linux Тематика/Что делать от DDoS атаки на linux.md",
     "Lab-Work/Импорт сертификатов из винды в линукс.md",
     "Telegram-notes/🖼__ Новая нейросеть, которая  - 2024-03-04-22-14.md",
-    "Telegram-notes/videos/IMG_9790 - 20240304221445222.MP4",
     "Helping-Sites/Описание Резюме.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Unit-тестирование.md",
     "Telegram-notes/👣__ Jet____Jet - это комплекс - 2024-03-02-00-27.md",
-    "Telegram-notes/photos/photo_2133256537_15 - 20240302002716842.jpg",
     "Telegram-notes/А я вам тут еще одно бонусное  - 2024-03-02-00-26.md",
     "Helping-Sites/IT.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тесты, юнит-тесты, черный ящик.md",
     "DevOps-Learn/Troubleshooting-Траблуштинг всего и вся/Тестирование черного и белого ящика в чем разница.md",
-    "DevOps-Learn/CI-CD/Проекты в Git, понимание процесса разработки.md",
-    "Helping-Sites/Известные люди в IT которых обязан знать..md",
     "Telegram-notes/photos/photo_2133256537_14 - 20240301121715601.jpg",
     "Telegram-notes/photos/photo_2133256537_13 - 20240301121715977.jpg",
     "Telegram-notes/photos/photo_2133256537_12 - 20240301121715361.jpg",
@@ -258,13 +262,9 @@
     "Telegram-notes/photos/photo_2133256537_9 - 20240301121715490.jpg",
     "Telegram-notes/videos/dr_cintas-1761784804704497731-20240225_190644-vid1 - 20240301121257826.mp4",
     "Telegram-notes/videos",
-    "469cb9426633b274f0549dce921fa60b_MD5.png",
     "Без названия.canvas",
     "0.Начало DevOps обучения, и краткое содержимое.canvas",
-    "Telegram-notes/documents/Краткая личная информация 2023 - 20240223031303257.pdf",
     "Unix+Shell(Raif)/1.pdf",
-    "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235.jpg",
-    "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр/61d64686f2f62167fc6a5ef45dbfd235(2).jpg",
     "Helping-Sites/Пять шагов к спасению Linux-сервера, который рухнул  Хабр",
     "DevOps-Learn/Kubernetus/tewst.canvas"
   ]
